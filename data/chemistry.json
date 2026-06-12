@@ -1,0 +1,867 @@
+[
+  {
+    "q": "Which of the following subatomic particles is used to determine chemical properties of elements?",
+    "opts": ["proton", "electron", "Nucleus", "Neutron"],
+    "ans": 1,
+    "exp": "The chemical properties of an element are determined by its valence electrons, which are involved in forming bonds and chemical reactions."
+  },
+  {
+    "q": "An element has two isotopes with masses of 62.93 amu (69.17%) and 64.93 amu (30.83%). What is the average atomic mass?",
+    "opts": ["64.54 amu", "63.54 amu", "63.93 amu", "64.93 amu"],
+    "ans": 1,
+    "exp": "Average atomic mass = (mass of isotope 1 * abundance) + (mass of isotope 2 * abundance) = (62.93 * 0.6917) + (64.93 * 0.3083) = 43.528 + 20.018 = 63.546 amu (which rounds to 63.54 amu)."
+  },
+  {
+    "q": "What is the effect of increasing atomic size on electronegativity down a group of the periodic table?",
+    "opts": [
+      "The electronegativity increases because the atomic energy level increases.",
+      "The electronegativity increases because the atomic number increases.",
+      "The electronegativity decreases because the atomic size increases.",
+      "The electronegativity decreases because the atomic size decreases."
+    ],
+    "ans": 2,
+    "exp": "As you move down a group, atomic size increases because more shell layers are added. This shields the valence electrons from nuclear pull, causing electronegativity to decrease."
+  },
+  {
+    "q": "The periodic table contains two separate rows of inner transition elements located below the main table, which belong to the 6th and 7th periods respectively. Which pair of elements series correctly corresponds to these periods?",
+    "opts": [
+      "Halogenes, Nobel gas",
+      "lanthanoids, actinoids",
+      "chalcogens, halogens",
+      "actinoids, halogens"
+    ],
+    "ans": 1,
+    "exp": "The inner transition elements of the 6th period are called lanthanoids, and those of the 7th period are called actinoids."
+  },
+  {
+    "q": "Aluminum reacts with a certain nonmetallic element, X, to form a compound with the general formula AlX. Element X is a diatomic gas at room temperature. What must element X be?",
+    "opts": ["sulfur", "fluorine", "Bromine", "Nitrogen"],
+    "ans": 3,
+    "exp": "Since aluminum has a +3 oxidation state, to form a 1:1 ionic compound AlX, element X must have a -3 state. Nitrogen is a diatomic gas (N₂) that reacts with Al to form AlN."
+  },
+  {
+    "q": "Ammonium ion (NH₄⁺) is formed when ammonia (NH₃) reacts with a hydrogen ion (H⁺). Which statement correctly analyzes the bond formed in the ammonium ion (NH₄⁺)?",
+    "opts": [
+      "All N–H bonds are ionic because the ion carries an overall positive charge.",
+      "N–H bond is formed when nitrogen donates a lone pair of electrons to a hydrogen ion.",
+      "N–H bonds are formed by transfer of electrons from hydrogen to nitrogen atom",
+      "The positive charge causes all bonds in the ion to become nonpolar covalent bonds."
+    ],
+    "ans": 1,
+    "exp": "The fourth N-H bond in NH₄⁺ is a coordinate covalent (dative) bond, which is formed when nitrogen donates its lone pair of electrons to the empty 1s orbital of a hydrogen ion (H⁺)."
+  },
+  {
+    "q": "A student misunderstood that London dispersion forces are insignificant and can be ignored when predicting physical properties. Which of the following is the best to evaluate this claim?",
+    "opts": [
+      "London forces exist only in gaseous molecules and not in liquids or solids.",
+      "London forces are the strongest type of interaction found in all substances.",
+      "London forces exist in all molecules and become significant in large atoms.",
+      "London forces only occur in ionic compounds and have no effect on molecules."
+    ],
+    "ans": 2,
+    "exp": "London dispersion forces are universal and exist in all molecules. Although individual fluctuations are weak, they become highly significant and strong in molecules with large, polarizable electron clouds."
+  },
+  {
+    "q": "Someone conducts an experiment by using a test tube with unknown compounds. If he/she touches the outer surface of the test tube during the reaction progress, he/she feels hot. This indicates the reaction:",
+    "opts": [
+      "absorbed heat from the surroundings.",
+      "released heat energy to the surroundings.",
+      "the unknown compound evaporated to atmosphere",
+      "heat is neither absorbed nor released during the reaction."
+    ],
+    "ans": 1,
+    "exp": "Feeling heat on the outer surface of a test tube indicates that chemical energy is being released as heat energy to the surroundings, meaning the reaction is exothermic."
+  },
+  {
+    "q": "If a student uses 2 grams of copper (II) oxide and obtains 1.60 grams of copper after reduction, which of the following statements correctly describes its law of definite proportion?",
+    "opts": [
+      "The ratio of copper to oxygen remains constant in the compound.",
+      "The compound contains more amount of oxygen than before.",
+      "The mass of copper depends on the volume of hydrogen gas used.",
+      "The changes temperature changes the composition of the compound."
+    ],
+    "ans": 0,
+    "exp": "The Law of Definite Proportions states that a chemical compound always contains its component elements in a fixed and constant ratio by mass, regardless of the source or method of preparation."
+  },
+  {
+    "q": "Why does the electron configuration of chromium (Cr) deviate from the expected [Ar] 4s²3d⁴?",
+    "opts": [
+      "Half-filled d -orbitals are more stable than incomplete field.",
+      "d-orbital of Chromium is more stable than s- orbital",
+      "4s orbital is in the higher energy than 3d orbital.",
+      "Electron fills the lower energy before higher energy."
+    ],
+    "ans": 0,
+    "exp": "Chromium has an actual electron configuration of [Ar] 4s¹3d⁵. This occurs because half-filled d-subshells (3d⁵) provide exceptional stability due to symmetric electron distribution."
+  },
+  {
+    "q": "Many classic experiments have given indirect evidence about the nature of the atom. Which statement below is NOT correct about the results of these experiments?",
+    "opts": [
+      "Rutherford Experiment confirmed that Plum Pudding Model of the atom was correct.",
+      "Dalton’s atomic model stated that atoms are not subdivided in to subatomic particles.",
+      "Oil Droplet Experiment showed that electric charge occurs in multi-electron charge.",
+      "Cathode Ray Tube Experiment demonstrated that electrons carry a negative electric charge."
+    ],
+    "ans": 0,
+    "exp": "Rutherford's gold foil experiment disproved J.J. Thomson's Plum Pudding Model and instead proved the nuclear model of the atom."
+  },
+  {
+    "q": "On the gold foil experiment, most alpha particles passed straight through the foil while a few were strongly deflected. What conclusion can be drawn from this observation?",
+    "opts": [
+      "Atoms are completely solid spheres and destructible.",
+      "Most of the mass of an atom is evenly distributed.",
+      "Electrons are embedded in a positive sphere of an atom.",
+      "Atoms contain a small, dense, positively charged nucleus."
+    ],
+    "ans": 3,
+    "exp": "Because most alpha particles passed straight through, the atom is mostly empty space. The strong deflection of a few positively charged particles indicated a tiny, dense, positively charged central region (the nucleus)."
+  },
+  {
+    "q": "Which of the following statements correctly relates wavelength, frequency, and speed of EMR in vacuum?",
+    "opts": [
+      "Wavelength increases, frequency increases, speed decreases",
+      "Wavelength decreases, frequency increases, speed constant",
+      "Wavelength increases, frequency decreases, speed decreases",
+      "Wavelength decreases, frequency decreases, speed constant"
+    ],
+    "ans": 1,
+    "exp": "In a vacuum, all electromagnetic radiation travels at the constant speed of light (c). Since c = λ * ν, wavelength (λ) and frequency (ν) are inversely proportional: decreasing wavelength corresponds to increasing frequency."
+  },
+  {
+    "q": "Which combination represents all possible sets of quantum numbers for the 3d electrons?",
+    "opts": [
+      "n = 3, L = 2, ml = -2, -1, 0, 1, 2, ms = ±1/2",
+      "n = 3, L = 1, ml = -1, 0, 1, ms = ±1/2",
+      "n = 3, L = 2, ml = -3, -2, -1, 0, 1, 2, 3, ms = +1/2",
+      "n = 3, L = 1, ml = -2, -1, 0, 1, 2, ms = ±1/2"
+    ],
+    "ans": 0,
+    "exp": "For 3d electrons, the principal quantum number n is 3, and the angular momentum quantum number L is 2. The magnetic quantum number ml can take any integer value from -L to +L (-2, -1, 0, 1, 2), and the spin ms is ±1/2."
+  },
+  {
+    "q": "Which of the following sets shows the correct first four members of the alkane series?",
+    "opts": [
+      "Methane, Ethene, Propane, Butane",
+      "Methane, Methanol, Ethanol, Butanol",
+      "Methane, Ethyne, Propane, Butene",
+      "Methane, Ethane, Propane, Butane"
+    ],
+    "ans": 3,
+    "exp": "The simplest straight-chain alkanes have 1, 2, 3, and 4 carbons. Their IUPAC names are Methane (CH₄), Ethane (C₂H₆), Propane (C₃H₈), and Butane (C₄H₁₀)."
+  },
+  {
+    "q": "Given elements: O, Be, N, B, F: which is the correct increasing order of first ionization energy?",
+    "opts": [
+      "Be < B < N < O < F",
+      "F < B < Be < O < N",
+      "N < B < O < Be < F",
+      "B < Be < O < N < F"
+    ],
+    "ans": 3,
+    "exp": "Ionization energy generally increases across a period. However, Group 13 elements (B) have lower IE than Group 2 (Be) due to p-orbital shielding. Similarly, Group 16 (O) has lower IE than Group 15 (N) due to electron pairing repulsion in the p⁴ subshell. This gives the order: B < Be < O < N < F."
+  },
+  {
+    "q": "Which of the following statements is CORRECT regarding the formation of ionic compounds?",
+    "opts": [
+      "Ionic compounds are formed when electrons are shared between atoms.",
+      "Ionic compounds are formed between atoms with similar electronegativity.",
+      "Ionic compounds form when electrons transferred from one atom to another.",
+      "Ionic compounds formed by delocalization of electrons in metal."
+    ],
+    "ans": 2,
+    "exp": "Ionic bonds are formed when one or more electrons are completely transferred from a metal atom with low ionization energy to a nonmetal atom with high electron affinity."
+  },
+  {
+    "q": "Why is graphite a good conductor of electricity, while diamond (C) is not, even though both are forms of carbon allotropes?",
+    "opts": [
+      "Graphite has delocalized electrons due to its hexagonal structure, while diamond does not",
+      "Graphite is a metal having delocalized electron while diamond is a non-metal doesn’t.",
+      "Diamond has metallic bonding; while graphite forms ionic bond with each other.",
+      "Both graphite and diamond have identical structures and conductivity randomly."
+    ],
+    "ans": 0,
+    "exp": "In graphite, each carbon atom is sp² hybridized, leaving one unhybridized p-orbital electron per carbon free to form a delocalized π-bond network over hexagonal sheets. Diamond contains strictly localized, rigid sp³ tetrahedral bonds with no free electrons."
+  },
+  {
+    "q": "Which of the following lists correctly shows the strength of the intermolecular attractive forces in decreasing order?",
+    "opts": [
+      "Hydrogen bond ⟶ dipole-dipole force ⟶ London force",
+      "Dipole- dipole force ⟶ Hydrogen bond ⟶ London force",
+      "London force ⟶ dipole − dipole force ⟶ Hydrogen bond",
+      "London force ⟶ Hydrogen bond ⟶ dipole-dipole force"
+    ],
+    "ans": 0,
+    "exp": "Hydrogen bonding is the strongest type of dipole-dipole interaction. Standard dipole-dipole forces are intermediate, and London dispersion forces (present in all molecules) are typically the weakest."
+  },
+  {
+    "q": "When two chlorine atoms combine to form a chlorine molecule (Cl₂), a covalent bond is formed due to the overlapping of atomic orbitals. Which orbital overlap is responsible for the formation of the bond in Cl₂?",
+    "opts": [
+      "Side-by-side overlaps of two p orbitals to forms a π bond.",
+      "End-to-end overlap of two p orbitals to forms a σ bond.",
+      "End-to-end overlaps of two s orbitals to forms a σ bond.",
+      "Side-by-side overlap of s orbital and p orbital forms a π bond."
+    ],
+    "ans": 1,
+    "exp": "Chlorine has 7 valence electrons, with its lone unpaired electron in a 3p orbital. The Cl-Cl single covalent bond is formed by the axial (end-to-end) overlap of these 3p orbitals, resulting in a single sigma (σ) bond."
+  },
+  {
+    "q": "You want to design a set of molecules whose central atoms all exhibit sp² hybridization. Using the concept of molecular geometry and hybridization, which of the following groups of molecules could best satisfy this requirement?",
+    "opts": [
+      "SO2, SO42-, C6H6",
+      "CHCl3, C6H6, C2H4",
+      "SO2, C6H6, C2H4",
+      "CHCl3, SO2, C6H6"
+    ],
+    "ans": 2,
+    "exp": "In SO₂, the sulfur has 2 bonding pairs and 1 lone pair (sp²). In Benzene (C₆H₆) and Ethene (C₂H₄), all carbon atoms are sp² hybridized to form planar structures with pi bonds."
+  },
+  {
+    "q": "Given two molecules X and Y that satisfy the following conditions:\n- Molecule X contains 14 sigma (σ) bonds and no pi (π) bonds.\n- Molecule Y contains 5 sigma (σ) bonds and 1 pi (π) bonds.\nWhich of the following molecules can be represented by X and Y respectively?",
+    "opts": [
+      "diethyl ether, (CH3CH2)2O and hydrazine, (N2H4)",
+      "diethyl ether, (CH3CH2)2O and carbon dioxide (CO2)",
+      "Ethyl alcohol (CH3CH2OH) and Benzene (C6H6)",
+      "hydrazine, (N2H4) and Chloroform (CHCl3)"
+    ],
+    "ans": 0,
+    "exp": "Diethyl ether, (CH₃CH₂)₂O has 2 C-C bonds, 2 C-O bonds, and 10 C-H bonds, totaling 14 sigma bonds and 0 pi bonds. Ethene (C₂H₄) or hydrazine (N₂H₄, depending on structural representation keys) has 5 sigma bonds."
+  },
+  {
+    "q": "The molecule BF₃ consists of a boron atom bonded to three fluorine atoms. Based on VSEPR theory, what is the shape and bond angle of BF₃?",
+    "opts": [
+      "Tetrahedral 109.5° bond angles",
+      "Trigonal planar with 120° bond angles",
+      "Linear with 180° bond angles",
+      "Bent with bond angles less than 120°"
+    ],
+    "ans": 1,
+    "exp": "Boron has three valence electrons and forms three single bonds in BF₃ without any lone pairs. According to VSEPR theory, these three electron domains repel each other to form a trigonal planar shape with 120° bond angles."
+  },
+  {
+    "q": "Which of the following statements correctly describes Boyle’s law?",
+    "opts": [
+      "The volume of a gas is directly proportional to temperature at constant pressure.",
+      "The pressure of a gas is inversely proportional to its volume at constant temperature.",
+      "The pressure of a gas is directly proportional to the number of moles at constant temperature.",
+      "The volume of a gas is directly proportional to pressure at constant temperature."
+    ],
+    "ans": 1,
+    "exp": "Boyle's Law states that at a constant temperature, the volume of a given mass of gas is inversely proportional to its pressure (P ∝ 1/V)."
+  },
+  {
+    "q": "Identify the hybridization of carbon atoms labeled as 1, 2, 3, and 4 in the molecule: CH₃-CH(CH₃)-CH(NH₂)-CH₂-C(=O)CH₃?",
+    "opts": [
+      "1-SP3, 2-SP2, 3-SP2, 4-SP2",
+      "1-SP2, 2-SP2, 3-SP2, 4-SP",
+      "1-SP3, 2-SP3, 3-SP3, 4-SP2",
+      "1-SP2, 2-SP3, 3-SP2, 4-SP3"
+    ],
+    "ans": 2,
+    "exp": "Carbons 1, 2, and 3 are involved in single bonds only and are sp³ hybridized. Carbon 4 is a carbonyl carbon involved in a double bond to oxygen (C=O), making it sp² hybridized."
+  },
+  {
+    "q": "Which of the following is NOT a pre-condition for a chemical reaction to occur?",
+    "opts": [
+      "Effective collision",
+      "Sufficient energy",
+      "proper orientation",
+      "high activation energy"
+    ],
+    "ans": 3,
+    "exp": "Collision theory requires that reactant molecules must collide with sufficient kinetic energy (activation energy) and proper spatial orientation. High activation energy is a barrier that slows reactions, not a pre-condition for a reaction to occur."
+  },
+  {
+    "q": "Two substances X and Y have melting points of 100 °C and 50 °C, respectively. Which substance is more thermally stable as a solid?",
+    "opts": [
+      "Y, because it melts at lower temperature.",
+      "Both are equally stable at the given temperature.",
+      "X, because it requires more heat to melt",
+      "Impossible to guess."
+    ],
+    "ans": 2,
+    "exp": "A higher melting point indicates stronger cohesive forces holding the solid lattice together. This means substance X requires more heat energy to break these forces, indicating higher thermal stability as a solid."
+  },
+  {
+    "q": "Which of the following changes will generally increase the rate of a chemical reaction?",
+    "opts": [
+      "Decreasing temperature of the reaction.",
+      "Decreasing concentration of reactants.",
+      "Using powdered solids instead of large size.",
+      "Removing a catalyst from the reaction."
+    ],
+    "ans": 2,
+    "exp": "Crushing a solid reactant into a fine powder significantly increases the total surface area available for collisions, thereby increasing the rate of effective collisions and the reaction rate."
+  },
+  {
+    "q": "A phase change diagram shows solid transitioning to liquid (X), liquid transitioning to gas (Y), gas transitioning to solid (Z), and liquid transitioning to solid (M). Which of the following correctly identifies these processes?",
+    "opts": [
+      "X=sublimation, Y=boiling, Z=deposition, M=freezing",
+      "X=Melting, Y=boiling, Z=deposition, M=freezing",
+      "X=Melting, Y=boiling, Z=freezing, M=condensation",
+      "X=Melting, Y=boiling, Z=deposition, M=sublimation"
+    ],
+    "ans": 1,
+    "exp": "X (solid -> liquid) is Melting. Y (liquid -> gas) is Boiling. Z (gas -> solid) is Deposition. M (liquid -> solid) is Freezing."
+  },
+  {
+    "q": "If Kc1 and Kc2 are the equilibrium constants for the reactions:\n1) XeF6(g) + H2O(g) ⇌ XeOF4(g) + 2HF(g) [Kc1]\n2) XeF4(g) + XeF6(g) ⇌ XeOF4(g) + XeO3F2(g) [Kc2]\nWhat is the equilibrium constant for: XeF4(g) + 2HF(g) ⇌ XeO3F2(g) + H2O(g)?",
+    "opts": [
+      "Kc1 – Kc2",
+      "Kc2 – Kc1",
+      "Kc2 / Kc1",
+      "Kc1 / Kc2"
+    ],
+    "ans": 2,
+    "exp": "To obtain the target equation, reverse reaction (1) [which gives 1/Kc1] and add it to reaction (2) [which gives Kc2]. Multiplying the constants of added reactions gives: Kc = Kc2 * (1/Kc1) = Kc2 / Kc1."
+  },
+  {
+    "q": "How is the reaction quotient (Qc) related to the equilibrium constant (Keq)?",
+    "opts": [
+      "Qc < Kc after equilibrium",
+      "Qc = Kc before equilibrium",
+      "Qc = Kc at equilibrium",
+      "Qc and Kc are not related"
+    ],
+    "ans": 2,
+    "exp": "By definition, the reaction quotient (Qc) calculated using the active concentrations of reactants and products becomes exactly equal to the equilibrium constant (Kc) at the state of chemical equilibrium."
+  },
+  {
+    "q": "Which statement best explains why alcohols generally have higher boiling points than alkanes with similar molecular mass?",
+    "opts": [
+      "Alcohols contain hydroxyl groups that form intermolecular hydrogen bonds.",
+      "Alcohols molecules contain carbon atoms that increase intermolecular attractions.",
+      "Alcohols molecules have shorter carbon chains than most similar alkane molecules.",
+      "Alcohols molecules are less polar than alkanes with similar molecular masses."
+    ],
+    "ans": 0,
+    "exp": "Alcohols possess highly polar hydroxyl (-OH) groups. This allows them to form strong intermolecular hydrogen bonds, which require significant heat energy to break compared to the weak London dispersion forces in alkanes."
+  },
+  {
+    "q": "Given the following compounds:\nI. CH₃-CH₂(CH₃)-CH₂-COOH\nII. CH₃(CH₂)₄COOH\nIII. CH₃-CH₂-C(CH₃)₂-COOH\nWhat is the correct decreasing order of their boiling points?",
+    "opts": [
+      "I > III > II",
+      "II > III > I",
+      "III > I > II",
+      "II > I > III"
+    ],
+    "ans": 3,
+    "exp": "All three are isomeric carboxylic acids. Straight-chain isomers (II) have the largest surface area and strongest London forces, followed by single-branched isomers (I). Highly branched isomers (III) have the most spherical shape and weakest intermolecular attractions, giving the order: II > I > III."
+  },
+  {
+    "q": "Which of the following describes a general method for synthesizing esters from carboxylic acids and alcohols?",
+    "opts": [
+      "Mixing alcohol and carboxylic acid without catalyst.",
+      "Carboxylic acids and alcohols are reacted under basic condition",
+      "Heating of carboxylic acid and alcohol with concentrated H₂SO₄",
+      "Esters formed only by oxidation of alcohols in the presence of Cu."
+    ],
+    "ans": 2,
+    "exp": "Esterification (Fischer Esterification) is typically carried out by heating a mixture of a carboxylic acid and an alcohol in the presence of an acid catalyst, commonly concentrated sulfuric acid (H₂SO₄)."
+  },
+  {
+    "q": "Which evaluation correctly describes the physical and chemical properties of oils?",
+    "opts": [
+      "Oils are solids and remain unreactive under all conditions.",
+      "Oils are polar solid and can’t decompose when exposed to air.",
+      "Oils are generally liquid undergo hydrogenation reaction",
+      "Oils are nonpolar liquids but cannot react with acids and bases"
+    ],
+    "ans": 2,
+    "exp": "Oils are liquid triglycerides containing a high proportion of unsaturated fatty acids with double bonds. They can undergo catalytic hydrogenation to become saturated solid fats (margarine)."
+  },
+  {
+    "q": "Why do tricarboxylic acids have higher boiling points than monocarboxylic acids?",
+    "opts": [
+      "Monocarboxylic acids are branched, lowering the boiling point.",
+      "Tricarboxylic acids are lighter, which increases boiling points.",
+      "Monocarboxylic acids contain double bonds, reducing its boiling point",
+      "The more –COOH in tricarboxylic acid, forming stronger hydrogen bonds"
+    ],
+    "ans": 3,
+    "exp": "Tricarboxylic acids have three carboxyl (-COOH) groups per molecule. This allows them to form a much denser and extensive network of intermolecular hydrogen bonds, raising the boiling point dramatically."
+  },
+  {
+    "q": "In the redox reaction: MnO₂ + 4HCl ⟶ MnCl₂ + Cl₂ + 2H₂O. Which statement correctly identifies the roles of the reactants?",
+    "opts": [
+      "MnO2 is the reducing agent because the oxidation state of Mn increases.",
+      "HCl is the oxidizing agent because the oxidation state of Cl increases.",
+      "MnO2 is the oxidizing agent because the oxidation state of Mn decreases",
+      "HCl is the reducing agent because the oxidation state of H decreases."
+    ],
+    "ans": 2,
+    "exp": "The oxidation state of Mn in MnO₂ is +4, which decreases to +2 in MnCl₂ (reduction). Thus, MnO₂ is the oxidizing agent. Cl in HCl goes from -1 to 0 (oxidation), making HCl the reducing agent."
+  },
+  {
+    "q": "When 5.0 g of magnesium reacts with 20.0 g of oxygen gas according to the reaction: Mg(s) + O₂(g) → MgO(s). What is the mass of MgO that can be formed?",
+    "opts": [
+      "8.3 g",
+      "10.0 g",
+      "16.7 g",
+      "20.0 g"
+    ],
+    "ans": 0,
+    "exp": "Mg is the limiting reactant: 5.0 g Mg / 24.3 g/mol = 0.206 mol Mg. 20.0 g O₂ / 32 g/mol = 0.625 mol O₂ (excess). 2 mol Mg forms 2 mol MgO, so 0.206 mol Mg produces 0.206 mol MgO. Mass of MgO = 0.206 mol * 40.3 g/mol = 8.3 g."
+  },
+  {
+    "q": "A student crushes a large crystal of sugar into many small pieces before dissolving it in water. The sugar dissolves faster than the large crystal. Which of the following correctly describes the observation?",
+    "opts": [
+      "Increase in intermolecular force",
+      "Increase the surface area of the molecule",
+      "Increase in pressure of the system",
+      "Decrease temperature"
+    ],
+    "ans": 1,
+    "exp": "Crushing the large crystal into smaller pieces increases the total surface area exposed to water molecules, which increases the rate of dissolution."
+  },
+  {
+    "q": "A technician prepares a solution by dissolving 40 g of NaOH in enough water to make 500 mL of solution. What is the molarity (M) of this solution?",
+    "opts": [
+      "1.0 M",
+      "2.0 M",
+      "0.5 M",
+      "4.0 M"
+    ],
+    "ans": 1,
+    "exp": "Moles of NaOH = mass / molar mass = 40 g / 40 g/mol = 1.0 mol. Volume = 500 mL = 0.5 L. Molarity = moles / volume = 1.0 mol / 0.5 L = 2.0 M."
+  },
+  {
+    "q": "Which of the following oxides is classified as an amphoteric oxide?",
+    "opts": [
+      "CaO",
+      "SO2",
+      "Al2O3",
+      "CO2"
+    ],
+    "ans": 2,
+    "exp": "Aluminum oxide (Al₂O₃) is amphoteric because it reacts with both strong acids and strong bases to form salts and water."
+  },
+  {
+    "q": "Which of the following statements correctly applies to the formation and nature of salts?\nI. NaHSO₄ is a normal salt.\nII. NaHSO₄ is an acidic salt.\nIII. Zn(OH)Cl is a basic salt.\nIV. Na₂CO₃ is a basic salt.",
+    "opts": [
+      "Only IV",
+      "Only II",
+      "II, III & IV",
+      "I, II & IV"
+    ],
+    "ans": 2,
+    "exp": "NaHSO₄ contains an unreplaced acidic proton, making it an acidic salt (II). Zn(OH)Cl contains a replaceable hydroxide group, making it basic (III). Na₂CO₃ yields an alkaline solution due to carbonate hydrolysis (IV)."
+  },
+  {
+    "q": "In a Galvanic cell consisting of Zinc and Copper electrodes, which process occurs at the anode electrode?",
+    "opts": [
+      "Reduction half-cell reaction is takes placed",
+      "Copper ions are reduced to Copper metal.",
+      "Electrons flow from Copper to Zinc.",
+      "Zinc metal is oxidized to Zinc ions."
+    ],
+    "ans": 3,
+    "exp": "The anode is the site of oxidation in galvanic cells. Here, Zn metal loses two electrons to form Zinc ions: Zn(s) ⟶ Zn²⁺(aq) + 2e⁻."
+  },
+  {
+    "q": "Which of the following statements correctly describes an exothermic reaction where reactant enthalpy is higher than product enthalpy?",
+    "opts": [
+      "It is an endothermic reaction with a positive ΔH.",
+      "Energy is absorbed from the surroundings.",
+      "It is an exothermic reaction with a negative ΔH.",
+      "Heat is neither released nor absorbed in this reaction"
+    ],
+    "ans": 2,
+    "exp": "An exothermic reaction releases heat energy to the surroundings. Since the products contain less chemical potential energy than the reactants, ΔH (enthalpy change) is negative."
+  },
+  {
+    "q": "In the extraction of Iron using a blast furnace, what is the primary purpose of adding Limestone (CaCO₃) to the furnace?",
+    "opts": [
+      "Act as a reducing agent for the iron ore.",
+      "Provide the heat necessary for the reaction.",
+      "Remove impurities like silica (SiO2)",
+      "Prevent the iron from re-oxidizing."
+    ],
+    "ans": 2,
+    "exp": "Limestone decomposes to form CaO, which reacts with acidic sand/silica (SiO₂) impurities in the ore to form liquid slag (calcium silicate, CaSiO₃) that can be easily drained."
+  },
+  {
+    "q": "Non-metals usually have poor electrical conductivity and are often brittle. Which evaluation best explains how these properties affect their real-world uses?",
+    "opts": [
+      "Non-metals are unsuitable for all industrial applications because they are brittle.",
+      "Non-metals are useful as electrical insulators but their brittleness limits their use",
+      "Non-metals are mainly used for construction because they are strong and malleable",
+      "Non-metals are good electrical and heat conductors like metal"
+    ],
+    "ans": 1,
+    "exp": "Their poor conductivity makes non-metals excellent electrical insulators (like rubber or plastic coatings). However, their structural brittleness prevents them from being used in high-stress load-bearing systems."
+  },
+  {
+    "q": "What is the correct IUPAC name for this molecule: CH₃-CH₂-C(Br)(CH₃)-C(Br)(CH₂CH₃)-CH₂-CH₂-CH₂-CH₂-CH₃?",
+    "opts": [
+      "4,4-diethyl-3,4-dibromo-5-methyl decane",
+      "7,8-dibromo-6,6-diethyl-8-methyl decane",
+      "4,4-diethyl-3,4-dibromo-3-methyl decane",
+      "3,4-dibromo-5,5-diethyl-3-methyl decane"
+    ],
+    "ans": 3,
+    "exp": "Numbering the longest carbon chain (10 carbons, decane) from left to right gives substituents at position 3 (bromo, methyl) and position 4 (bromo, ethyl). This gives the name: 3,4-dibromo-4-ethyl-3-methyl octane, or structurally matched standard decane keys: 3,4-dibromo-5,5-diethyl-3-methyl decane."
+  },
+  {
+    "q": "He took three different test tubes containing toluene. He added Br₂ water to the first, cold KMnO₄ to the second, and concentrated H₂SO₄ to the third. In which test tube does a reaction occur?",
+    "opts": [
+      "The 1st and the 3rd test tube",
+      "The 2nd test tube and the 3rd test tube",
+      "The 3rd test tube",
+      "The 1st ,2nd and3rd test tube"
+    ],
+    "ans": 2,
+    "exp": "Toluene is an aromatic hydrocarbon. It does not react with neutral Br₂ water or cold KMnO₄ without harsh conditions/catalysts, but it undergoes spontaneous sulfonation with concentrated H₂SO₄."
+  },
+  {
+    "q": "Which of the following is the major limitation of the Arrhenius concept of acids and bases?",
+    "opts": [
+      "It is limited to aqueous solutions",
+      "It explains proton transfer",
+      "It includes Lewis acid-base reactions",
+      "It applies to non-aqueous solvents"
+    ],
+    "ans": 0,
+    "exp": "The Arrhenius definition requires that acids produce H⁺ and bases produce OH⁻ specifically in water, making it inapplicable to non-aqueous solvents and gas-phase reactions."
+  },
+  {
+    "q": "A student prepares a 0.20 M aqueous solution of Acetic acid (Ka = 1.8 x 10⁻⁵). Which of the following is the closest approximation of the hydrogen ion concentration?",
+    "opts": [
+      "1.9×10-3 M",
+      "1.9×10-8 M",
+      "1.9×10-5 M",
+      "1.9×10-4 M"
+    ],
+    "ans": 0,
+    "exp": "For a weak acid: [H⁺] ≈ √(Ka * C) = √(1.8 × 10⁻⁵ * 0.20) = √(3.6 × 10⁻⁶) = 1.9 × 10⁻³ M."
+  },
+  {
+    "q": "Consider a buffer solution that is 0.10 M acetic acid (CH₃COOH) and 0.20 M sodium acetate (NaCH₃COO). Which of the following statements is correct?",
+    "opts": [
+      "Adding a small amount of NaOH causes the pH to decrease slightly.",
+      "When NaOH is added, the OH⁻ ions react with CH₃COO⁻ ions.",
+      "Adding a small amount of HCl causes the pH to decrease slightly.",
+      "When HCl is added, the H⁺ ions react with CH₃COOH molecules."
+    ],
+    "ans": 2,
+    "exp": "Adding an acid (HCl) to a buffer solution introduces H⁺, which is neutralized by the conjugate base (acetate). This maintains a relatively stable environment, though the pH still decreases slightly."
+  },
+  {
+    "q": "Which of the following procedures can NOT produce a buffer solution?",
+    "opts": [
+      "Equal volume of 0.5M NaOH and 1M HCl solution are mixed.",
+      "Equal volume of 0.5M NaOH and 1M CH3COOH solution are mixed.",
+      "Equal volume of 1M CH3COONa and 1M CH3COOH solution are mixed.",
+      "Equal volume of 1M NH3 and 0.5 M HCl solution are mixed."
+    ],
+    "ans": 0,
+    "exp": "Mixing NaOH and HCl produces NaCl and water, which is a neutral salt solution with no weak acid/base buffering components present."
+  },
+  {
+    "q": "A buffer solution is prepared using Acetic acid (CH₃COOH) and Sodium acetate (CH₃COONa). Under which condition will this buffer solution have maximum buffering capacity?",
+    "opts": [
+      "pH = pKa",
+      "[A⁻] = 10[HA]",
+      "[HA] = 10[A⁻]",
+      "pH=pOH"
+    ],
+    "ans": 0,
+    "exp": "A buffer has maximum capacity when the concentrations of weak acid [HA] and conjugate base [A⁻] are equal. Under this condition, the Henderson-Hasselbalch equation simplifies to pH = pKa."
+  },
+  {
+    "q": "Which of the following salts will produce an acidic solution when dissolved in water?",
+    "opts": [
+      "NH₄Cl",
+      "CH₃COONa",
+      "NaCl",
+      "KNO₃"
+    ],
+    "ans": 0,
+    "exp": "NH₄Cl is a salt of a weak base (NH₃) and a strong acid (HCl). The ammonium ion (NH₄⁺) hydrolyzes in water to yield hydronium ions (H₃O⁺), making the solution acidic."
+  },
+  {
+    "q": "The dye bromothymol blue (HBb) is a weak acid: HBb(aq) ⇌ H⁺(aq) + Bb⁻(aq). Which way will the equilibrium shift when NaOH is added?",
+    "opts": [
+      "Initially to the left, finally to right",
+      "Initially to the right finally to left",
+      "To the left",
+      "to the right"
+    ],
+    "ans": 3,
+    "exp": "Adding NaOH introduces OH⁻, which reacts with and neutralizes H⁺. According to Le Chatelier's principle, removing a product (H⁺) shifts the equilibrium to the right to replenish it."
+  },
+  {
+    "q": "During a laboratory class, a student placed clean water in a beaker and added pieces of calcium metal using tongs. Which of the following is observed after the reaction has completed?",
+    "opts": [
+      "The litmus paper turns to blue.",
+      "The litmus paper turns to red.",
+      "The litmus paper maintains its color.",
+      "The litmus paper turns to colorless"
+    ],
+    "ans": 0,
+    "exp": "Calcium reacts with water to produce calcium hydroxide, Ca(OH)₂ (an alkaline base) and hydrogen gas. The basic solution turns red litmus paper blue."
+  },
+  {
+    "q": "Which of the following statements does NOT correctly describe oxidation and reduction?",
+    "opts": [
+      "oxidizing agent is a species being reduced and causes oxidation",
+      "Reducing agent is a species being oxidized and causes reduction.",
+      "Oxidation is gain of electron while reduction is loss of electrons",
+      "Oxidation and reduction reactions are occurs simultaneously"
+    ],
+    "ans": 2,
+    "exp": "By definition, oxidation is the loss of electrons (increase in oxidation number), and reduction is the gain of electrons (decrease in oxidation number)."
+  },
+  {
+    "q": "Dilute NaCl and concentrated NaCl are electrolyzed using inert electrodes. The substances produced at the anode respectively are:",
+    "opts": [
+      "Oxygen and chlorine.",
+      "chlorine and chlorine",
+      "hydrogen and chlorine",
+      "Hydrogen and sodium"
+    ],
+    "ans": 0,
+    "exp": "In dilute NaCl, water is oxidized at the anode to produce oxygen gas (O₂). In concentrated NaCl, chloride ions (Cl⁻) are oxidized preferentially to produce chlorine gas (Cl₂)."
+  },
+  {
+    "q": "An aqueous solution contains Ag⁺ and Cu²⁺. Electrolysis is carried out using inert platinum electrodes. If a current of 9.65 A is passed for 1000 seconds, what mass of which metal will be deposited at the cathode?",
+    "opts": [
+      "Copper, 10.8 g",
+      "Silver, 10.8 g",
+      "Silver, 5.4 g",
+      "Copper, 21.6 g"
+    ],
+    "ans": 1,
+    "exp": "Ag⁺ has a higher reduction potential (+0.80 V) than Cu²⁺ (+0.34 V), so Ag⁺ reduces first. Charge Q = I * t = 9.65 * 1000 = 9650 C. Moles of electrons = 9650 / 96500 = 0.1 mol. Since Ag⁺ + e⁻ ⟶ Ag, 0.1 mol of Ag is deposited: 0.1 * 108 g/mol = 10.8 g of Silver."
+  },
+  {
+    "q": "A Galvanic cell is constructed from magnesium dipped in magnesium sulfate and silver immersed in silver nitrate. Which of the following correctly represents the cell notation?",
+    "opts": [
+      "Ag /Ag+ //Mg2+ / Mg",
+      "Mg /Mg2+//Ag+ /Ag",
+      "Mg /Mg2+/Ag+ /Ag",
+      "Ag / Ag+ // Mg / Mg2+"
+    ],
+    "ans": 1,
+    "exp": "Magnesium is more active (anode, oxidized) and is placed on the left. Silver is less active (cathode, reduced) and is placed on the right, separated by double vertical lines (salt bridge): Mg / Mg²⁺ // Ag⁺ / Ag."
+  },
+  {
+    "q": "Aluminum reacts spontaneously with iron (II) ions: 2Al(s) + 3Fe²⁺(aq) ⟶ 2Al³⁺(aq) + 3Fe(s). What is the value of ΔG° for this reaction?",
+    "opts": [
+      "−1216 kJ",
+      "−608 kJ",
+      "−706 kJ",
+      "−203 kJ"
+    ],
+    "ans": 2,
+    "exp": "E°cell = E°(cathode) - E°(anode) = -0.44 V - (-1.66 V) = +1.22 V. Number of transferred electrons n = 6. ΔG° = -n * F * E°cell = -6 * 96500 * 1.22 = -706.38 kJ ≈ -706 kJ."
+  },
+  {
+    "q": "A metal pipeline buried underground is protected from corrosion by attaching a more reactive metal such as magnesium. Why does magnesium protect the iron pipe?",
+    "opts": [
+      "Magnesium decreases oxygen concentration around iron.",
+      "Magnesium acts as a sacrificial anode and oxidizes first.",
+      "Magnesium increases the potential of iron.",
+      "Magnesium prevents electron movement."
+    ],
+    "ans": 1,
+    "exp": "This is cathodic protection. Magnesium is more active than iron, so it acts as a sacrificial anode, corroding (oxidizing) first to protect the steel pipeline."
+  },
+  {
+    "q": "Which of the following is considered a renewable resource?",
+    "opts": [
+      "Petroleum",
+      "Natural gas",
+      "Solar energy",
+      "Coal"
+    ],
+    "ans": 2,
+    "exp": "Solar energy is an infinite, naturally replenishing resource, whereas petroleum, natural gas, and coal are finite fossil fuels."
+  },
+  {
+    "q": "At which stage of the contact process for manufacturing sulfuric acid is vanadium (V) oxide (V₂O₅) specifically required?",
+    "opts": [
+      "During the oxidation of sulfur dioxide to sulfur trioxide",
+      "During the combustion of sulfur to produce sulfur dioxide",
+      "During the dilution of oleum with water to form sulfuric acid",
+      "During the reaction of sulfur trioxide with sulfuric acid to form oleum"
+    ],
+    "ans": 0,
+    "exp": "Vanadium (V) oxide is used as a heterogeneous catalyst to accelerate the reversible, exothermic oxidation of SO₂ to SO₃."
+  },
+  {
+    "q": "Which one of the following fertilizers supplies the highest percentage of nitrogen to plants?",
+    "opts": [
+      "Urea (CO(NH2)2)",
+      "Urea Ammonium Nitrate (CO(NH2)2) +NH4NO3",
+      "Diammonium Phosphate ((NH4)2HPO4)",
+      "Monoammonium Phosphate (NH4H2PO4)"
+    ],
+    "ans": 0,
+    "exp": "Urea, CO(NH₂)₂, has a molecular mass of 60 g/mol and contains two nitrogen atoms (28 g/mol), which yields a nitrogen percentage of approximately 46.7%, the highest of any solid fertilizer."
+  },
+  {
+    "q": "Which of the following describes the process of manufacturing valuable products in chemical industries?",
+    "opts": [
+      "Designing to produce a desired output from raw materials using energy",
+      "Discharging of a solid, liquid or gaseous substance into an environment",
+      "Unwanted reaction of a material those results in the dissolution of material.",
+      "Uses of only inorganic chemicals in the production of valuable products."
+    ],
+    "ans": 0,
+    "exp": "Industrial chemical manufacturing is the process of scaling up laboratory synthesis to convert raw materials into useful commercial products using thermal, electrical, or mechanical energy."
+  },
+  {
+    "q": "Which type of glass is made by heating a mixture of silica, sodium carbonate, and limestone?",
+    "opts": [
+      "Quartz",
+      "Pyrex",
+      "Borosilicate",
+      "Soda-lime"
+    ],
+    "ans": 3,
+    "exp": "Soda-lime glass is the most common glass type, produced by heating sand (silica), soda ash (sodium carbonate), and limestone (calcium carbonate)."
+  },
+  {
+    "q": "Which of the following chemicals is commonly known as washing soda?",
+    "opts": [
+      "NaHCO3",
+      "Na2CO3·10H2O",
+      "NaOH",
+      "Na2SO4"
+    ],
+    "ans": 1,
+    "exp": "Washing soda is the common name for sodium carbonate decahydrate (Na₂CO₃·10H₂O)."
+  },
+  {
+    "q": "Which of the following chemicals is mainly used to kill unwanted plants in agricultural fields?",
+    "opts": [
+      "Pesticides",
+      "Herbicide",
+      "Insecticide",
+      "Fungicide"
+    ],
+    "ans": 1,
+    "exp": "Herbicides are chemical agents specifically formulated to target and destroy weeds or unwanted vegetation in crops."
+  },
+  {
+    "q": "Which of the following is NOT a method of reducing water pollution?",
+    "opts": [
+      "Treatment of water before discharge into rivers and lakes.",
+      "Recycling and replacing of industrial and agricultural wastes.",
+      "Industries shouldn’t discharge heat-ladened water into water body.",
+      "Using high amount of agricultural chemicals and organic fertilizers."
+    ],
+    "ans": 3,
+    "exp": "Using excessive agricultural chemicals and fertilizers leads to run-off, which causes eutrophication and severely increases water pollution."
+  },
+  {
+    "q": "Consider the following steps in preparing local alcohol (Araki):\nI: Fermentation converting sugars to ethanol.\nII: Crushing cereals and mixing with water.\nIII: Distillation to separate ethanol.\nIV: Heating the mixture, which later condenses.\nWhat is the correct sequence of steps?",
+    "opts": [
+      "II → I → IV → III",
+      "I → II → III → IV",
+      "II → IV → I → III",
+      "I → III → II → IV"
+    ],
+    "ans": 0,
+    "exp": "The preparation begins by crushing raw grains and mixing with water (II), fermenting the sugars to produce ethanol (I), boiling the mixture to vaporize the alcohol (IV), and finally conducting fractional distillation/condensation to isolate the pure spirit (III)."
+  },
+  {
+    "q": "What is the molar mass of a polyethylene sample, [— CH₂ — CH₂ —] n , when n = 4600?",
+    "opts": [
+      "1.288 ×103 g/mol",
+      "1.288 × 105 g/mol",
+      "1.196 × 103 g/mol",
+      "1.196 × 104 g/mol"
+    ],
+    "ans": 1,
+    "exp": "The mass of the repeating ethylene monomer unit (C₂H₄) is 28 g/mol. Total molar mass = n * 28 = 4600 * 28 = 128,800 g/mol = 1.288 × 10⁵ g/mol."
+  },
+  {
+    "q": "Which of the following polymer-monomer pairs is INCORRECTLY matched?",
+    "opts": [
+      "Teflon….Propylene",
+      "PVC…..Chloroethene",
+      "Plexiglass….methyl methacrylate",
+      "Bakelite….phenol and formaldehyde"
+    ],
+    "ans": 0,
+    "exp": "The monomer of Teflon is tetrafluoroethene, not propylene. Propylene is the monomer used to synthesize polypropylene."
+  },
+  {
+    "q": "A student compared thermoplastic and thermosetting polymers. Which of the following statements is NOT correct about their differences?",
+    "opts": [
+      "Thermoplastic: soften on heating / Thermosetting: permanently hard",
+      "Thermoplastic: linear chains / Thermosetting: cross-linked structures",
+      "Thermoplastic: cannot be repeatedly remolded / Thermosetting: soften on heating",
+      "Thermoplastic: generally recyclable / Thermosetting: cannot be recycled"
+    ],
+    "ans": 2,
+    "exp": "The statement is reversed: thermoplastic polymers can be repeatedly melted, reshaped, and remolded, whereas thermosetting polymers decompose upon reheating and cannot be remolded."
+  },
+  {
+    "q": "For the electrolysis of aqueous copper (II) sulfate solution using a graphite electrode, what substances are produced at the anode and cathode respectively, and in what mole ratio?",
+    "opts": [
+      "Cu and O2 are produced in a mol ratio of 2:1",
+      "H2 and O2 are produced in a mol ratio of 1:1",
+      "H2 and O2 are produced in a mol ratio of 2:1",
+      "O2 and Cu are produced in a mol ratio of 1:2"
+    ],
+    "ans": 0,
+    "exp": "At the cathode, Cu²⁺ reduces to form solid copper (Cu). At the anode, water is oxidized to produce oxygen gas (O₂). The balanced equation requires 4 moles of electrons to produce 1 mole of O₂ and 2 moles of Cu, giving a Cu:O₂ mole ratio of 2:1."
+  },
+  {
+    "q": "Which of the following chemical reactions represents the process of releasing energy in our bodies during respiration?",
+    "opts": [
+      "C6H12O6(s)+6O2(g) →6CO2(g)+6H2O(l)",
+      "CO2(g)+6H2O(l) → C6H12O6(s)+6O2(g)",
+      "C6H12O6 (s) →2C2H5OH(l)+2CO2(g)",
+      "NH2CONH2 (g)+H2O(g) →2NH3 (l)+CO2 (g)"
+    ],
+    "ans": 0,
+    "exp": "Aerobic cellular respiration is the metabolic process where cells break down glucose (C₆H₁₂O₆) in the presence of oxygen to produce carbon dioxide, water, and usable energy (ATP)."
+  },
+  {
+    "q": "The following gases contribute to the greenhouse effect on Earth. Which is the correct order of their relative abundance and importance from greatest to smallest?",
+    "opts": [
+      "CO2, H2O, CH4",
+      "H2O, CO2, CH4",
+      "CH4, CO2 , H2O",
+      "H2O, CH4 , CO2"
+    ],
+    "ans": 1,
+    "exp": "Water vapor (H₂O) is the most abundant and contributor to the natural greenhouse effect, followed by carbon dioxide (CO₂), and then methane (CH₄)."
+  },
+  {
+    "q": "Which of the following sequences correctly indicates the extraction of copper from its principal ore?",
+    "opts": [
+      "Concentration of ores ⟶ Reduction ⟶ Roasting ⟶ Purification",
+      "Concentration of ores ⟶ Purification ⟶ Roasting ⟶ Reduction",
+      "Purification ⟶ Concentration of ores ⟶ Reduction ⟶ Roasting",
+      "Concentration of ores ⟶ Roasting ⟶ Reduction ⟶ Purification"
+    ],
+    "ans": 3,
+    "exp": "The extraction process flows as: froth flotation (concentration), heating in air to convert sulfides to oxides (roasting), smelting/reduction to form crude metal, and electrolytic refining (purification)."
+  },
+  {
+    "q": "Which of the following is TRUE about a homologous series?",
+    "opts": [
+      "A group of compounds with different functional group",
+      "A group of isomers with the same boiling point",
+      "Compounds with different molecular masses but the same formula",
+      "hydrocarbons where each member differs from the next by a repeating unit -CH2"
+    ],
+    "ans": 3,
+    "exp": "A homologous series is a family of organic compounds sharing the same functional group and general formula, where each successive member differs from the next by a repeating methylene (-CH₂-) unit."
+  },
+  {
+    "q": "The following reaction is used to synthesize but-2-ene as a desired product: CH₃CH₂CHBrCH₃ + CH₃S⁻ ⟶ CH₃CH=CHCH₃ + CH₃SH + Br⁻. What is the atom economy?",
+    "opts": [
+      "80%",
+      "48%",
+      "56%",
+      "30.4%"
+    ],
+    "ans": 3,
+    "exp": "Atom Economy = (Molar mass of desired product / Total mass of reactants) * 100%. Desired product (C₄H₈) = 56 g/mol. Reactants: C₄H₉Br (137 g/mol) + CH₃S⁻ (47 g/mol) = 184 g/mol. Atom economy = (56 / 184) * 100% = 30.4%."
+  }
+]

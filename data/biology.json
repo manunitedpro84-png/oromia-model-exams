@@ -1,0 +1,1102 @@
+[
+  {
+    "q": "Question is based on the following contributions of Ethiopian biologists:\nI. Discovered a 3.3 million-year-old humanoid child fossil.\nII. Identified the impact of chemical pesticide hazards on humans.\nIII. Discovered and named many new plants.\nIV. Developed a drought-resistant strain of sorghum.\n\nWhich of the following is the list of renowned Ethiopian biologists corresponding to I, II, III, and IV respectively?",
+    "opts": [
+      "Prof. Mogessoe Ashenafi, Dr. Tsehaynesh Asfaw, Prof. Ensermu Kelbesa and Prof. Gebisa Ejeta.",
+      "Dr. Zeresenay Alemseged, Prof. Yalemtsehay Mekonnen, Prof. Ensermu Kelbesa and Prof. Gebisa Ejeta.",
+      "Prof. Ensermu Kelbesa, Dr. Tsehaynesh Asfaw, Prof. Yalemtsehay Mekonnen, and Prof. Gebisa Ejeta.",
+      "Prof. Brihane Asfaw, Prof. Yalemtsehay Mekonnen, Prof. Ensermu Kelbesa and Prof. Gebisa Ejeta."
+    ],
+    "ans": 1,
+    "exp": "Dr. Zeresenay Alemseged discovered the Selam fossil (I); Prof. Yalemtsehay Mekonnen studied pesticide toxicity (II); Prof. Ensermu Kelbesa is a renowned taxonomist who named numerous plants (III); and Prof. Gebisa Ejeta developed drought-resistant sorghum, earning a World Food Prize (IV)."
+  },
+  {
+    "q": "Grade 9 students Bonsa and Kelbessa used a microscope during a laboratory session. Bonsa can observe a clear image with great details while Kelbessa’s image is blurred. What can you conclude from this observation?",
+    "opts": [
+      "Bonsa’s microscope has great resolution, but low magnification.",
+      "Kelbessa’s microscope has great resolution.",
+      "Both microscopes have great resolution and magnification.",
+      "Bonsa’s microscope has great resolution and magnification."
+    ],
+    "ans": 3,
+    "exp": "A clear, highly detailed, sharp image is a direct indicator of high resolution (the ability to distinguish between two close points) paired with high magnification."
+  },
+  {
+    "q": "Which of the following groups of scientists were the first to explain cell theory?",
+    "opts": [
+      "Matthias Schleiden and Theodore Schwann",
+      "Robert Hooke and Anton van Leeuwenhoek",
+      "Matthias Schleiden and Robert Hooke",
+      "Theodore Schwann and Robert Hooke"
+    ],
+    "ans": 0,
+    "exp": "Matthias Schleiden (botanist) and Theodor Schwann (zoologist) formally formulated the first two tenets of the Cell Theory in 1838-1839."
+  },
+  {
+    "q": "When comparing the water potential of a solution to that of a cell, what term describes a solution having a lower water potential than the cell?",
+    "opts": [
+      "Isotonic",
+      "Hypotonic",
+      "Hypertonic",
+      "Plasmolysis"
+    ],
+    "ans": 2,
+    "exp": "A hypertonic solution contains a higher concentration of solutes, which means it has a lower free water potential compared to the cytoplasm of a cell."
+  },
+  {
+    "q": "Which of the following factors affecting the rate of diffusion is correctly described?",
+    "opts": [
+      "A big difference in concentration leads to slower diffusion.",
+      "An increase in temperature leads to faster diffusion.",
+      "A thicker membrane leads to faster diffusion.",
+      "A larger surface area of the membrane leads to slower diffusion."
+    ],
+    "ans": 1,
+    "exp": "Higher temperature increases the kinetic energy of particles, which causes them to move and disperse faster, thereby speeding up the rate of diffusion."
+  },
+  {
+    "q": "Which of the following lists of food items may be recommended by a physician for a woman who experienced heavy bleeding during childbirth?",
+    "opts": [
+      "Dairy products, bread, fruits and common salt",
+      "Vegetable, common salt, dairy products and banana",
+      "Red meat, liver, eggs and green leafy vegetables",
+      "Vegetables, bean, banana and orange"
+    ],
+    "ans": 2,
+    "exp": "Heavy bleeding causes loss of iron, which can lead to anemia. Red meat, liver, eggs, and dark green leafy vegetables are rich in iron and help replenish hemoglobin levels."
+  },
+  {
+    "q": "If an individual's pancreas is surgically removed, the activity of which digestive organ and the digestion of which food item would be primarily impaired?",
+    "opts": [
+      "Stomach: Protein, Carbohydrate and fats",
+      "Jejunum: Bread, Meat and Bean",
+      "Ileum: Starch, Meat and Vegetables",
+      "Duodenum: Protein, fats and carbohydrates"
+    ],
+    "ans": 3,
+    "exp": "The pancreas secretes digestive enzymes (amylase, trypsin, lipase) directly into the duodenum. Removing the pancreas severely impairs the digestion of proteins, fats, and carbohydrates in this region."
+  },
+  {
+    "q": "An individual’s inhaled air is examined and found to consist of 21%, 78% and 0.04% of different gases. Which gases would be represented by these percentages respectively?",
+    "opts": [
+      "Oxygen, Nitrogen and Carbondioxide",
+      "Oxygen, Carbondioxide and Nitrogen",
+      "Nitrogen, Carbondioxide and Oxygen",
+      "Carbondioxide, Nitrogen and Oxygen"
+    ],
+    "ans": 0,
+    "exp": "The normal composition of atmospheric air is approximately 21% Oxygen, 78% Nitrogen, and 0.04% Carbon dioxide."
+  },
+  {
+    "q": "This item is based on events happening during inspiration and expression:\n1. Diaphragm: Contracts & flattens downwards (Inspiration) / Relaxes & moves upwards (Expiration)\n2. External intercostal muscle: Contracts (Inspiration) / Relaxes (Expiration)\n3. Internal intercostal muscle: Contracts (Inspiration) / Relaxes (Expiration)\n4. Ribcage and Sternum: Move downwards & inward (Inspiration) / Move upwards & outward (Expiration)\n\nWhich numbers in the table show the correct conditions?",
+    "opts": [
+      "3 and 4",
+      "1 and 2",
+      "2 and 3",
+      "1 and 4"
+    ],
+    "ans": 1,
+    "exp": "During normal inspiration, the diaphragm contracts and flattens (1) and the external intercostal muscles contract (2). The internal intercostals are active during forced expiration, and the ribcage moves up and out during inspiration, making 3 and 4 incorrect."
+  },
+  {
+    "q": "In a human heart diagram, what is the primary function of the structure labeled as the right auricle/atrium?",
+    "opts": [
+      "Receives oxygenated blood from the lungs and pumps to right auricle.",
+      "Receives deoxygenated blood from all the body and pumps to the lungs.",
+      "Receives deoxygenated blood from all the body and pumps to right ventricle.",
+      "Receives oxygenated blood from the lungs and pumps to left ventricle."
+    ],
+    "ans": 2,
+    "exp": "The right atrium (labeled as 6 in the diagram) receives deoxygenated blood returning from systemic circulation via the vena cava and pumps it down into the right ventricle."
+  },
+  {
+    "q": "If a person with “B” blood type is admitted to a hospital for surgery, which blood type(s) can be safely transfused if a donation is required?",
+    "opts": [
+      "B and O",
+      "A and O",
+      "AB and O",
+      "A and B"
+    ],
+    "ans": 0,
+    "exp": "A person with blood type B has B antigens on their red blood cells and anti-A antibodies in their plasma. They can safely receive blood from matching type B donors or universal type O donors."
+  },
+  {
+    "q": "What is a key reason why regular voluntary blood donation is encouraged in communities?",
+    "opts": [
+      "It is a mandatory requirement for all citizens.",
+      "Blood donation is primarily beneficial for the donors’ personal health.",
+      "It allows hospitals to charge higher fees for blood transfusions.",
+      "It helps maintain a sufficient supply of blood for medical emergencies."
+    ],
+    "ans": 3,
+    "exp": "Voluntary donations ensure that hospitals and blood banks have a steady, reliable, and safe inventory of blood for emergencies, surgeries, and chronic therapies."
+  },
+  {
+    "q": "Which of the following scientific names for a domestic dog is written correctly according to binomial nomenclature rules?",
+    "opts": [
+      "Canis familiaris",
+      "Canis Famiaris",
+      "<i>Canis familiaris</i>",
+      "CANIS FAMILIARIS"
+    ],
+    "ans": 2,
+    "exp": "Binomial names must be italicized in print. The genus name must be capitalized ('Canis') and the species epithet must be in lowercase ('familiaris')."
+  },
+  {
+    "q": "Students observed that a specimen has a body divided into regular segments with repeating internal organs, a closed circulatory system, and uses bristle-like structures (chaetae) for movement. What is the correct classification?",
+    "opts": [
+      "Majority of these animals are members of phylum Mollusca.",
+      "Majority of these animals are members of phylum Annelida.",
+      "Majority of these animals are members of phylum Echinodermata.",
+      "Majority of these animals are members of phylum Arthropoda."
+    ],
+    "ans": 1,
+    "exp": "Metameric segmentation, a closed circulatory system, and chitinous bristles (chaetae or setae) are key diagnostic features of segmented worms belonging to phylum Annelida."
+  },
+  {
+    "q": "Which of the following lists constitutes only abiotic components of an ecosystem?",
+    "opts": [
+      "Water, Oxygen, Soil and Sunlight",
+      "Parasites, Predators, Sunlight and Soil",
+      "Decomposers, Sunlight, Soil and Oxygen",
+      "Parasite, Disease, Predators and Food"
+    ],
+    "ans": 0,
+    "exp": "Abiotic factors are non-living physical and chemical elements in an ecosystem. Water, oxygen, soil, and sunlight are completely abiotic."
+  },
+  {
+    "q": "A forensic scientist examines microscopic striations on a bullet collected at a crime scene to match it to a specific gun. Which tool or process enables this detailed examination?",
+    "opts": [
+      "Genetic makeup evaluation.",
+      "DNA fingerprinting process.",
+      "Penicillin",
+      "The microscope"
+    ],
+    "ans": 3,
+    "exp": "A comparison microscope is the standard forensic tool used to match striations and markings on ballistics specimens side by side."
+  },
+  {
+    "q": "Which of the following is a TRUE statement regarding flowering plants (angiosperms)?",
+    "opts": [
+      "They are all restricted to moist and shaded areas.",
+      "They all have flowers as reproductive organs.",
+      "They are all non-vascular plants.",
+      "Some have naked seeds."
+    ],
+    "ans": 1,
+    "exp": "Angiosperms are vascular, seed-bearing plants characterized by the presence of flowers as their specialized reproductive structures."
+  },
+  {
+    "q": "What is the most appropriate dispersal mechanism for a seed that has a light, hairy, or winged structure?",
+    "opts": [
+      "Dispersed by wind or float in water.",
+      "Ingested by birds and dispersed while defecation.",
+      "Dispersed by themselves.",
+      "Dispersed by humans."
+    ],
+    "ans": 0,
+    "exp": "Hairy (pappus) or winged (samara) structural adaptations increase surface area, allowing seeds to be easily carried over long distances by wind currents."
+  },
+  {
+    "q": "When a plant shoot is exposed to unilateral (one-sided) light, what is the primary effect of auxins on the shoot?",
+    "opts": [
+      "It is evenly distributed in the shoot, leading to straight growth.",
+      "It causes the shoot to bend away from the source of light.",
+      "It has no effect on shoot directionality.",
+      "It causes the shoot to bend towards the light."
+    ],
+    "ans": 3,
+    "exp": "Unilateral light causes auxins to migrate to the shaded side of the shoot. The high auxin concentration stimulates cell elongation on the shaded side, causing the shoot to bend toward the light (positive phototropism)."
+  },
+  {
+    "q": "In a deep lake during winter, the surface water temperature drops below 4°C, causing ice to form. Which unique property of water allows aquatic life to survive beneath the frozen surface?",
+    "opts": [
+      "Ability to form hydrogen bonds.",
+      "High cohesion and adhesion.",
+      "Low density of solid water (ice).",
+      "High specific heat capacity."
+    ],
+    "ans": 2,
+    "exp": "Water is unique because its solid form (ice) is less dense than its liquid form. This causes ice to float on the surface, forming an insulating barrier that prevents the deep water below from freezing solid."
+  },
+  {
+    "q": "Which of the following diagnostic tests is used to detect the presence of starch, reducing sugars, and proteins respectively in a food sample?",
+    "opts": [
+      "Benedict’s, Iodine and Xanthoproteic test.",
+      "Iodine, Biuret test and Benedict’s.",
+      "Xanthoproteic, Benedict’s and Biuret test.",
+      "Iodine, Benedict’s and Xanthoproteic test."
+    ],
+    "ans": 3,
+    "exp": "Iodine turns blue-black in the presence of starch; Benedict's reagent changes color when heated with reducing sugars; and the Xanthoproteic test identifies proteins containing aromatic amino acids."
+  },
+  {
+    "q": "What is the primary biological purpose of mitotic cell division in multicellular organisms?",
+    "opts": [
+      "To produce gametes for sexual reproduction.",
+      "To enable growth and replacement of dead cells.",
+      "To increase genetic diversity among generations.",
+      "To reduce chromosome number in daughter cells."
+    ],
+    "ans": 1,
+    "exp": "Mitosis produces genetically identical somatic cells. This is the process used for organismal growth, tissue repair, and the replacement of damaged or dead cells."
+  },
+  {
+    "q": "In meiotic cell division, the daughter cells produced are:",
+    "opts": [
+      "identical to the parent cell in chromosome number.",
+      "genetically identical to each other in chromosome number and kind.",
+      "genetically different from the parent cell and from each other.",
+      "double the genetic material of the parent cell."
+    ],
+    "ans": 2,
+    "exp": "Meiosis involves crossing over and independent assortment, resulting in four haploid daughter cells (gametes) that are genetically unique from the parent cell and from each other."
+  },
+  {
+    "q": "Which of the following human teeth is described with its correct functional adaptation?",
+    "opts": [
+      "Incisors - chisel-shaped teeth specialized for cutting",
+      "Canines - sharp, dagger-shaped specialized for crushing.",
+      "Molars - broader with cusps designed for tearing.",
+      "Premolars - broad, flattened specialized for tearing and cutting."
+    ],
+    "ans": 0,
+    "exp": "Incisors have flat, chisel-shaped crowns with sharp edges designed specifically for cutting food items."
+  },
+  {
+    "q": "Which of the following sets of digestive enzymes is active in the duodenum and small intestine, working optimally at similar alkaline pH ranges?",
+    "opts": [
+      "Trypsin, Lipase, Maltase",
+      "Lactase, Lipase, Rennin",
+      "Pepsin, Lipase, Nuclease",
+      "Pepsin, Amylase, Sucrase"
+    ],
+    "ans": 0,
+    "exp": "Trypsin, lipase, and maltase are active in the small intestine, where they function optimally in the alkaline environment (pH 7-8) created by pancreatic bicarbonate."
+  },
+  {
+    "q": "How do the biconcave disc shapes of red blood cells contribute directly to efficient oxygen transportation?",
+    "opts": [
+      "By providing more space inside for haemoglobin.",
+      "By providing a larger surface area-to-volume ratio for gaseous diffusion.",
+      "By enabling O2 and CO2 to diffuse in and out rapidly.",
+      "By enabling the RBC to squeeze along the narrowest blood capillaries."
+    ],
+    "ans": 1,
+    "exp": "The biconcave disc shape increases the cell's surface area-to-volume ratio compared to a sphere. This maximizes the surface area available for the rapid diffusion of oxygen into and out of the cell."
+  },
+  {
+    "q": "Why are urinary tract infections (UTIs) statistically more common in females than in males?",
+    "opts": [
+      "Because of lower urination frequency in females.",
+      "Because the female ureter is shorter than the male ureter.",
+      "Because the female urethra is much shorter than the male urethra.",
+      "Because in males the urethra also serves as a reproductive organ."
+    ],
+    "ans": 2,
+    "exp": "The female urethra is significantly shorter and positioned closer to the anus than the male urethra, making it easier for external bacteria to reach the bladder."
+  },
+  {
+    "q": "Which specialized cell of the immune system is located in tissues that interface with the external environment (such as skin and mucosa) to capture antigens and present them to T and B lymphocytes?",
+    "opts": [
+      "Macrophage",
+      "Lymphocyte",
+      "Neutrophil",
+      "Dendritic cell"
+    ],
+    "ans": 3,
+    "exp": "Dendritic cells are highly specialized antigen-presenting cells (APCs) located in barrier tissues. They capture foreign antigens, migrate to lymph nodes, and present them to trigger adaptive immune responses."
+  },
+  {
+    "q": "An energy pyramid shows that only 10% of energy is passed to the next trophic level. If primary producers (plants) captured 10,000 J of light energy, how much energy is available to a tertiary consumer?",
+    "opts": [
+      "10 J",
+      "10,000 J",
+      "1,000 J",
+      "100 J"
+    ],
+    "ans": 0,
+    "exp": "According to Lindeman's 10% law: Producers (10,000 J) ⟶ Primary Consumers (1,000 J) ⟶ Secondary Consumers (100 J) ⟶ Tertiary Consumers (10 J)."
+  },
+  {
+    "q": "During the nitrification process of the nitrogen cycle, what is the primary role of Nitrosomonas bacteria?",
+    "opts": [
+      "Conversion of atmospheric nitrogen to ammonia.",
+      "Conversion of ammonia to nitrite.",
+      "Conversion of nitrates back to atmospheric nitrogen.",
+      "Conversion of nitrites to nitrates."
+    ],
+    "ans": 1,
+    "exp": "Nitrification is a two-step biological process. First, Nitrosomonas bacteria oxidize ammonia/ammonium into nitrites (NO₂⁻). Then, Nitrobacter bacteria oxidize nitrites into nitrates (NO₃⁻)."
+  },
+  {
+    "q": "Which human technology was engineered by studying and imitating the crack-resistant structural properties of a shellfish exoskeleton?",
+    "opts": [
+      "Robotic arm.",
+      "Bulletproof vests.",
+      "Ceramics",
+      "Sensor of electrical devices."
+    ],
+    "ans": 2,
+    "exp": "By mimicking the microscopic, interlocking brick-and-mortar structure of abalone shells (nacre), scientists developed highly durable, crack-resistant ceramic materials."
+  },
+  {
+    "q": "In animal research ethics, the principle of 'Replacement' is defined as:",
+    "opts": [
+      "Minimizing the number of animals used by sharing resources and databases.",
+      "Refining experimental protocols to minimize pain and distress in animals.",
+      "Relocating lab animals to more natural, enrichment-rich habitats.",
+      "Substituting animal models with non-animal alternatives like cell cultures or computer models."
+    ],
+    "ans": 3,
+    "exp": "The '3Rs' of animal research are Replacement, Reduction, and Refinement. Replacement specifically refers to using non-sentient alternatives (e.g., cell cultures, software simulations) instead of live animals."
+  },
+  {
+    "q": "When comparing invertebrate animals to vertebrates, which key structural feature do all invertebrates lack?",
+    "opts": [
+      "any kind of body symmetry.",
+      "mechanisms to protect themselves.",
+      "eukaryotic cell types.",
+      "a backbone or vertebral column."
+    ],
+    "ans": 3,
+    "exp": "The defining distinction between vertebrates and invertebrates is the presence or absence of a backbone (vertebral column) enclosing the nerve cord."
+  },
+  {
+    "q": "When comparing parental investment behaviors in rats and birds, which statement is most accurate regarding male participation?",
+    "opts": [
+      "Male rats always build the nests, while male birds do not participate in parental care.",
+      "Male rats generally do not participate in parental care, whereas many male birds participate in incubation and feeding.",
+      "Only female birds care for their offspring, while male rats take over all nursing duties.",
+      "Both male rats and male birds are always the primary and sole caregivers for their offspring."
+    ],
+    "ans": 1,
+    "exp": "In mammals like rats, maternal care dominates due to lactation, and males rarely participate. In contrast, over 90% of bird species exhibit biparental care, where males actively incubate eggs and feed hatchlings."
+  },
+  {
+    "q": "How do leather manufacturers and textile designers respectively benefit from insect-derived products in their production lines?",
+    "opts": [
+      "The manufacturer uses tannic acids from wasp galls; the designer uses silk from silkworms.",
+      "Both use shellac to stiffen fabrics and tan leather.",
+      "The manufacturer uses beeswax; the designer uses grasshopper protein.",
+      "Both use cochineal pigment for every stage of production."
+    ],
+    "ans": 0,
+    "exp": "Tannins extracted from wasp galls are used in tanning leather. Silk, harvested from the cocoons of silkworm larvae, is a valuable premium fiber used in textile design."
+  },
+  {
+    "q": "During the acquisition phase of classical conditioning, which event must occur for learning to take place?",
+    "opts": [
+      "The unconditioned response must be completely extinguished.",
+      "The animal must receive immediate punishment for incorrect actions.",
+      "The neutral stimulus must be paired with the unconditioned stimulus multiple times.",
+      "The animal must demonstrate cognitive insight to solve the problem."
+    ],
+    "ans": 2,
+    "exp": "Classical conditioning relies on associative learning, which requires consistently pairing a neutral stimulus (e.g., a bell) with an unconditioned stimulus (e.g., food) until the neutral stimulus triggers the conditioned response on its own."
+  },
+  {
+    "q": "Why does a small animal like a rabbit lose body heat much more rapidly than a large animal like an elephant?",
+    "opts": [
+      "The rabbit has a smaller surface area-to-volume ratio.",
+      "The rabbit has a larger surface area-to-volume ratio.",
+      "The elephant’s large ears increase its internal volume.",
+      "The rabbit’s total volume is greater than its surface area."
+    ],
+    "ans": 1,
+    "exp": "Smaller animals have a larger surface area-to-volume ratio. This means they have a relatively large surface area through which heat can escape compared to the small volume of tissue generating metabolic heat."
+  },
+  {
+    "q": "Enzymes demonstrate a property known as 'substrate specificity.' What does this property mean?",
+    "opts": [
+      "The enzyme can catalyze any chemical reaction in the cell.",
+      "The enzyme is only active at specific temperatures and pH values.",
+      "The enzyme’s active site is structurally restricted to binding a specific substrate.",
+      "The enzyme can only function when it is firmly bound to a metal cofactor."
+    ],
+    "ans": 2,
+    "exp": "Substrate specificity refers to the complementary three-dimensional fit between an enzyme's active site and its specific substrate, meaning each enzyme can only catalyze a specific reaction."
+  },
+  {
+    "q": "An allosteric enzyme undergoes a conformational change when it binds an effector molecule. Which level of protein structure is primarily altered during this regulatory transition?",
+    "opts": [
+      "Quaternary structure",
+      "Primary structure",
+      "Tertiary structure",
+      "Secondary structure"
+    ],
+    "ans": 2,
+    "exp": "Allosteric regulation involves changes in the enzyme's three-dimensional shape (tertiary structure) when an effector binds to a site other than the active site, altering the active site's affinity for the substrate."
+  },
+  {
+    "q": "What is the structural distinction between a simple protein and a holoenzyme?",
+    "opts": [
+      "A simple protein is inactive, while a holoenzyme is always active.",
+      "There is no structural difference; the terms are synonymous.",
+      "A simple protein contains inorganic metal ions, while a holoenzyme does not.",
+      "A holoenzyme is a conjugated protein consisting of an apoenzyme bound to its cofactor."
+    ],
+    "ans": 3,
+    "exp": "A simple protein consists entirely of amino acids. A holoenzyme is an active, complete enzyme system consisting of the protein component (apoenzyme) bound to its non-protein component (cofactor or coenzyme)."
+  },
+  {
+    "q": "A biochemist isolates an enzyme that has an optimal activity at pH 2. What would happen to the enzyme’s activity if the surrounding pH were raised to 8?",
+    "opts": [
+      "Its activity decreases due to denaturation.",
+      "Its activity increases due to conformational change.",
+      "There will be no change in its activity.",
+      "Its substrate affinity will increase."
+    ],
+    "ans": 0,
+    "exp": "Drastic changes in pH away from the optimum alter the ionization of amino acid side chains, disrupting the ionic and hydrogen bonds that stabilize the enzyme's active site and causing it to denature."
+  },
+  {
+    "q": "Enzymes are widely used in commercial laundry detergents. What is the primary benefit of including proteases in these formulations?",
+    "opts": [
+      "To break down and remove lipid-based grease stains.",
+      "To break down and remove protein-based stains like blood and grass.",
+      "To soften hard water by binding calcium ions.",
+      "To prevent fabric colors from fading."
+    ],
+    "ans": 1,
+    "exp": "Proteases catalyze the hydrolysis of peptide bonds in proteins, breaking down insoluble protein stains (such as blood, egg, or grass) into soluble amino acids that can be easily washed away."
+  },
+  {
+    "q": "If a laboratory cell culture is treated with a drug that inhibits the activity of DNA ligase, which step of the replication process will be directly disrupted?",
+    "opts": [
+      "The unwinding of the parental DNA double helix.",
+      "The synthesis of RNA primers to initiate replication.",
+      "The covalent joining of Okazaki fragments into a continuous strand.",
+      "The addition of individual nucleotides by DNA polymerase."
+    ],
+    "ans": 2,
+    "exp": "DNA ligase catalyzes the formation of phosphodiester bonds to join adjacent DNA segments. Inhibiting it prevents the covalent sealing of nicks between Okazaki fragments on the lagging strand."
+  },
+  {
+    "q": "What are the two identical copies of a single replicated chromosome, held together at the centromere, called?",
+    "opts": [
+      "Homologous chromosomes",
+      "Non-sister chromatids",
+      "Tetrads",
+      "Sister chromatids"
+    ],
+    "ans": 3,
+    "exp": "Replication produces two identical copies of a chromosome. While they remain joined at the centromere, they are referred to as sister chromatids."
+  },
+  {
+    "q": "If a cell is actively accumulating the building blocks of chromosomal DNA and gathering energy reserves to replicate its genome, which phase of the cell cycle is it in?",
+    "opts": [
+      "G1 Phase",
+      "S phase",
+      "G2 phase",
+      "M phase"
+    ],
+    "ans": 0,
+    "exp": "During the G1 (First Gap) phase of interphase, the cell undergoes growth, accumulates nucleotides and proteins necessary for DNA synthesis, and builds up energy reserves before entering the S (Synthesis) phase where replication occurs."
+  },
+  {
+    "q": "A plant with inflated pods is crossed with a plant with constricted pods. If all offspring in the F1 generation display inflated pods, what can you conclude about the genotype of the inflated-pod parent?",
+    "opts": [
+      "It is homozygous dominant.",
+      "It is heterozygous.",
+      "It is homozygous recessive.",
+      "No definitive genotypic conclusion can be drawn."
+    ],
+    "ans": 0,
+    "exp": "Since constricted pods did not appear in any F1 offspring, inflated pods are dominant. For 100% of the offspring to express the dominant trait, the parent with the dominant phenotype must be homozygous dominant (PP)."
+  },
+  {
+    "q": "A pedigree analysis reveals a genetic trait that appears in every generation. Every affected individual has at least one affected parent, and males and females are affected in equal proportions. What is the most likely mode of inheritance?",
+    "opts": [
+      "Autosomal recessive",
+      "Autosomal dominant",
+      "X-linked recessive",
+      "Y-linked"
+    ],
+    "ans": 1,
+    "exp": "Autosomal dominant traits do not skip generations (unless there is incomplete penetrance), affect males and females equally, and require only one affected parent to pass the trait."
+  },
+  {
+    "q": "How many individual bones make up the human cranium?",
+    "opts": [
+      "14",
+      "22",
+      "26",
+      "8"
+    ],
+    "ans": 3,
+    "exp": "The human skull contains 22 bones, of which exactly 8 make up the cranium (protecting the brain), and 14 form the facial skeleton."
+  },
+  {
+    "q": "Which type of joint in the neck is primarily utilized when a person nods their head to say 'Yes'?",
+    "opts": [
+      "Gliding joint",
+      "Saddle joint",
+      "Pivot joint",
+      "Hinge joint"
+    ],
+    "ans": 3,
+    "exp": "Nodding the head 'Yes' is primarily controlled by the atlanto-occipital joint. This joint permits back-and-forth movement, functioning like a hinge joint. (Shaking the head 'No' utilizes the pivot joint between the atlas and axis)."
+  },
+  {
+    "q": "During skeletal muscle contraction, what will happen during the sliding filament cycle if ATP is suddenly depleted and no longer available?",
+    "opts": [
+      "Relaxation fails because the cross-bridge link between actin and myosin cannot break.",
+      "Calcium ions will be pumped back into the sarcoplasmic reticulum at an accelerated rate.",
+      "The muscle will immediately switch to a rapid isometric contraction.",
+      "The muscle will instantly and completely relax."
+    ],
+    "ans": 0,
+    "exp": "ATP binding is required to detach the myosin head from the actin filament. Without ATP, myosin remains bound to actin, preventing relaxation and causing muscle stiffness (rigor mortis)."
+  },
+  {
+    "q": "What would happen to the muscle contraction cycle if a drug completely blocked calcium ions from binding to troponin?",
+    "opts": [
+      "Myosin would bind to actin permanently, causing continuous spasm.",
+      "Tropomyosin would remain in its blocking position, preventing cross-bridge formation.",
+      "The muscle would undergo continuous, rapid power strokes.",
+      "The sarcoplasmic reticulum would lose its ability to store calcium."
+    ],
+    "ans": 1,
+    "exp": "Calcium binding to troponin causes a conformational change that pulls tropomyosin away from the active sites on actin. If calcium is blocked, tropomyosin remains in place, preventing myosin from binding and stopping contraction."
+  },
+  {
+    "q": "What is the primary physiological function of the prostate gland in the male reproductive system?",
+    "opts": [
+      "It secretes mucus-rich fluids to neutralize vaginal acidity.",
+      "It secretes an alkaline, zinc-rich buffer into semen to protect sperm from acidic urine in the urethra.",
+      "It secretes fructose-rich fluids to serve as the main energy source for sperm motility.",
+      "It synthesizes and secretes testosterone to maintain secondary sexual characteristics."
+    ],
+    "ans": 1,
+    "exp": "The prostate gland secretes a thin, milky, slightly alkaline fluid that neutralizes the acidic environment of the male urethra (caused by residual urine) and the female vagina, enhancing sperm survival."
+  },
+  {
+    "q": "Which of the following sexually transmitted infections (STIs) is INCORRECTLY matched with its typical symptoms?",
+    "opts": [
+      "Molluscum contagiosum: small, firm, round bumps on the skin.",
+      "Genital Warts: systematic flu-like symptoms, high fever, and full-body rash.",
+      "Trichomoniasis: thin, frothy, often foul-smelling vaginal discharge.",
+      "Hepatitis B: liver inflammation, fatigue, and yellowing of the skin and eyes (jaundice)."
+    ],
+    "ans": 1,
+    "exp": "Genital warts, caused by certain strains of HPV, typically present as painless, fleshy growths or bumps in the genital area, not as systemic flu-like symptoms or a full-body rash."
+  },
+  {
+    "q": "Which of the following best describes the difference between spermatogenesis and oogenesis?",
+    "opts": [
+      "Spermatogenesis produces one functional gamete, while oogenesis produces four.",
+      "Spermatogenesis occurs entirely before birth, while oogenesis begins after puberty.",
+      "Spermatogenesis yields four functional haploid sperm, while oogenesis yields one functional haploid ovum and non-functional polar bodies.",
+      "Spermatogenesis is a mitotic process, whereas oogenesis is a purely meiotic process."
+    ],
+    "ans": 2,
+    "exp": "Spermatogenesis undergoes symmetric meiotic divisions to produce four functional, equal-sized haploid sperm. Oogenesis undergoes asymmetric cytokinesis, producing one large, functional haploid ovum and smaller, degenerate polar bodies."
+  },
+  {
+    "q": "A couple is seeking a permanent, surgical contraceptive option for the male partner. Which procedure should they choose?",
+    "opts": [
+      "Vasectomy",
+      "Tubal ligation",
+      "Use of a diaphragm",
+      "Hormonal implant"
+    ],
+    "ans": 0,
+    "exp": "A vasectomy is a permanent surgical procedure for males in which the vasa deferentia are severed and sealed to prevent sperm from entering the ejaculate."
+  },
+  {
+    "q": "Despite their different chemical origins, what is a common physiological risk shared by the abuse of both Marijuana (cannabis) and Cocaine?",
+    "opts": [
+      "They cause immediate physical damage to skeletal joints.",
+      "They cause identical patterns of slurred speech.",
+      "They selectively target and destroy the adolescent pituitary gland.",
+      "They have direct, negative impacts on cardiovascular health and respiratory function."
+    ],
+    "ans": 3,
+    "exp": "Both substances alter heart rate and blood pressure, placing stress on the cardiovascular system, and cause direct tissue damage to respiratory passages when inhaled or smoked."
+  },
+  {
+    "q": "An organism produces thousands of eggs in a single spawning event but provides zero parental care, resulting in extremely high initial mortality among offspring. Which type of survivorship curve characterizes this species?",
+    "opts": [
+      "Type I",
+      "Type II",
+      "Type III",
+      "Type IV"
+    ],
+    "ans": 2,
+    "exp": "Type III survivorship curves characterize species where mortality is extremely high in early life stages, but individuals that survive to adulthood have a much lower death rate."
+  },
+  {
+    "q": "What is the primary ecological difference between a J-shaped and an S-shaped population growth curve?",
+    "opts": [
+      "The J-shaped curve accounts for carrying capacity and resource limitations.",
+      "The S-shaped curve accounts for environmental resistance and carrying capacity.",
+      "The J-shaped curve represents a population that has reached its stable climax state.",
+      "The S-shaped curve assumes that resources are completely unlimited."
+    ],
+    "ans": 1,
+    "exp": "The J-shaped curve represents exponential growth under unlimited conditions. The S-shaped (logistic) curve accounts for environmental limits and slows down as the population size approaches the carrying capacity (K)."
+  },
+  {
+    "q": "If a keystone predator is suddenly removed from an ecosystem, what is the most likely initial response of its primary prey population's growth curve?",
+    "opts": [
+      "It will immediately level off at a stable carrying capacity.",
+      "The population will become highly uniform in its spatial dispersal.",
+      "The death rate of the prey will immediately exceed its birth rate.",
+      "It will shift from a stable logistic (S-shaped) curve to rapid exponential (J-shaped) growth."
+    ],
+    "ans": 3,
+    "exp": "Removing the primary predator eliminates a major source of mortality, allowing the prey population to grow without predatory limits, which initially shifts their growth from logistic to exponential."
+  },
+  {
+    "q": "In the process of environmental biomagnification (bioaccumulation), why are top-level predators in a food chain the most severely affected by toxins?",
+    "opts": [
+      "Toxins become progressively more concentrated in tissues at higher trophic levels.",
+      "Top predators absorb synthetic toxins directly from the air and water.",
+      "Top-level predators have a much slower metabolic rate than herbivores.",
+      "Top predators are the only organisms that feed directly on toxin-producing plants."
+    ],
+    "ans": 0,
+    "exp": "Biomagnification is the process where persistent, fat-soluble toxins increase in concentration in the tissues of organisms at successively higher levels of a food chain."
+  },
+  {
+    "q": "According to international standards, food security is considered fully ensured only if sufficient food is physically available, households can financially afford it, and:",
+    "opts": [
+      "there are no physical or social barriers to accessing food.",
+      "the food is grown using certified organic agricultural methods.",
+      "at least half of the food supply is imported to stabilize local prices.",
+      "every individual household maintains a personal subsistence garden."
+    ],
+    "ans": 0,
+    "exp": "Food security relies on three main pillars: availability (physical supply), access (financial and physical ability to obtain it without barriers), and utilization (nutritional value and safety)."
+  },
+  {
+    "q": "If a food scientist wants to produce a sustainable meat substitute that has a fibrous, meat-like texture, which microorganism is best suited for this application?",
+    "opts": [
+      "<i>Methylophilus methylotrophus</i>",
+      "<i>Fusarium venenatum</i>",
+      "<i>Streptococcus cremoris</i>",
+      "<i>Aspergillus niger</i>"
+    ],
+    "ans": 1,
+    "exp": "Mycoprotein, which is used to make meat substitutes (like Quorn), is produced using the filamentous fungus <i>Fusarium venenatum</i>."
+  },
+  {
+    "q": "When comparing the metabolic role of Saccharomyces cerevisiae in bread-making and alcohol production, what is its primary role in bread-making?",
+    "opts": [
+      "It produces ethyl alcohol as the main flavoring agent.",
+      "It is added to secrete enzymes that kill wild spoilage bacteria.",
+      "It undergoes anaerobic fermentation to maximize ethanol yields.",
+      "It respires aerobically, producing carbon dioxide and water to leaven the dough."
+    ],
+    "ans": 3,
+    "exp": "In bread-making, yeast is mixed into dough with access to oxygen. It undergoes aerobic respiration, producing CO₂ gas bubbles that expand and cause the dough to rise (leaven)."
+  },
+  {
+    "q": "When using the traditional 'back-slopping' method to ferment a new batch of Injera batter, what action is performed?",
+    "opts": [
+      "Distilling the fermented batter to increase its alcohol content.",
+      "Using a plasmid vector to introduce bacterial genes into the flour.",
+      "Adding a small portion of a previously fermented, active batter into the fresh ingredients.",
+      "Heating the active batter to pasteurize it before baking."
+    ],
+    "ans": 2,
+    "exp": "'Back-slopping' is a traditional fermentation technique where a small amount of an active, previously fermented batch (containing the target microbial community) is mixed into fresh ingredients to initiate fermentation."
+  },
+  {
+    "q": "A public health officer investigates an outbreak of severe, watery diarrhea in a village. Microscopic analysis of a patient's stool sample reveals comma-shaped bacteria. Which pathogen is suspected?",
+    "opts": [
+      "<i>Streptococcus pneumoniae</i>",
+      "<i>Treponema pallidum</i>",
+      "<i>Vibrio cholerae</i>",
+      "<i>Bacillus anthracis</i>"
+    ],
+    "ans": 2,
+    "exp": "<i>Vibrio cholerae</i> is a Gram-negative, comma-shaped bacterium (vibrio) that causes cholera, a disease characterized by severe watery diarrhea."
+  },
+  {
+    "q": "If molecular analysis reveals that a cell's initiator tRNA carries a standard methionine residue instead of N-formylmethionine, to which domain(s) of life does this cell likely belong?",
+    "opts": [
+      "Archaea or Eukarya",
+      "Only Eukarya",
+      "Only Bacteria",
+      "Only Archaea"
+    ],
+    "ans": 0,
+    "exp": "Bacteria use N-formylmethionine (fMet) as the initiator amino acid for protein synthesis. Archaea and Eukarya use standard methionine (Met)."
+  },
+  {
+    "q": "Which statement most accurately compares the ecological significance of saprophytic (decomposer) fungi and parasitic fungi?",
+    "opts": [
+      "Both are equally harmful to forest ecosystems and should be controlled.",
+      "Saprophytic fungi are more essential for global nutrient cycling because they break down dead organic matter.",
+      "Parasitic fungi are more important because they limit the growth of overpopulated plant species.",
+      "Neither group plays a significant role in the recycling of carbon or nitrogen."
+    ],
+    "ans": 1,
+    "exp": "Saprophytic fungi are primary decomposers. They secrete extracellular enzymes to break down complex organic matter (like lignin and cellulose) in dead organisms, recycling essential nutrients back into the soil."
+  },
+  {
+    "q": "In ciliates (such as Paramecium), how does the micronucleus structurally and functionally differ from the macronucleus?",
+    "opts": [
+      "The micronucleus handles digestion, while the macronucleus handles waste excretion.",
+      "Both nuclei perform the same metabolic tasks but at different points in the cell cycle.",
+      "The macronucleus is used for sexual reproduction, while the micronucleus controls daily operations.",
+      "The macronucleus controls everyday vegetative functions, while the micronucleus is reserved for sexual reproduction."
+    ],
+    "ans": 3,
+    "exp": "Ciliates exhibit nuclear dualism. The large macronucleus controls daily metabolic and vegetative functions, while the small micronucleus contains the germline and is used during conjugation (sexual reproduction)."
+  },
+  {
+    "q": "What is the major physiological distinction between viruses and free-living cellular organisms?",
+    "opts": [
+      "Viruses lack a peptidoglycan cell wall outside of their membrane.",
+      "Viruses do not contain any genetic material (DNA or RNA).",
+      "Viruses are obligate parasites that cannot replicate or function outside of a host cell.",
+      "Viruses are only capable of undergoing asexual binary fission."
+    ],
+    "ans": 2,
+    "exp": "Unlike cells, viruses lack metabolic machinery, ribosomes, and independent homeostatic controls. They are obligate intracellular parasites that must hijack a host cell's machinery to replicate."
+  },
+  {
+    "q": "Which of the following statements best distinguishes anabolism from catabolism?",
+    "opts": [
+      "Anabolism is the breakdown of complex molecules, while catabolism is their synthesis.",
+      "Anabolism is a biosynthetic process that consumes energy, while catabolism is a degradative process that releases it.",
+      "Catabolism is an endergonic process, while anabolism is an exergonic process.",
+      "Anabolism occurs primarily during cellular respiration, while catabolism occurs during photosynthesis."
+    ],
+    "ans": 1,
+    "exp": "Anabolism refers to biosynthetic, endergonic pathways that construct complex molecules from simpler ones (requiring energy input). Catabolism refers to degradative, exergonic pathways that break down complex molecules to harvest energy (releasing ATP)."
+  },
+  {
+    "q": "What is the structural relationship between thylakoids and grana inside a chloroplast?",
+    "opts": [
+      "Grana are stacks of interconnected, disc-like thylakoids.",
+      "Thylakoids are the tubular membranes that connect separate grana.",
+      "Grana are the outer envelope membranes that enclose individual thylakoid systems.",
+      "There is no structural relationship; they are located in different areas of the cell."
+    ],
+    "ans": 0,
+    "exp": "Thylakoids are individual, disc-like membrane-bound sacs where the light reactions of photosynthesis occur. Grana are stacks of these thylakoids."
+  },
+  {
+    "q": "What would happen to the light-dependent reactions of photosynthesis if the porphyrin ring in chlorophyll molecules was modified to be highly stable and resistant to losing electrons?",
+    "opts": [
+      "The rate of photosynthesis would increase because the chlorophyll would last longer.",
+      "The Calvin cycle would function independently of the light-dependent products.",
+      "The plant would be able to absorb green light more efficiently.",
+      "The light reactions would fail because excited electrons could not be transferred to electron acceptors."
+    ],
+    "ans": 3,
+    "exp": "The light-dependent reactions rely on photoactivation: when light energy excites electrons in chlorophyll, the molecule must lose these electrons to primary electron acceptors in the electron transport chain. If the porphyrin ring is too stable to lose electrons, the ETC will stop."
+  },
+  {
+    "q": "In C4 plants, what is the name of the first four-carbon compound produced during carbon fixation?",
+    "opts": [
+      "Oxaloacetic acid",
+      "Malic acid",
+      "Aspartic acid",
+      "Phosphoglycerate"
+    ],
+    "ans": 0,
+    "exp": "In C4 plants, CO₂ is fixed by the enzyme PEP carboxylase in mesophyll cells to form the four-carbon compound oxaloacetic acid (OAA)."
+  },
+  {
+    "q": "In C4 plants, how does the spatial separation of carbon fixation in mesophyll cells and the Calvin cycle in bundle sheath cells benefit the plant?",
+    "opts": [
+      "It allows the plant to perform the Calvin cycle only at night.",
+      "It concentrates CO₂ around RuBisCO in bundle sheath cells to minimize photorespiration.",
+      "It prevents the light reactions from occurring in direct sunlight.",
+      "It allows the plant to store water in the bundle sheath for later use."
+    ],
+    "ans": 1,
+    "exp": "By fixing carbon in the mesophyll and transporting it as malate to the bundle sheath cells, C4 plants maintain a high CO₂ concentration around RuBisCO. This suppresses photorespiration (where RuBisCO binds oxygen instead of CO₂)."
+  },
+  {
+    "q": "When demonstrating oxygen production in pondweed (Elodea) photosynthesis experiments, why is sodium hydrogen carbonate (NaHCO₃) often added to the water?",
+    "opts": [
+      "To act as a direct catalyst for the photolysis of water.",
+      "To make the water more transparent to light.",
+      "To disinfect the water by killing aerobic bacteria.",
+      "To dissolve and provide an abundant source of carbon dioxide."
+    ],
+    "ans": 3,
+    "exp": "Sodium hydrogen carbonate dissociates in water, releasing carbon dioxide (CO₂). This ensures that carbon dioxide is not a limiting factor in the rate of photosynthesis."
+  },
+  {
+    "q": "Which of the following is the physical location of the citric acid cycle (Krebs cycle) in eukaryotic cells?",
+    "opts": [
+      "Cytosol",
+      "Cristae",
+      "Mitochondrial matrix",
+      "Plasma membrane"
+    ],
+    "ans": 2,
+    "exp": "The enzymes and coenzymes required for the Krebs cycle are located in the fluid-filled interior of the mitochondria, known as the mitochondrial matrix. (The electron transport chain is located on the cristae of the inner membrane)."
+  },
+  {
+    "q": "If a cell initiates cellular respiration with exactly 10 molecules of glucose, what is the net yield of ATP molecules produced during the glycolysis stage?",
+    "opts": [
+      "10 ATP",
+      "20 ATP",
+      "40 ATP",
+      "360 ATP"
+    ],
+    "ans": 1,
+    "exp": "Glycolysis has a net yield of 2 ATP molecules per molecule of glucose (4 are produced, but 2 are consumed). For 10 glucose molecules, the net yield is 20 ATP."
+  },
+  {
+    "q": "Why does the oxidation of one NADH molecule during oxidative phosphorylation yield 3 ATP, while the oxidation of one FADH₂ molecule only yields 2 ATP?",
+    "opts": [
+      "FADH2 is a larger molecule and diffuses much slower across the inner membrane.",
+      "NADH is produced during more stages of cellular respiration than FADH₂.",
+      "NADH enters the ETC at Complex I, causing more protons to be pumped than FADH₂, which enters at Complex II.",
+      "Oxygen has a much higher chemical affinity for electrons donated by NADH."
+    ],
+    "ans": 2,
+    "exp": "NADH donates its electrons at Complex I, allowing protons to be pumped across the membrane at three complexes (I, III, and IV). FADH₂ donates its electrons at Complex II, skipping Complex I, which means fewer protons are pumped and less ATP is synthesized."
+  },
+  {
+    "q": "Which of the following scenarios best demonstrates a change in a population's genetic composition over time, satisfying the biological definition of evolution?",
+    "opts": [
+      "A snowshoe hare changing its coat color from brown to white during winter.",
+      "A livestock breeder choosing the fastest horses to sire offspring.",
+      "An athlete developing larger muscle fibers through intensive daily training.",
+      "A population of bacteria developing resistance to an antibiotic after exposure."
+    ],
+    "ans": 3,
+    "exp": "Evolution is defined as a change in allele frequencies within a population over generations. Antibiotic resistance is a classic example of natural selection driving genetic adaptation in a bacterial population."
+  },
+  {
+    "q": "Why is the modern synthetic theory of evolution (Neo-Darwinism) considered more scientifically robust than Lamarck's original theory of inheritance of acquired characteristics?",
+    "opts": [
+      "It removes the need for natural selection as an evolutionary force.",
+      "It provides a clear, genetic mechanism for how traits are inherited and modified.",
+      "It proves that biological organisms have existed eternally without changes.",
+      "It explains that structural changes occur because organisms desire to change."
+    ],
+    "ans": 1,
+    "exp": "Lamarckism lacked a valid genetic mechanism. Neo-Darwinism combines Darwin's theory of natural selection with modern genetics (DNA, mutations, Mendelian inheritance), explaining how genetic variations arise and are passed on."
+  },
+  {
+    "q": "From the perspective of comparative anatomy, why are the flippers of a dolphin (mammal) and the fins of a shark (fish) classified as analogous structures?",
+    "opts": [
+      "They share identical skeletal and bone arrangements.",
+      "They are both composed entirely of flexible cartilage.",
+      "They share a common evolutionary origin but serve different functions.",
+      "They perform the same function (swimming) but evolved from different anatomical origins."
+    ],
+    "ans": 3,
+    "exp": "Analogous structures are features in different species that perform similar functions but do not share a common evolutionary origin (result of convergent evolution)."
+  },
+  {
+    "q": "Which mode of natural selection is operating if the average birth weight of human newborns remains stable because both underweight and overweight infants experience higher mortality rates?",
+    "opts": [
+      "Directional selection",
+      "Disruptive selection",
+      "Stabilizing selection",
+      "Artificial selection"
+    ],
+    "ans": 2,
+    "exp": "Stabilizing selection is a mode of natural selection that favors intermediate phenotypes and acts against extreme phenotypes, reducing variation in a population."
+  },
+  {
+    "q": "Which hominid fossil is considered the oldest and 'nearest' to the divergence point from the common ancestor of humans and chimpanzees?",
+    "opts": [
+      "<i>Ardipithecus ramidus</i>",
+      "<i>Australopithecus afarensis</i>",
+      "<i>Homo erectus</i>",
+      "<i>Homo neanderthalensis</i>"
+    ],
+    "ans": 0,
+    "exp": "Among the options, <i>Ardipithecus ramidus</i> (dating back to approximately 4.4 million years ago) is the oldest hominid fossil, placing it closest to the evolutionary split between hominins and chimpanzees."
+  },
+  {
+    "q": "What is the molecular cause of the genetic disorder known as Sickle Cell Anemia?",
+    "opts": [
+      "A frame-shift mutation caused by the addition of a nucleotide base in the hemoglobin gene.",
+      "A point substitution mutation that replaces glutamic acid with valine in the beta-globin chain.",
+      "A major chromosomal deletion that removes the entire hemoglobin gene cluster.",
+      "An environmental pathogen that alters the structure of red blood cells."
+    ],
+    "ans": 1,
+    "exp": "Sickle cell anemia is caused by a single nucleotide substitution (point mutation) in the beta-globin gene, which changes the codon GAG (coding for glutamic acid) to GTG (coding for valine)."
+  },
+  {
+    "q": "What is the structural difference between chromosomal 'Inversion' and 'Translocation' mutations?",
+    "opts": [
+      "Inversion transfers a segment to a new chromosome, while translocation flips it.",
+      "Inversion causes Down syndrome, while translocation is always harmless.",
+      "Inversion reverses the orientation of a segment within the same chromosome, while translocation moves a segment to a non-homologous chromosome.",
+      "Both mutations are point mutations that alter only a single nucleotide base."
+    ],
+    "ans": 2,
+    "exp": "Inversion involves a 180-degree rotation (flipping) of a chromosomal segment within the same chromosome. Translocation involves the transfer of a chromosomal segment to a completely different, non-homologous chromosome."
+  },
+  {
+    "q": "Which statement describes the genetic status of a biological population that is in 'Hardy-Weinberg Equilibrium'?",
+    "opts": [
+      "The population is evolving rapidly because selective forces are active.",
+      "The population's size is extremely small, promoting rapid genetic drift.",
+      "All individuals are genetically identical clones because no mutations occur.",
+      "Allele and genotype frequencies remain constant over generations because no evolutionary forces are acting."
+    ],
+    "ans": 3,
+    "exp": "A population is in Hardy-Weinberg equilibrium when allele and genotype frequencies remain constant from generation to generation in the absence of evolutionary forces (like mutation, gene flow, selection, or genetic drift)."
+  },
+  {
+    "q": "In human neuroanatomy, a cluster of neuron cell bodies located outside the central nervous system (in the peripheral nervous system) is called a:",
+    "opts": [
+      "Ganglion",
+      "Nucleus",
+      "Grey matter",
+      "Nerve tract"
+    ],
+    "ans": 0,
+    "exp": "A cluster of neuron cell bodies in the Peripheral Nervous System (PNS) is called a ganglion (plural: ganglia). In the Central Nervous System (CNS), such a cluster is called a nucleus."
+  },
+  {
+    "q": "How do ion movements across the axonal membrane differ during action potential depolarization versus repolarization?",
+    "opts": [
+      "Sodium ions diffuse into the axon during depolarization, and potassium ions diffuse out during repolarization.",
+      "Sodium ions are actively pumped out during depolarization, and potassium ions are pumped in during repolarization.",
+      "Potassium ions diffuse out during depolarization, and sodium ions diffuse in during repolarization.",
+      "Both sodium and potassium ions enter the cell during depolarization and exit during repolarization."
+    ],
+    "ans": 0,
+    "exp": "Depolarization is caused by the rapid influx of sodium ions (Na⁺) through voltage-gated sodium channels. Repolarization is caused by the subsequent closure of sodium channels and the efflux of potassium ions (K⁺) through voltage-gated potassium channels."
+  },
+  {
+    "q": "How do the physiological functions of the sympathetic and parasympathetic divisions of the autonomic nervous system oppose each other?",
+    "opts": [
+      "The sympathetic division controls voluntary muscles, while the parasympathetic controls involuntary smooth muscles.",
+      "The sympathetic division is under conscious control, while the parasympathetic is completely automatic.",
+      "The sympathetic division originates in the brain, while the parasympathetic originates in the spinal cord.",
+      "The sympathetic division prepares the body for 'fight-or-flight', while the parasympathetic promotes 'rest-and-digest' activities."
+    ],
+    "ans": 3,
+    "exp": "The sympathetic division mobilizes bodily resources during stress or emergencies (fight-or-flight). The parasympathetic division conserves energy and restores homeostatic balance during periods of calm (rest-and-digest)."
+  },
+  {
+    "q": "Why do somatic reflex signals often travel only to the spinal cord via a reflex arc rather than traveling to the brain first?",
+    "opts": [
+      "It bypasses the brain to save time, enabling a rapid response that is crucial for survival.",
+      "Sensory neurons lack the neurotransmitters needed to communicate directly with the brain.",
+      "Interneurons are physically located only within the gray matter of the spinal cord.",
+      "The electrical signal generated by sensory receptors is too weak to reach the brain."
+    ],
+    "ans": 0,
+    "exp": "Reflex arcs bypass the brain and process the signal directly in the spinal cord. This shorter pathway minimizes response time, allowing for rapid, protective movements."
+  },
+  {
+    "q": "If a person repeatedly abuses nicotine, causing continuous artificial surges of dopamine release, what is the expected long-term physiological impact on their neurological reward system?",
+    "opts": [
+      "The brain will stop relying on receptors and synthesize its own nicotine.",
+      "The postsynaptic receptors will become highly sensitized to low levels of dopamine.",
+      "The brain will downregulate dopamine receptors, causing cravings and requiring higher doses to achieve the same effect.",
+      "Dopamine-producing neurons will permanently switch to synthesizing adrenaline."
+    ],
+    "ans": 2,
+    "exp": "Chronic overstimulation by drugs like nicotine leads to tolerance: the brain downregulates (decreases the number of) dopamine receptors. As a result, the user needs more of the drug to experience the same reward level."
+  },
+  {
+    "q": "Which of the following is a true statement regarding the anatomical structure known as 'thick skin' (found on the palms of hands and soles of feet)?",
+    "opts": [
+      "It covers and protects the majority of the human body's surface.",
+      "It lacks hair follicles and sebaceous (oil) glands.",
+      "It contains a high density of active hair follicles.",
+      "It is the primary tissue that covers the delicate eyelids."
+    ],
+    "ans": 1,
+    "exp": "Thick skin has a much thicker stratum corneum layer to withstand friction, but it completely lacks hair follicles, arrector pili muscles, and sebaceous (oil) glands. It does contain sweat glands."
+  },
+  {
+    "q": "Which of the following sequences correctly organizes the anatomical structures of the human ear with their primary sensory function?",
+    "opts": [
+      "Hearing: Cochlea; Motion: Semicircular canals; Posture: Utricle and Saccule.",
+      "Hearing: Pinna; Motion: Cochlea; Posture: Auditory ossicles.",
+      "Hearing: Auditory nerve; Motion: Eustachian tube; Posture: Ampulla.",
+      "Hearing: Oval window; Motion: Round window; Posture: Tympanic membrane."
+    ],
+    "ans": 0,
+    "exp": "The cochlea contains the organ of Corti for hearing. The semicircular canals detect rotational acceleration (motion). The vestibule (containing the utricle and saccule) detects linear acceleration and gravity (gravitational posture)."
+  },
+  {
+    "q": "If a person steps from a brightly lit environment into a dim room, what physiological change occurs in their iris muscles to adjust?",
+    "opts": [
+      "Circular muscles contract, causing the radial muscles to relax.",
+      "Radial muscles contract, causing the circular muscles to relax and dilating the pupil.",
+      "Both circular and radial muscles contract simultaneously to lock the iris.",
+      "Both muscle groups relax completely to maximize pupil opening."
+    ],
+    "ans": 1,
+    "exp": "In dim light, sympathetic stimulation causes the radial (dilator) muscles of the iris to contract. This pulls the pupillary margin outward, dilating the pupil to allow more light to enter."
+  },
+  {
+    "q": "How do the visual functions of the photoreceptors (rods and cones) in the retina differ in terms of light sensitivity?",
+    "opts": [
+      "Rods are specialized for color vision, while cones are specialized for black-and-white vision.",
+      "Rods are concentrated in the macula, while cones are concentrated around the optic disc.",
+      "Rods function in dim light (scotopic vision), while cones require bright light and detect color (photopic vision).",
+      "Rods have a much lower sensitivity to light than cones."
+    ],
+    "ans": 2,
+    "exp": "Rods are highly sensitive to light and function in low-light conditions (scotopic vision) but do not detect color. Cones have a higher activation threshold, function in bright light (photopic vision), and provide high-acuity color vision."
+  },
+  {
+    "q": "How do the endocrine secretions of the thyroid and parathyroid glands interact to maintain systemic calcium homeostasis?",
+    "opts": [
+      "Both glands secrete parathyroid hormone (PTH) to maximize blood calcium levels.",
+      "The glands cooperate to ensure calcium is only excreted via sweat glands.",
+      "The thyroid gland synthesizes calcium directly, while the parathyroid stores it.",
+      "The thyroid releases calcitonin to lower blood calcium levels, while the parathyroid releases parathyroid hormone (PTH) to raise them."
+    ],
+    "ans": 3,
+    "exp": "Calcitonin (secreted by thyroid parafollicular cells) lowers blood calcium by promoting bone deposition and renal excretion. Parathyroid hormone (PTH, from parathyroid glands) raises blood calcium by stimulating osteoclasts, renal reabsorption, and intestinal absorption."
+  },
+  {
+    "q": "In the mammalian kidney, what is the primary physiological function of the Loop of Henle?",
+    "opts": [
+      "The ultrafiltration of large plasma proteins out of the blood.",
+      "To establish an osmotic gradient in the medulla to concentrate urine and conserve water.",
+      "To collect processed urine and channel it directly to the ureters.",
+      "To act as a direct chemical sensor for changes in blood pH."
+    ],
+    "ans": 1,
+    "exp": "The loop of Henle utilizes a countercurrent multiplier system to establish a highly concentrated solute gradient in the renal medulla, which allows the collecting ducts to reabsorb water and concentrate urine."
+  },
+  {
+    "q": "Why is carbon dioxide (CO₂) considered the greenhouse gas responsible for the greatest share of anthropogenic global warming, even though individual methane (CH₄) molecules absorb far more heat energy?",
+    "opts": [
+      "Because carbon dioxide is the only gas that reflects incoming solar radiation.",
+      "Because carbon dioxide is the sole gas released during the combustion of fossil fuels.",
+      "Because carbon dioxide is far more abundant in the atmosphere and remains there for a significantly longer duration.",
+      "Because carbon dioxide molecules act as a solid physical barrier while other gases do not."
+    ],
+    "ans": 2,
+    "exp": "Although methane has a much higher global warming potential (GWP) per molecule, carbon dioxide is released in far greater volumes and persists in the atmosphere for centuries, whereas methane degrades in about a decade."
+  },
+  {
+    "q": "According to standard emergency guidelines, what is the safest immediate action to take if you are indoors when a major earthquake begins?",
+    "opts": [
+      "Take cover under a sturdy piece of furniture (Drop, Cover, and Hold On) until shaking stops.",
+      "Evacuate the building immediately by running down the stairs.",
+      "Use the nearest elevator to reach the ground floor as quickly as possible.",
+      "Move close to a window to monitor outside hazards and falling debris."
+    ],
+    "ans": 0,
+    "exp": "The standard, internationally recognized safety advice during an earthquake is to 'Drop, Cover, and Hold On' under a sturdy table or desk to protect yourself from falling objects, which cause the majority of earthquake-related injuries."
+  },
+  {
+    "q": "What is the primary target and objective of the United Nations Framework Convention on Climate Change (UNFCCC)?",
+    "opts": [
+      "To enforce a global ban on all fossil fuel extraction activities by 2025.",
+      "To distribute financial aid exclusively to highly industrialized nations.",
+      "To coordinate global initiatives to plant exactly 20 billion trees.",
+      "To stabilize greenhouse gas concentrations in the atmosphere at a level that prevents dangerous human interference with the climate system."
+    ],
+    "ans": 3,
+    "exp": "The ultimate objective of the UNFCCC (adopted in 1992) is to stabilize greenhouse gas concentrations in the atmosphere at a level that prevents dangerous anthropogenic (human-induced) interference with the earth's climate system."
+  }
+]

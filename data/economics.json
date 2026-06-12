@@ -1,0 +1,1102 @@
+[
+  {
+    "q": "Which statement best explains consumer equilibrium under Indifference Curve Analysis?",
+    "opts": [
+      "When maximum income is achieved at higher level of production by firms",
+      "When the budget line intersects the demand curve",
+      "When the highest possible indifference curve is tangent to the budget line",
+      "When the total utility becomes constant at various level of income"
+    ],
+    "ans": 2,
+    "exp": "Under Indifference Curve analysis, consumer equilibrium is attained at the point of tangency between the budget line and the highest possible indifference curve. At this point, the marginal rate of substitution equals the price ratio."
+  },
+  {
+    "q": "Which theory provides a more realistic explanation of consumer choice?",
+    "opts": [
+      "Ordinal Utility Theory",
+      "Production theory",
+      "Cardinal Utility Theory",
+      "Supply and demand theory"
+    ],
+    "ans": 0,
+    "exp": "Ordinal Utility Theory is more realistic because it only requires consumers to rank their preferences (first, second, third, etc.) rather than assuming utility can be measured in absolute numerical units ('utils')."
+  },
+  {
+    "q": "Which of the following statements best evaluates the difference between Cardinal Utility theory and Ordinal Utility Theory in explaining consumer behavior?",
+    "opts": [
+      "Ordinal utility measures satisfaction numerically, while Cardinal utility ranks preferences without measuring satisfaction.",
+      "Cardinal utility measures satisfaction numerically, while Ordinal utility ranks preferences without measuring satisfaction",
+      "Cardinal utility focuses on income only, while ordinal utility focuses on price only.",
+      "Both theories measure utility in exactly the same way."
+    ],
+    "ans": 1,
+    "exp": "Cardinal utility assumes utility can be quantified numerically (e.g., 10 utils). Ordinal utility rejects numerical quantification, assuming instead that consumers can only rank their preference bundles."
+  },
+  {
+    "q": "Which portion of the utility curve forms the appropriate basis for deriving the demand curve according to the cardinal utility theory?",
+    "opts": [
+      "The entire segment of the total utility curve",
+      "The entire segment of the marginal utility curve",
+      "The positive segment of the total utility curve",
+      "The positive segment of the marginal utility curve"
+    ],
+    "ans": 3,
+    "exp": "The positive, downward-sloping segment of the marginal utility (MU) curve is the basis for the individual demand curve because a rational consumer will purchase more only if price decreases, reflecting falling marginal utility."
+  },
+  {
+    "q": "Which of the following best explains an indifference curve?",
+    "opts": [
+      "A curve showing combinations of goods that give equal satisfaction to the consumer",
+      "A curve showing levels of national income that yield equal level of its distribution",
+      "A curve showing total production of a firm in a given production function",
+      "A curve showing changes in market price keeping other factors remain constant"
+    ],
+    "ans": 0,
+    "exp": "An indifference curve connects different combinations of two goods that yield the exact same level of total utility or satisfaction to the consumer."
+  },
+  {
+    "q": "If a consumer’s income increases while prices of goods remain constant, what will happen to the budget line?",
+    "opts": [
+      "It shifts inward",
+      "It becomes steeper",
+      "It shifts outward parallel to the original line",
+      "It remains unchanged"
+    ],
+    "ans": 2,
+    "exp": "An increase in consumer income increases purchasing power, shifting the budget line outward parallel to the original line. The slope remains constant because prices are unchanged."
+  },
+  {
+    "q": "Indifference curves that intersect would violate which of the following assumptions of consumer preferences?",
+    "opts": [
+      "The assumption of diminishing marginal utility",
+      "The transitivity property of consumer preferences",
+      "The completeness property of consumer preferences",
+      "The law of opportunity cost"
+    ],
+    "ans": 1,
+    "exp": "Intersecting indifference curves violate the assumption of transitivity. If Curve 1 shares a point with Curve 2, then points on both curves would have to yield equal utility, which contradicts the non-satiation rule."
+  },
+  {
+    "q": "Suppose a consumer is not at equilibrium because the marginal utility per birr spent on good X is greater than that of good Y (MU_x/P_x > MU_y/P_y). What should the consumer do to reach equilibrium?",
+    "opts": [
+      "Buy more of good Y and less of good X",
+      "Stop consuming both goods",
+      "Buy more of good X and more of good Y",
+      "Buy more of good X and less of good Y"
+    ],
+    "ans": 3,
+    "exp": "The consumer gets more satisfaction per birr from X. To maximize utility, they should purchase more of X (lowering MU_x due to diminishing returns) and less of Y (raising MU_y) until MU_x/P_x = MU_y/P_y."
+  },
+  {
+    "q": "A sudden increase in consumer income causes the demand curve for a normal good to shift right, while the supply curve remains unchanged. What happens to equilibrium price and quantity?",
+    "opts": [
+      "Price falls, quantity rises",
+      "Price rises, quantity rises",
+      "Price rises, quantity falls",
+      "Price falls, quantity falls"
+    ],
+    "ans": 1,
+    "exp": "A rightward shift in demand along a stationary supply curve creates a temporary shortage at the original price, bid-driving the equilibrium price and quantity upward."
+  },
+  {
+    "q": "The law of demand states that, ceteris paribus:",
+    "opts": [
+      "As the price of a good rises, the quantity demanded rises",
+      "As the price of a good falls, the quantity demanded rises",
+      "Quantity demanded remains constant regardless of price",
+      "Quantity demanded and price is positive relationship"
+    ],
+    "ans": 1,
+    "exp": "The Law of Demand states that there is an inverse relationship between price and quantity demanded: as price decreases, quantity demanded increases."
+  },
+  {
+    "q": "Which of the following correctly matches the value of price elasticity of demand (PED) with its type of demand?",
+    "opts": [
+      "PED = 0 ⟶ perfectly elastic demand",
+      "PED = 1 ⟶ Inelastic demand",
+      "PED > 1 ⟶ Elastic demand",
+      "PED = ∞ ⟶ Perfectly inelastic demand"
+    ],
+    "ans": 2,
+    "exp": "Demand is classified as elastic if its price elasticity value is greater than 1 (PED > 1), meaning consumers are highly responsive to price changes."
+  },
+  {
+    "q": "Suppose an individual demand and supply function of a commodity in a given market is Qd = 20 - P and Qs = 3P - 12, respectively. If there are 100 buyers and 50 suppliers, what are the market equilibrium price and quantity respectively?",
+    "opts": [
+      "10.4 and 960",
+      "960 and 10.4",
+      "12 and 8",
+      "8 and 12"
+    ],
+    "ans": 0,
+    "exp": "Market Demand: QD = 100 * (20 - P) = 2000 - 100P. Market Supply: QS = 50 * (3P - 12) = 150P - 600. Equate: 2000 - 100P = 150P - 600 => 2600 = 250P => P = 10.4. Substitute P: Q = 2000 - 1040 = 960."
+  },
+  {
+    "q": "An economist observes that after a decrease in the price of coffee, consumers buy more coffee while all other factors remain constant. Which conclusion is most appropriate?",
+    "opts": [
+      "There is an increase in demand for coffee.",
+      "There is a decrease in demand for coffee.",
+      "The demand curve for coffee shifts to the right.",
+      "There is a change in quantity demanded due to price change."
+    ],
+    "ans": 3,
+    "exp": "A change in the good's own price causes a movement along the demand curve, which is described as a change in 'quantity demanded', not a shift in the 'demand curve'."
+  },
+  {
+    "q": "A firm produces 10 units of output at a total cost of 500 Birr. When output increases to 11 units, total cost rises to 540 Birr. What is the marginal cost of the 11th unit?",
+    "opts": [
+      "60 Birr",
+      "50 Birr",
+      "45 Birr",
+      "40 Birr"
+    ],
+    "ans": 3,
+    "exp": "Marginal Cost is the change in total cost resulting from producing one additional unit: MC = TC(11) - TC(10) = 540 - 500 = 40 Birr."
+  },
+  {
+    "q": "Which of the following statements is true about fixed cost?",
+    "opts": [
+      "Average fixed cost continuously decreases as output increases.",
+      "Total fixed cost is the sum of total variable cost and total cost.",
+      "Total fixed cost continuously increases as output expands.",
+      "Total fixed cost varies with the level of output."
+    ],
+    "ans": 0,
+    "exp": "Average Fixed Cost is calculated as TFC/Q. Because Total Fixed Cost remains constant, AFC decreases continuously as output (Q) expands."
+  },
+  {
+    "q": "If the Marginal Product (MP) of labor is greater than its Average Product (AP), then:",
+    "opts": [
+      "AP is falling and MC is rising",
+      "AP is constant and MC is constant",
+      "AP is rising and MC is falling",
+      "AP is falling and MC is falling"
+    ],
+    "ans": 2,
+    "exp": "When MP is greater than AP, it pulls the Average Product curve upward (AP is rising). Because productivity is rising, the short-run marginal cost (MC) of producing additional units is falling."
+  },
+  {
+    "q": "In a perfectly competitive market, a firm has an average cost (AC) of 50 Birr. If the market price (P) is 50 Birr, which of the following statements is correct?",
+    "opts": [
+      "The firm will incur a loss because price is equal to average cost.",
+      "The firm will be at shut down point because price is equal to average cost.",
+      "Total revenue equals total cost, and the firm earns zero economic profit.",
+      "The firm will earn super normal profit because P is greater than AC."
+    ],
+    "ans": 2,
+    "exp": "If P = AC = 50 Birr, then Total Revenue (P * Q) equals Total Cost (AC * Q). Under this condition, the firm earns zero economic profit, also known as earning a normal profit."
+  },
+  {
+    "q": "Which of the following correctly ranks market structures in order from the most competitive to the least competitive?",
+    "opts": [
+      "Monopoly → Oligopoly → Monopolistic Competition → Perfect Competition",
+      "Perfect Competition → Monopolistic Competition → Oligopoly → Monopoly",
+      "Oligopoly → Perfect Competition → Monopoly → Monopolistic Competition",
+      "Monopolistic Competition → Perfect Competition → Oligopoly → Monopoly"
+    ],
+    "ans": 1,
+    "exp": "The competitiveness of markets runs from Perfect Competition (infinite sellers, price takers) to Monopolistic Competition (many sellers), Oligopoly (few sellers), and Monopoly (one single seller)."
+  },
+  {
+    "q": "Which of the following statements correctly compares monopoly and monopolistic competition with respect to AR, MR, and the demand curve?",
+    "opts": [
+      "In both market structures, AR is the demand curve and MR lies below AR curve",
+      "In monopolistic competition, the demand curve is perfectly elastic.",
+      "In monopoly, the MR curve lies above the AR curve.",
+      "In monopoly, AR equals MR, while in monopolistic competition MR lies below AR."
+    ],
+    "ans": 0,
+    "exp": "For any firm facing a downward-sloping demand curve, Average Revenue (AR) is equal to price and represents the demand curve, while Marginal Revenue (MR) is less than price and lies below the AR curve."
+  },
+  {
+    "q": "Which of the following conditions best explains why individual firms in a perfectly competitive market are price takers?",
+    "opts": [
+      "There are significant barriers to entry that limit competition.",
+      "Firms sell differentiated products that create brand loyalty.",
+      "A single seller controls the total market supply.",
+      "There are many buyers and sellers trading homogeneous products."
+    ],
+    "ans": 3,
+    "exp": "Because there are numerous buyers and sellers, and all products are identical (homogeneous), no individual seller has any power to influence the market price."
+  },
+  {
+    "q": "Which of the following best describes first-degree price discrimination by a monopolist?",
+    "opts": [
+      "Charging different prices to different groups based on observable characteristics.",
+      "Charging each consumer the maximum price he or she is willing to pay.",
+      "Charging lower prices for bulk purchases only.",
+      "Charging the same price based on identifiable group differences."
+    ],
+    "ans": 1,
+    "exp": "First-degree (or perfect) price discrimination occurs when a monopolist charges each individual consumer the maximum price they are willing to pay (their reservation price), capturing all consumer surplus."
+  },
+  {
+    "q": "A competitive firm will produce an optimum level of output in the short run as long as:",
+    "opts": [
+      "Average total cost is greater than price.",
+      "Price less than marginal cost.",
+      "Average variable cost is less than price.",
+      "Price equal to marginal cost."
+    ],
+    "ans": 2,
+    "exp": "In the short run, a firm will continue to produce as long as price covers its average variable cost (P ≥ AVC). If price falls below AVC, the firm will shut down to minimize losses."
+  },
+  {
+    "q": "Which of the following terms is NOT associated with the oligopoly market structure?",
+    "opts": [
+      "Conscious parallelism",
+      "Collusion",
+      "perfect competition",
+      "Cartel"
+    ],
+    "ans": 2,
+    "exp": "Perfect competition is a distinct market structure characterized by many small firms. Collusion, cartels, and conscious parallelism are terms used to describe strategic behavior in oligopolies."
+  },
+  {
+    "q": "A perfectly competitive firm is earning a profit of Birr 60 by selling 20 units of output. If the average variable cost (AVC) is Birr 5 and the market price is Birr 15, what is the total fixed cost of the firm?",
+    "opts": [
+      "Birr 50",
+      "Birr 140",
+      "Birr 120",
+      "Birr 155"
+    ],
+    "ans": 1,
+    "exp": "Profit = TR - TC = (P * Q) - (TFC + TVC) = (P * Q) - TFC - (AVC * Q). Substituting values: 60 = (15 * 20) - TFC - (5 * 20) => 60 = 300 - TFC - 100 => 60 = 200 - TFC => TFC = 140 Birr."
+  },
+  {
+    "q": "In an oligopolistic market, which statement best describes the difference between collusive and non-collusive behavior?",
+    "opts": [
+      "Collusive oligopoly firms cooperate formally to maximize joint profits, while non-collusive firms independently set prices and output",
+      "Collusive oligopoly firms compete aggressively on price, while non-collusive firms cooperate to fix output and price",
+      "Collusive oligopoly firms always produce differentiated products, while non-collusive firms produce homogeneous products.",
+      "Collusive oligopoly firms face perfectly elastic demand, while non-collusive firms face downward-sloping demand."
+    ],
+    "ans": 0,
+    "exp": "In collusive oligopolies, firms cooperate to act like a monopolist and maximize joint profits. In non-collusive oligopolies, firms act independently and strategically, anticipating rivals' reactions."
+  },
+  {
+    "q": "Which of the following best describes the primary function of financial intermediaries?",
+    "opts": [
+      "To set monetary policy and control inflation",
+      "To facilitate the transfer of funds from savers to borrowers",
+      "To regulate stock market activities",
+      "To provide insurance services exclusively"
+    ],
+    "ans": 1,
+    "exp": "Financial intermediaries (such as banks or credit unions) channel excess funds from saving agents (surplus units) to investing agents (deficit units)."
+  },
+  {
+    "q": "Microfinance institutions primarily differ from commercial banks because they:",
+    "opts": [
+      "Focus on providing loans to large corporations",
+      "Operate without any government regulation",
+      "Provide small loans to low-income individuals or groups",
+      "Do not charge interest on any loans"
+    ],
+    "ans": 2,
+    "exp": "Microfinance institutions are designed to promote financial inclusion by extending micro-credit and small financial services to low-income entrepreneurs who lack access to commercial banking."
+  },
+  {
+    "q": "If a company wants to raise long-term capital for expansion, which financial market should it primarily access?",
+    "opts": [
+      "Money market",
+      "Foreign exchange market",
+      "Traditional market",
+      "Capital market"
+    ],
+    "ans": 3,
+    "exp": "Long-term financial instruments (like stocks, bonds, or debentures) are traded in the Capital Market, whereas short-term instruments are traded in the Money Market."
+  },
+  {
+    "q": "Which of the following is considered a macroeconomic variable?",
+    "opts": [
+      "Individual income",
+      "Personal savings account balance",
+      "Gross Domestic Product (GDP)",
+      "Daily stock purchases"
+    ],
+    "ans": 2,
+    "exp": "GDP measures the total economic output of an entire nation, making it an aggregate macroeconomic variable. The other options describe microeconomic variables."
+  },
+  {
+    "q": "Which phase of the business cycle is characterized by contracting economic output and rising unemployment?",
+    "opts": [
+      "Expansion",
+      "Recession",
+      "Peak",
+      "Recovery"
+    ],
+    "ans": 1,
+    "exp": "A recession is a phase of the business cycle marked by a decline in economic activity (real GDP) and a subsequent increase in unemployment."
+  },
+  {
+    "q": "Which of the following measures the total market value of all final goods and services produced within a country's borders in a year, regardless of the nationality of the resource owners?",
+    "opts": [
+      "Gross Domestic Product (GDP)",
+      "Gross Personal Income (GPI)",
+      "Gross National Product (GNP)",
+      "Gross National Income (GNI)"
+    ],
+    "ans": 0,
+    "exp": "GDP is a location-based measure, tracking all final output produced within the geographic boundaries of a nation."
+  },
+  {
+    "q": "Which of the following correctly describes the difference between nominal GDP and real GDP?",
+    "opts": [
+      "Nominal GDP is calculated using current prices, while real GDP is calculated using the current population.",
+      "Nominal GDP is calculated using constant prices, while real GDP is calculated using constant population.",
+      "Nominal GDP is calculated using current prices, while real GDP is calculated using constant prices.",
+      "Nominal GDP is calculated using constant prices, while real GDP is calculated using current prices"
+    ],
+    "ans": 2,
+    "exp": "Nominal GDP values output using the prices of the year in which it was produced (current prices). Real GDP adjusts for inflation by valuing output using prices from a designated base year (constant prices)."
+  },
+  {
+    "q": "The main difference between the Consumer Price Index (CPI) and the GDP deflator is:",
+    "opts": [
+      "The CPI measures price changes for consumer goods and services, whereas the GDP deflator measures price changes of all domestically produced final goods and services.",
+      "The CPI includes only domestically produced goods, whereas the GDP deflator includes imported goods.",
+      "The CPI measures changes in production levels, whereas the GDP deflator measures changes in consumer income.",
+      "The CPI is calculated using current quantities each year, whereas the GDP deflator is based on a fixed basket of goods."
+    ],
+    "ans": 0,
+    "exp": "The CPI tracks price changes in a fixed basket of consumer goods (including imports). The GDP deflator is a broader measure that tracks price changes in all domestically produced final goods (excluding imports)."
+  },
+  {
+    "q": "Which of the following is considered a primary driver of long-term economic growth?",
+    "opts": [
+      "Technological advancement",
+      "Inflation targeting",
+      "Political campaigns",
+      "Budget deficits"
+    ],
+    "ans": 0,
+    "exp": "Long-term sustainable economic growth is driven by increases in productivity, which are primarily achieved through technological progress and capital accumulation."
+  },
+  {
+    "q": "The difference between Gross Domestic Product (GDP) and Gross National Product (GNP) is that GNP:",
+    "opts": [
+      "Excludes net income from abroad",
+      "Exclude export",
+      "Excludes taxes",
+      "Includes net income from abroad"
+    ],
+    "ans": 3,
+    "exp": "GNP is a citizenship-based measure: GNP = GDP + Net Factor Income from Abroad (NFIA)."
+  },
+  {
+    "q": "A German company operates in Ethiopia and earns profits there. How are the GDP and GNP of both countries affected?",
+    "opts": [
+      "Germany’s GDP and GNP decreases, while Ethiopia’s GDP and GNP increases.",
+      "Germany’s GDP remains unchanged and its GNP increases, while Ethiopia’s GDP increases and its GNP remains unchanged.",
+      "Germany’s GDP and GNP increases, while Ethiopia’s GDP and GNP decreases.",
+      "Germany’s GNP remains unchanged and its GDP increases, while Ethiopia’s GNP increases and its GDP remains unchanged."
+    ],
+    "ans": 1,
+    "exp": "Because production occurs in Ethiopia, it increases Ethiopia's GDP. Because the company is German-owned, the profits represent factor income from abroad for Germany, increasing Germany's GNP."
+  },
+  {
+    "q": "All of the following explain why GDP is an imperfect measure of economic welfare EXCEPT:",
+    "opts": [
+      "GDP fails to reflect how income is distributed among individuals within a country.",
+      "GDP excludes non-market activities such as household production and volunteer work.",
+      "GDP largely account for environmental degradation and resource depletion.",
+      "GDP overestimates welfare because it includes transfer payments as part of production."
+    ],
+    "ans": 3,
+    "exp": "Transfer payments (like pensions or unemployment benefits) are completely excluded from GDP calculations. Therefore, the claim that GDP includes them is false, making it the correct 'EXCEPT' option."
+  },
+  {
+    "q": "Suppose that the Marginal Propensity to Consume (MPC) is 0.75 and income increases by 1,000 Birr. What is the expected increase in national saving?",
+    "opts": [
+      "750 Birr",
+      "250 Birr",
+      "1,000 Birr",
+      "220 Birr"
+    ],
+    "ans": 1,
+    "exp": "Marginal Propensity to Save (MPS) = 1 - MPC = 1 - 0.75 = 0.25. Change in Saving = MPS * Change in Income = 0.25 * 1,000 = 250 Birr."
+  },
+  {
+    "q": "Which statement correctly describes the relationship between consumption and saving?",
+    "opts": [
+      "Consumption and saving are unrelated variables.",
+      "Saving increases only when consumption increases.",
+      "Saving is the portion of income that remains after consumption.",
+      "An increase in consumption leads to an increase in saving."
+    ],
+    "ans": 2,
+    "exp": "In macroeconomic identity, disposable income is divided between consumption and saving (Y = C + S). Therefore, saving is the residual income left after consumption (S = Y - C)."
+  },
+  {
+    "q": "Which of the following equations correctly describes the relationship among MPC, MPS, APC, and APS in Keynesian consumption theory?",
+    "opts": [
+      "MPC + APC = 1 and MPS + APS = 1",
+      "APC + MPS = 1 and MPC + APS = 1",
+      "MPC = APS and APC = MPS",
+      "APC + APS = 1 and MPC + MPS = 1"
+    ],
+    "ans": 3,
+    "exp": "Since Y = C + S, dividing by Y gives C/Y + S/Y = 1, meaning APC + APS = 1. Similarly, the sum of the marginal changes must equal 1, so MPC + MPS = 1."
+  },
+  {
+    "q": "The consumption function shows the mathematical relationship between:",
+    "opts": [
+      "Income and saving",
+      "Saving and consumption",
+      "Income and investment",
+      "Income and consumption"
+    ],
+    "ans": 3,
+    "exp": "The consumption function (C = a + bYd) expresses consumption spending as a direct function of disposable income."
+  },
+  {
+    "q": "In macroeconomics, induced investment is defined as investment that:",
+    "opts": [
+      "Is independent of income",
+      "Is determined only by government",
+      "Depends on the level of income",
+      "Is unrelated to profits"
+    ],
+    "ans": 2,
+    "exp": "Autonomous investment is independent of income. Induced investment is directly driven by changes in national income or output (increasing as GDP expands)."
+  },
+  {
+    "q": "Which statement best reflects the core principle of the Mercantilist theory of international trade?",
+    "opts": [
+      "International trade benefits all countries through specialization & comparative advantage.",
+      "National wealth is measured by the accumulation of gold and silver, achieved through a trade surplus.",
+      "Free trade maximizes global welfare and economic efficiency.",
+      "Mercantilism views international trade as a mutually beneficial (non–zero-sum) game."
+    ],
+    "ans": 1,
+    "exp": "Mercantilists believed that global wealth was finite and measured by precious metals. They argued that countries must run trade surpluses (exports > imports) to accumulate gold and silver."
+  },
+  {
+    "q": "Which of the following best differentiates absolute advantage from comparative advantage?",
+    "opts": [
+      "Absolute advantage is about overall productivity, while comparative advantage is about lower opportunity cost.",
+      "Absolute advantage focuses on opportunity cost, while comparative advantage focuses on efficiency.",
+      "Absolute advantage applies only to imports, while comparative advantage applies only to exports.",
+      "Both theories assume that international trade is always a zero-sum game."
+    ],
+    "ans": 0,
+    "exp": "Absolute advantage (Adam Smith) is the ability to produce more of a good using fewer resources. Comparative advantage (David Ricardo) is the ability to produce a good at a lower opportunity cost."
+  },
+  {
+    "q": "Ethiopia’s active participation in regional trading blocs like COMESA primarily aims to:",
+    "opts": [
+      "Restrict trade",
+      "Increase trade barriers",
+      "Promote regional economic integration",
+      "Reduce domestic production"
+    ],
+    "ans": 2,
+    "exp": "Regional blocs like COMESA are designed to reduce trade barriers, expand market access, and promote economic integration among member states."
+  },
+  {
+    "q": "What is the correct term for a decrease in the exchange rate of a currency caused by an official policy decision of the government?",
+    "opts": [
+      "Depreciation",
+      "Devaluation",
+      "Appreciation",
+      "Revaluation"
+    ],
+    "ans": 1,
+    "exp": "Devaluation is an official, deliberate lowering of a currency's fixed exchange rate by a monetary authority. Depreciation is a market-driven decrease in value under a floating exchange rate."
+  },
+  {
+    "q": "A systematic, double-entry record of all economic transactions between residents of a country and the rest of the world over a year is called the:",
+    "opts": [
+      "Account Balance",
+      "Current account",
+      "Capital account",
+      "Balance of payments"
+    ],
+    "ans": 3,
+    "exp": "The Balance of Payments (BOP) is the comprehensive statement tracking all international trade, financial transactions, and capital transfers."
+  },
+  {
+    "q": "A country experiencing a persistent, unsustainable Balance of Payments (BOP) deficit may respond by:",
+    "opts": [
+      "Increasing imports",
+      "Reducing exports",
+      "Devaluing its currency",
+      "Ignoring capital flows"
+    ],
+    "ans": 2,
+    "exp": "Devaluation reduces the price of exports in foreign currencies and increases the price of imports domestically, which helps reduce a trade deficit and stabilize the BOP."
+  },
+  {
+    "q": "Which of the following terms describes an economic state where there is zero international trade and a nation relies entirely on self-sufficiency?",
+    "opts": [
+      "Laissez-faire",
+      "Zero sum game",
+      "Autarky",
+      "Positive sum game"
+    ],
+    "ans": 2,
+    "exp": "Autarky is a state of complete economic independence or self-sufficiency where a country does not engage in international trade."
+  },
+  {
+    "q": "Which of the following is included in the concept of economic development but is NOT a necessary condition for economic growth?",
+    "opts": [
+      "Increase in total output",
+      "Increase in real GDP",
+      "Increase in market value of goods and services",
+      "Improvement in self-esteem and freedom of choice"
+    ],
+    "ans": 3,
+    "exp": "Economic growth is a quantitative measure of output (GDP). Economic development is a qualitative concept that includes structural shifts, human well-being, self-esteem, and individual freedom."
+  },
+  {
+    "q": "If a country’s life expectancy is 70 years, the minimum value is 20 years, and the maximum value is 80 years, what is its Life Expectancy Index (LEI)?",
+    "opts": [
+      "0.67",
+      "0.75",
+      "0.83",
+      "0.50"
+    ],
+    "ans": 2,
+    "exp": "LEI = (Actual - Min) / (Max - Min) = (70 - 20) / (80 - 20) = 50 / 60 = 0.833."
+  },
+  {
+    "q": "If the exchange rate changes from 145 ETB per USD to 150 ETB per USD, this indicates:",
+    "opts": [
+      "Appreciation of ETB",
+      "Revaluation of ETB",
+      "Depreciation of ETB",
+      "Stabilization of ETB"
+    ],
+    "ans": 2,
+    "exp": "Because it requires more ETB to purchase one US dollar, the purchasing power of the local currency has decreased, indicating a depreciation of the ETB."
+  },
+  {
+    "q": "Which of the following is considered a major limitation or criticism of the Human Development Index (HDI)?",
+    "opts": [
+      "It measures only life expectancy.",
+      "It ignores income completely.",
+      "It focuses only on developing countries.",
+      "It does not adequately account for inequality and gender disparity."
+    ],
+    "ans": 3,
+    "exp": "A standard criticism of the basic HDI is that it represents country-wide averages and fails to capture internal income inequality, gender imbalances, or regional disparities."
+  },
+  {
+    "q": "In welfare economics, how is a 'capability' distinguished from a 'functioning'?",
+    "opts": [
+      "Capability is income; functioning is savings",
+      "Capability is potential achievement; functioning is actual achievement",
+      "Capability is consumption; functioning is production",
+      "Capability is freedom; functioning is restriction"
+    ],
+    "ans": 1,
+    "exp": "Under Amartya Sen's capability approach, a functioning is an active achievement (what a person is or does), whereas a capability represents the freedom or potential opportunity to achieve those functionings."
+  },
+  {
+    "q": "The UN Sustainable Development Goals (SDGs) emphasize balancing which three core dimensions of development?",
+    "opts": [
+      "Political, military, cultural",
+      "Religious, social, financial",
+      "Social, economic, environmental",
+      "Agricultural, industrial, technological"
+    ],
+    "ans": 2,
+    "exp": "The SDGs are built on balancing three pillars: economic growth, social inclusion, and environmental protection."
+  },
+  {
+    "q": "A national development policy that maximizes industrial output while causing extensive deforestation directly contradicts the principle of:",
+    "opts": [
+      "Economic liberalization",
+      "Globalization",
+      "Environmental sustainability",
+      "Political integration"
+    ],
+    "ans": 2,
+    "exp": "Environmental sustainability requires managing natural resources to meet present needs without compromising the ability of future generations to meet their own."
+  },
+  {
+    "q": "The Climate Resilient Green Economy (CRGE) strategy of Ethiopia primarily aims to:",
+    "opts": [
+      "Maximize industrial exports",
+      "Make carbon-neutral economy",
+      "Privatize agriculture",
+      "Reduce education spending"
+    ],
+    "ans": 1,
+    "exp": "The CRGE is a policy framework designed to help Ethiopia reach middle-income status by 2025 while keeping greenhouse gas emissions flat (carbon-neutral growth)."
+  },
+  {
+    "q": "Which stage of economic integration permits the free cross-border movement of labor and capital among member countries?",
+    "opts": [
+      "Free trade area",
+      "Common market",
+      "Customs union",
+      "Political union"
+    ],
+    "ans": 1,
+    "exp": "A common market goes beyond a customs union by removing internal barriers to the movement of productive factors (labor and capital)."
+  },
+  {
+    "q": "Ethiopia’s long-term agricultural development strategy, known as ADLI (Agricultural Development Led Industrialization), is based on the assumption that:",
+    "opts": [
+      "Industrial growth will automatically stimulate agricultural development",
+      "Agriculture should be replaced by service sector expansion",
+      "Agricultural productivity growth can stimulate industrialization",
+      "Industrialization must occur independently of agriculture"
+    ],
+    "ans": 2,
+    "exp": "ADLI assumes that improving smallholder agricultural productivity will supply raw materials, feed labor, and generate demand to support industrial development."
+  },
+  {
+    "q": "Which of the following best distinguishes the agricultural land policies of the Imperial and Derg governments in Ethiopia?",
+    "opts": [
+      "The Imperial government promoted state farms while the Derg encouraged private farms",
+      "The Imperial government supported landlord-based agriculture, while the Derg nationalized land",
+      "Both governments implemented identical agricultural reforms",
+      "The Derg abolished government involvement in agriculture"
+    ],
+    "ans": 1,
+    "exp": "The Imperial regime operated under a feudalistic, tenant-landlord land tenure system. The Derg abolished this system in 1975, nationalizing all rural land under state ownership."
+  },
+  {
+    "q": "Which of the following situations best illustrates a macroeconomic problem rather than a microeconomic one?",
+    "opts": [
+      "A firm deciding the optimal level of production",
+      "A consumer maximizing satisfaction from limited income",
+      "A persistent increase in the overall price level in the economy",
+      "A firm choosing between labor and capital"
+    ],
+    "ans": 2,
+    "exp": "Inflation (a persistent increase in the general price level) affects the aggregate economy, which is a core macroeconomic concern."
+  },
+  {
+    "q": "When unemployment occurs because there is a structural mismatch between the skills of job seekers and the requirements of vacant jobs, it is classified as:",
+    "opts": [
+      "Cyclical unemployment",
+      "Structural unemployment",
+      "Frictional unemployment",
+      "Disguised unemployment"
+    ],
+    "ans": 1,
+    "exp": "Structural unemployment is caused by structural shifts in the economy (like technological change) that make certain skills obsolete."
+  },
+  {
+    "q": "Which of the following policies would a Keynesian economist most likely recommend to stabilize an economy during a severe recession?",
+    "opts": [
+      "Decreasing government expenditure to reduce demand",
+      "Increasing taxes to balance the budget deficit",
+      "Increasing government spending to stimulate demand",
+      "Reducing public investment to reduce public deficit"
+    ],
+    "ans": 2,
+    "exp": "Keynesian economics advocates for active, expansionary fiscal policy—such as increasing government spending—to boost aggregate demand and pull the economy out of a recession."
+  },
+  {
+    "q": "Suppose the total population of Ethiopia is 125 million, where 75 million are in the active labor force. If 9 million people are currently unemployed but actively seeking work, what is the unemployment rate?",
+    "opts": [
+      "7%",
+      "9%",
+      "12%",
+      "15%"
+    ],
+    "ans": 2,
+    "exp": "Unemployment Rate = (Unemployed / Labor Force) * 100% = (9 million / 75 million) * 100% = 12%."
+  },
+  {
+    "q": "Which of the following statements describes aggregate demand (AD)?",
+    "opts": [
+      "The total expenditure by households on final goods and services in an economy",
+      "The total spending by all sectors of an economy at different price levels",
+      "The total quantity of goods supplied by individual firms in an economy",
+      "The total income of households spent on final durable goods"
+    ],
+    "ans": 1,
+    "exp": "Aggregate Demand is the total demand for all final goods and services produced in an economy, representing planned spending by households, firms, the government, and foreign buyers (C + I + G + NX)."
+  },
+  {
+    "q": "Suppose an economy is in short-run equilibrium when a sudden increase in government spending occurs. What is the expected short-run impact on output and the price level?",
+    "opts": [
+      "The aggregate demand curve shifts right, increasing both the price level and real GDP.",
+      "The short-run aggregate supply curve shifts left, reducing output and lowering the price level.",
+      "The long-run aggregate supply curve shifts right, increasing output but leaving the price level unchanged.",
+      "The aggregate demand curve shifts left, decreasing output and price level."
+    ],
+    "ans": 0,
+    "exp": "An increase in government spending (G) shifts the AD curve to the right, causing both the price level (inflation) and real GDP (output) to increase in the short run."
+  },
+  {
+    "q": "Which of the following is true regarding short-run macroeconomic equilibrium?",
+    "opts": [
+      "The occurrence of a shortage of goods leads to firms decreasing output",
+      "It is the intersection of aggregate demand and short run aggregate supply",
+      "The occurrence of a surplus of goods leads to firms decreasing output and consumption increasing",
+      "It is the intersection of long-run and short-run aggregate supply curves"
+    ],
+    "ans": 1,
+    "exp": "Short-run macroeconomic equilibrium occurs at the price level where the aggregate demand (AD) curve intersects the short-run aggregate supply (SRAS) curve."
+  },
+  {
+    "q": "Which of the following is NOT a component of aggregate demand?",
+    "opts": [
+      "Household consumption",
+      "Government spending",
+      "Private investment",
+      "Nominal wage rate"
+    ],
+    "ans": 3,
+    "exp": "Nominal wages are a cost of production that affects aggregate supply, not a component of aggregate expenditure (demand)."
+  },
+  {
+    "q": "Which of the following situations best illustrates a market failure?",
+    "opts": [
+      "A factory dumps toxic waste into a river, causing illness to nearby residents.",
+      "The price of a product increases when its demand rises.",
+      "Some consumers cannot buy a product due to higher price than they are willing to pay.",
+      "Producers increase supply when the market price rises."
+    ],
+    "ans": 0,
+    "exp": "Market failure occurs when the free market allocates resources inefficiently. Industrial pollution is a negative externality where social costs exceed private costs, requiring government intervention."
+  },
+  {
+    "q": "When the social costs of producing a good spill over to uninvolved third parties:",
+    "opts": [
+      "Positive externality occurs.",
+      "Negative externality occurs.",
+      "The price system will generate an efficient outcome on its own.",
+      "Government subsidy to the producer will correct the market failure."
+    ],
+    "ans": 1,
+    "exp": "If production costs spill over to third parties (such as pollution), a negative externality occurs, causing the market to overproduce the good relative to the socially optimal level."
+  },
+  {
+    "q": "A corrective tax imposed on private activities that generate negative externalities is called a:",
+    "opts": [
+      "income tax",
+      "sales tax",
+      "Pigouvian tax",
+      "trade tax"
+    ],
+    "ans": 2,
+    "exp": "A Pigouvian tax is a tax levied on market activities that generate negative externalities, designed to align private costs with social costs."
+  },
+  {
+    "q": "Under conditions of asymmetric information, using educational credentials to prove high productivity to a potential employer is an example of:",
+    "opts": [
+      "Screening",
+      "Bargaining",
+      "Signaling",
+      "Taxation"
+    ],
+    "ans": 2,
+    "exp": "Signaling is an action taken by an informed party (the job seeker) to send a believable signal of quality (educational degree) to an uninformed party (the employer)."
+  },
+  {
+    "q": "The illegal practice of falsifying records or failing to file a tax return in order to reduce tax liability is called:",
+    "opts": [
+      "Tax evasion",
+      "Tax avoidance",
+      "Remittance",
+      "Transfer tax"
+    ],
+    "ans": 0,
+    "exp": "Tax evasion is the illegal evasion of taxes by individuals or corporations. Tax avoidance is the legal use of tax laws to minimize tax obligations."
+  },
+  {
+    "q": "In public finance, the tax base is defined as:",
+    "opts": [
+      "The per-unit amount of tax at which an economic activity is taxed.",
+      "The quantity or value of an economic activity that is subject to taxation.",
+      "The way the burden of a tax is distributed among economic units.",
+      "The first point of contact between the tax authority and a taxpayer."
+    ],
+    "ans": 1,
+    "exp": "The tax base is the collective value of assets, property, transactions, or income that a tax authority is legally permitted to levy taxes on."
+  },
+  {
+    "q": "According to the benefit approach of taxation, taxpayers should be taxed in proportion to:",
+    "opts": [
+      "The taxpayer’s ability to pay.",
+      "The benefit received from public services.",
+      "Regardless of whether the taxpayer uses public services or not.",
+      "An equal share for everyone, regardless of income."
+    ],
+    "ans": 1,
+    "exp": "The benefit approach of taxation states that taxes should be levied based on the direct benefits or public services received by the individual from the government."
+  },
+  {
+    "q": "Which of the following statements correctly distinguishes between tax impact and tax incidence?",
+    "opts": [
+      "Tax impact refers to who finally bears the burden of a tax, while tax incidence refers to who initially pays the tax.",
+      "Tax impact and tax incidence both refer to the final burden of taxation.",
+      "Tax impact refers to government revenue, while tax incidence refers to tax collection methods.",
+      "Tax impact refers to who initially pays the tax to the government, while tax incidence refers to who ultimately bears the burden of the tax."
+    ],
+    "ans": 3,
+    "exp": "Tax impact represents the initial physical point of tax assessment (who pays the tax first). Tax incidence represents the ultimate economic burden of the tax (who actually pays the cost in the end)."
+  },
+  {
+    "q": "The individual income tax system of Ethiopia is structured as:",
+    "opts": [
+      "progressive",
+      "proportional",
+      "regressive",
+      "constant"
+    ],
+    "ans": 0,
+    "exp": "The Ethiopian personal income tax system is progressive, meaning the tax rate increases as the individual's taxable income bracket increases."
+  },
+  {
+    "q": "Which of the following is a major administrative problem associated with the tax system in Ethiopia?",
+    "opts": [
+      "High compliance and administrative costs due to complex tax laws.",
+      "Broad tax base and efficient revenue collection.",
+      "Excessive reliance on modern technology for tax collection.",
+      "Full taxpayer awareness and voluntary compliance."
+    ],
+    "ans": 0,
+    "exp": "A major challenge for tax administration in Ethiopia is high compliance costs and administrative inefficiencies driven by complex procedures and tax laws."
+  },
+  {
+    "q": "If a government increases taxes while keeping public spending constant to curb high inflation, this is an example of:",
+    "opts": [
+      "Expansionary fiscal policy",
+      "Expansionary monetary policy",
+      "Contractionary fiscal policy",
+      "Contractionary monetary policy"
+    ],
+    "ans": 2,
+    "exp": "Contractionary fiscal policy (increasing taxes and/or reducing government spending) reduces disposable income and aggregate demand, helping cool down inflation."
+  },
+  {
+    "q": "Which of the following combinations of policy actions represents a contractionary monetary policy?",
+    "opts": [
+      "Raising interest rates and lower reserve requirements",
+      "Selling government securities and raising reserve requirements",
+      "Buying government securities and raising reserve requirements",
+      "Lowering the discount rate and increasing lending"
+    ],
+    "ans": 1,
+    "exp": "Selling government bonds withdraws liquidity from the banking system, and raising reserve requirements limits the credit expansion capacity of commercial banks, contracting the money supply."
+  },
+  {
+    "q": "Which of the following developmental practices would help accelerate the transformation of the Ethiopian economy from agriculture to industry?",
+    "opts": [
+      "Inappropriate or incorrect pricing policy towards agricultural products.",
+      "Inappropriate or incorrect entitlement of land property",
+      "Increasing prices of agricultural inputs",
+      "Credit offerings at lower interest rates"
+    ],
+    "ans": 3,
+    "exp": "Providing accessible credit at low interest rates supports agricultural mechanization and industrial investment, driving structural transformation."
+  },
+  {
+    "q": "If a government implements strict wage controls during a period of high inflation, this measure is classified as:",
+    "opts": [
+      "Monetary policy",
+      "Fiscal policy",
+      "Income policy",
+      "Trade policy"
+    ],
+    "ans": 2,
+    "exp": "Incomes policies involve direct government intervention in establishing wage and price guidelines to manage inflation."
+  },
+  {
+    "q": "What is the expected long-term impact of currency devaluation or depreciation on a nation's trade balance?",
+    "opts": [
+      "They make exports more expensive than before.",
+      "They improve current account balance.",
+      "They make imports cheaper than before.",
+      "Both have no impact in an economy."
+    ],
+    "ans": 1,
+    "exp": "By making imports expensive and exports cheaper, a currency devaluation can improve the balance of trade and the current account, provided the Marshall-Lerner condition holds."
+  },
+  {
+    "q": "Which of the following is NOT a direct measure of absolute poverty?",
+    "opts": [
+      "Headcount ratio",
+      "Lorenz curve",
+      "Poverty gap index",
+      "Multidimensional poverty index"
+    ],
+    "ans": 1,
+    "exp": "The Lorenz Curve is a graphical representation of the cumulative distribution of income or wealth, used to measure inequality rather than absolute poverty."
+  },
+  {
+    "q": "In the process of measuring poverty, what does the first step ('defining an indicator of welfare') primarily involve?",
+    "opts": [
+      "Selecting an appropriate variable that reflects the economic well-being of individual",
+      "Determining the minimum threshold that separates the poor from the non-poor in society.",
+      "Collecting nationwide household survey data to estimate living standards.",
+      "Computing the poverty headcount ratio and poverty gap index."
+    ],
+    "ans": 0,
+    "exp": "Before setting poverty lines or counting the poor, researchers must define how to measure well-being (such as using per capita consumption expenditure or household income)."
+  },
+  {
+    "q": "Which of the following represents an indigenous approach used in rural communities to manage resources and reduce poverty?",
+    "opts": [
+      "Traditional soil conservation techniques",
+      "Exclusive reliance on foreign experts",
+      "Dependence on imported technology only",
+      "Eliminating traditional farming systems"
+    ],
+    "ans": 0,
+    "exp": "Indigenous practices, such as traditional terracing and soil conservation, are sustainable, low-cost methods developed by local communities to protect agricultural livelihoods."
+  },
+  {
+    "q": "If a nation's Lorenz curve shifts further away from the 45-degree line of perfect equality, what happens to its Gini coefficient?",
+    "opts": [
+      "It decreases toward zero",
+      "It increases toward one",
+      "It remains unchanged",
+      "It becomes negative"
+    ],
+    "ans": 1,
+    "exp": "The Gini coefficient measures the area between the line of equality and the Lorenz curve. As the curve bows further away (representing greater inequality), the Gini coefficient increases toward 1."
+  },
+  {
+    "q": "Which of the following statements best explains the concept of the 'feminization of poverty'?",
+    "opts": [
+      "Women dominate high-income occupations",
+      "Poverty affects men and women equally",
+      "A higher proportion of women experiencing poverty compared to men",
+      "Women receive higher wages than men"
+    ],
+    "ans": 2,
+    "exp": "The feminization of poverty refers to the global trend where women represent a disproportionate and increasing share of the world's poor."
+  },
+  {
+    "q": "Which of the following best describes the current global distribution of extreme poverty?",
+    "opts": [
+      "Extreme poverty is equally distributed across all world regions.",
+      "The majority of people living in extreme poverty are concentrated in Sub-Saharan Africa and parts of South Asia.",
+      "Extreme poverty is primarily concentrated in high-income economies due to income inequality.",
+      "Extreme poverty occurs mainly in regions with the highest population density."
+    ],
+    "ans": 1,
+    "exp": "Global demographic data confirms that the highest concentrations of absolute, extreme poverty (defined by living on less than $2.15 a day) are located in Sub-Saharan Africa and South Asia."
+  },
+  {
+    "q": "A major macroeconomic challenge that led to the introduction of the Ethiopian Homegrown Economic Reform Program was:",
+    "opts": [
+      "Excessive agricultural exports",
+      "Lack of government institutions",
+      "Macroeconomic imbalances and debt pressures",
+      "Absence of international trade"
+    ],
+    "ans": 2,
+    "exp": "The Homegrown Economic Reform Program was launched to address critical structural issues, notably foreign exchange shortages, debt distress, and inflation."
+  },
+  {
+    "q": "Which of the following administrative entities plays a central role in implementing fiscal decentralization in Ethiopia?",
+    "opts": [
+      "International Monetary Fund",
+      "Private commercial banks",
+      "World Bank",
+      "Regional state governments"
+    ],
+    "ans": 3,
+    "exp": "Under the federal structure, regional state governments are responsible for managing regional budgets, collecting certain local taxes, and implementing public expenditures."
+  },
+  {
+    "q": "The core reform objective of Ethiopia's Homegrown Economic Reform Agenda is:",
+    "opts": [
+      "Abolishing financial institutions",
+      "Nationalizing private businesses",
+      "Eliminating the agricultural sector",
+      "Macroeconomic stability and structural reforms"
+    ],
+    "ans": 3,
+    "exp": "The agenda focuses on building macroeconomic stability, executing structural reforms, and boosting private-sector-led growth."
+  },
+  {
+    "q": "To build a robust agricultural economy, the bi-modal agricultural development model (combining smallholders with larger agricultural operations) can be adopted from the experience of:",
+    "opts": [
+      "Mexico & Colombia",
+      "China & Japan",
+      "Thailand & China",
+      "Mexico & Japan"
+    ],
+    "ans": 1,
+    "exp": "The East Asian model (exemplified by China and Japan) successfully combined smallholder intensive farming with larger commercial and cooperative networks, driving industrialization."
+  },
+  {
+    "q": "What was the main policy objective of Ethiopia's SDPRP (Sustainable Development and Poverty Reduction Program)?",
+    "opts": [
+      "Introduce a federal fiscal system",
+      "Promote privatization of state enterprises",
+      "Reduce poverty through sustainable economic growth",
+      "Expand international trade liberalization"
+    ],
+    "ans": 2,
+    "exp": "The SDPRP, implemented in the early 2000s, was designed to reduce poverty by accelerating agricultural development and promoting sustainable economic growth."
+  },
+  {
+    "q": "Which of the following Ethiopian development frameworks focused heavily on building industrial parks and expanding manufacturing?",
+    "opts": [
+      "ADLI",
+      "GTP I and GTP II",
+      "SDPRP",
+      "Structural Adjustment Program"
+    ],
+    "ans": 1,
+    "exp": "The Growth and Transformation Plans (GTP I & II) prioritized industrial development, investing heavily in industrial parks and manufacturing infrastructure."
+  },
+  {
+    "q": "Which greenhouse gas is responsible for the largest total share of global warming?",
+    "opts": [
+      "Carbon dioxide",
+      "Methane",
+      "Ozone",
+      "Nitrous oxide"
+    ],
+    "ans": 0,
+    "exp": "Carbon dioxide (CO₂) is the most abundant anthropogenic greenhouse gas, contributing the largest overall share to global warming."
+  },
+  {
+    "q": "Which of the following international agreements commits member states to limiting global warming and reducing greenhouse gas emissions?",
+    "opts": [
+      "Montreal Protocol",
+      "Kyoto Protocol",
+      "Bretton Woods Agreement",
+      "Doha Round"
+    ],
+    "ans": 1,
+    "exp": "The Kyoto Protocol (and later the Paris Agreement) is an international treaty aimed at reducing greenhouse gas emissions to mitigate global warming."
+  },
+  {
+    "q": "The concept of green growth primarily promotes:",
+    "opts": [
+      "Economic growth with environmental sustainability",
+      "Economic growth without regulation",
+      "Decline in technological innovation",
+      "Unlimited use of natural resources"
+    ],
+    "ans": 0,
+    "exp": "Green growth is an economic approach that fosters economic development while ensuring that natural assets continue to provide resources and environmental services."
+  },
+  {
+    "q": "The Climate Resilient Green Economy (CRGE) strategy of Ethiopia aims to:",
+    "opts": [
+      "Increase dependence on fossil fuels",
+      "Achieve middle-income status with low carbon emissions",
+      "Reduce agricultural production",
+      "Expand heavy industries without regulation"
+    ],
+    "ans": 1,
+    "exp": "The CRGE strategy is designed to guide Ethiopia toward middle-income status by 2025 through sustainable, low-carbon economic growth."
+  },
+  {
+    "q": "Which of the following initiatives in Ethiopia focuses on mass tree planting and ecosystem restoration?",
+    "opts": [
+      "Industrial Parks Program",
+      "Green Legacy Initiative",
+      "Growth and Transformation Plan",
+      "Urban Safety Net Program"
+    ],
+    "ans": 1,
+    "exp": "The Green Legacy Initiative is a national reforestation campaign launched to combat climate change, restore forest cover, and promote environmental conservation in Ethiopia."
+  }
+]

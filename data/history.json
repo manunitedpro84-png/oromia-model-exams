@@ -1,0 +1,1102 @@
+[
+  {
+    "q": "Why is prehistory different from history?",
+    "opts": [
+      "Prehistory deals with the future, history deals with the present.",
+      "Prehistory is studied only by historians, while history studied by archeologists.",
+      "Prehistory deals with time before the beginning of the art of writing.",
+      "Prehistory focuses only on wars and kings, while history focuses on artifacts."
+    ],
+    "ans": 2,
+    "exp": "Prehistory is the period of human existence before the invention of writing. History begins with the availability of written records."
+  },
+  {
+    "q": "In what way did the shift from hunting and gathering to farming during the late Stone Age change human societies?",
+    "opts": [
+      "Humans stopped making tools.",
+      "People began permanent settlements.",
+      "Humans migrated more frequently",
+      "It caused the extinction of animals."
+    ],
+    "ans": 1,
+    "exp": "The Neolithic Revolution (development of agriculture) allowed humans to stay in one place, leading to the creation of permanent settlements, villages, and eventually cities."
+  },
+  {
+    "q": "What makes the civilizations of Ancient Egypt and Ancient China similar?",
+    "opts": [
+      "Both were located in the continent of Europe.",
+      "Both depended on river systems for agriculture.",
+      "Both worshiped only one supernatural God.",
+      "Both were ruled by democratic governments."
+    ],
+    "ans": 1,
+    "exp": "Both civilizations developed in fertile river valleys: Ancient Egypt along the Nile, and Ancient China along the Yellow (Huang He) and Yangtze Rivers."
+  },
+  {
+    "q": "Which ancient state is best known for the construction of monumental obelisks at Yeha?",
+    "opts": [
+      "Zagwe Dynasty",
+      "Aksumite Kingdom",
+      "Pre-Aksumite civilization",
+      "Sultanate of Shewa"
+    ],
+    "ans": 2,
+    "exp": "Yeha was the major political and cultural center of the Pre-Aksumite (D'mt) civilization, well-known for its monumental architecture and stone monuments."
+  },
+  {
+    "q": "If a European kingdom in the 15th century wanted to bypass Ottoman control of eastern trade routes, which action would best apply to that goal?",
+    "opts": [
+      "Strengthening feudal ties",
+      "Expanding manorial farming",
+      "Ending trade with Asia",
+      "Sponsoring overseas voyages"
+    ],
+    "ans": 3,
+    "exp": "To bypass the high tariffs and controls imposed by the Ottomans on overland routes to Asia, European nations like Portugal and Spain sponsored overseas maritime voyages, sparking the Age of Discovery."
+  },
+  {
+    "q": "How did the Trans-Saharan trade create interdependence between North and West Africa?",
+    "opts": [
+      "It made West Africa politically dependent on Europe.",
+      "It encouraged exchange of trade items, and Islamic culture.",
+      "It ended the traditional African religions immediately.",
+      "It prevented the growth of larger West African empires."
+    ],
+    "ans": 1,
+    "exp": "The Trans-Saharan trade facilitated the exchange of essential goods (such as West African gold for North African salt) and introduced Islam and Islamic scholarship to West Africa."
+  },
+  {
+    "q": "If a West African coastal kingdom wanted to reduce the social disruption caused by the Trans-Atlantic slave trade, which action would best address the problem?",
+    "opts": [
+      "Increasing raids into neighboring communities.",
+      "Encouraging trade in palm oil and other goods.",
+      "Cutting all trade relations with the outside world.",
+      "Expanding European settlements in African inland."
+    ],
+    "ans": 1,
+    "exp": "To phase out the human export trade, African states transitioned to exporting raw materials and agricultural commodities, historically termed 'legitimate commerce', with palm oil being a primary export."
+  },
+  {
+    "q": "Which of the following best explains why the rulers of the Solomonic dynasty claimed descent from King Solomon?",
+    "opts": [
+      "To strengthen trade relations with the Middle East.",
+      "To legitimize their political authority by religious tradition.",
+      "To introduce Islamic law in South eastern Ethiopia and the Horn.",
+      "To weaken the power of regional nobles for the sake of kings."
+    ],
+    "ans": 1,
+    "exp": "By claiming direct lineage from King Solomon and the Queen of Sheba, Solomonic kings used Christian religious tradition and the Kebra Nagast to assert their divine and absolute right to rule."
+  },
+  {
+    "q": "What was a major underlying cause of the conflict between the Christian Kingdom and the Sultanate of Adal (1520s–1559)?",
+    "opts": [
+      "Competition over religion and trade control",
+      "Disagreement over Gadaa leadership cycles",
+      "Rivalry for European colonization",
+      "Border conflict with Sudanese people."
+    ],
+    "ans": 0,
+    "exp": "The deep-seated conflict was fueled by struggles over the control of valuable trade routes connecting the Ethiopian interior to the Red Sea ports, amplified by religious rivalry."
+  },
+  {
+    "q": "Which conclusion best summarizes the interactions among Christian, Muslim, and Oromo societies between the 13th and 16th centuries?",
+    "opts": [
+      "Interaction led only to continuous destruction without change.",
+      "Each society developed in total isolation from other regions",
+      "Conflict, migration, and integration reshaped Ethiopian politics.",
+      "Foreign European powers controlled all internal developments."
+    ],
+    "ans": 2,
+    "exp": "This period was characterized by intense warfare, the large-scale Oromo migrations, and eventual cultural and political assimilation that reshaped the demographics of the Horn of Africa."
+  },
+  {
+    "q": "Which city was the permanent political and cultural center of the Christian Highland kingdom during the 17th century?",
+    "opts": [
+      "Gondar",
+      "Axum",
+      "Harar",
+      "Lalibela"
+    ],
+    "ans": 0,
+    "exp": "Emperor Fasilides founded Gondar as the permanent capital of the Christian kingdom in 1636, ending the era of mobile tent capitals."
+  },
+  {
+    "q": "The authority of the Yejju dynasty during the Zemene Mesafint was mainly based on:",
+    "opts": [
+      "Modern industrial military power",
+      "Religious missionary expansion",
+      "Control of the imperial throne",
+      "Overseas trade monopoly"
+    ],
+    "ans": 2,
+    "exp": "The Yejju Oromo lords (Warra Sheh) maintained power by acting as regents (Ras Bitwaded) and controlling the puppet Solomonic emperors residing in Gondar."
+  },
+  {
+    "q": "What was the major historical significance of castle building in Gondar?",
+    "opts": [
+      "It showed continuity of architectural tradition.",
+      "It replaced all traditional religious structures.",
+      "It promoted foreign military occupation.",
+      "It weakened central political power."
+    ],
+    "ans": 0,
+    "exp": "The construction of the Fasil Ghebbi castles demonstrated a unique synthesis of local, Portuguese, Indian, and Moorish architectural styles, showing evolutionary architectural continuity."
+  },
+  {
+    "q": "The Industrial Revolution first began in England in the mid-18th century mainly because of:",
+    "opts": [
+      "Feudal agricultural strategy was very slow for progression.",
+      "Availability of capital, labor, and technological innovation.",
+      "British imperialism that affected the colonized world.",
+      "Absence of urban center infrastructures for social issues."
+    ],
+    "ans": 1,
+    "exp": "Britain had accumulated substantial capital from trade, had surplus labor from the Enclosure Acts, and was home to key technological breakthroughs like the steam engine."
+  },
+  {
+    "q": "Which idea of the Enlightenment influenced the French Revolution?",
+    "opts": [
+      "Absolute divine kingship",
+      "The popular sovereignty",
+      "Feudal land ownership",
+      "Slave trade expansion"
+    ],
+    "ans": 1,
+    "exp": "Enlightenment philosophers, especially Jean-Jacques Rousseau, popularized the concept of popular sovereignty—the principle that political authority resides in the citizens rather than a monarch."
+  },
+  {
+    "q": "Which of the following is NOT a difference between history and natural sciences?",
+    "opts": [
+      "History studies human societies of the past.",
+      "History does not conduct controlled experiments.",
+      "Historians always report findings neutrally.",
+      "Natural scientists study physical phenomena."
+    ],
+    "ans": 2,
+    "exp": "Historians strive for balance, but their interpretations are frequently influenced by subjective biases, personal perspectives, and the selective nature of surviving evidence. Thus, 'reporting findings neutrally' is not a absolute structural difference."
+  },
+  {
+    "q": "A student gathers letters and official documents from an ancient kingdom and carefully studies their original meaning before writing a report about the past. Which key elements of historical study are applied by the student?",
+    "opts": [
+      "Sources and Interpretation",
+      "Presentation and Bias",
+      "Opinion and Storytelling",
+      "Assumption and Imagination"
+    ],
+    "ans": 0,
+    "exp": "Gathering historical documents refers to locating 'sources', and analyzing their original meaning represents the core task of historical 'interpretation'."
+  },
+  {
+    "q": "Suppose a community shifted from hunting and gathering to farming and animal domestication, began building permanent houses, and developed division of labor. Which historical development best explains these changes?",
+    "opts": [
+      "The discovery of fire",
+      "The Neolithic Revolution",
+      "The Acheulean tool tradition",
+      "The Middle Paleolithic adaptation"
+    ],
+    "ans": 1,
+    "exp": "These socio-economic developments are the defining characteristics of the Neolithic Revolution (New Stone Age)."
+  },
+  {
+    "q": "What was the major factor for the revival of Kush Civilization at the center of Meroe?",
+    "opts": [
+      "Destruction of old capital Napata by the Assyrians.",
+      "Availability and discovery of resources like Iron ore.",
+      "Invasion of the Muslim Arab religious expansionists.",
+      "The inland and oversea trade partnership with Aksum."
+    ],
+    "ans": 1,
+    "exp": "Meroe was highly rich in iron ore deposit. The development of iron smelting technology transformed Meroe into a industrial powerhouse and trade center."
+  },
+  {
+    "q": "If a historian finds a city with pyramidal temples, a complex calendar system, and evidence of maize-based agriculture in Mesoamerica, which civilizations would most likely be associated with these combined characteristics?",
+    "opts": [
+      "Maya and Aztecs",
+      "Egyptians and Nubians",
+      "Greeks and Romans",
+      "Persians and Phoenicians."
+    ],
+    "ans": 0,
+    "exp": "Maize cultivation, calendar systems, and step pyramids are characteristic features of Mesoamerican civilizations, notably the Maya and the Aztecs."
+  },
+  {
+    "q": "Which of the following statements is true about the Indigenous religion of the Oromo people (Waaqeffannaa)?",
+    "opts": [
+      "Believe in a single God that manifests itself to believers through its spirits.",
+      "It had been expanded in the regions through local missionaries.",
+      "Some of the famous indigenous religions practiced having written scriptures.",
+      "It was updated through introduction of Islamic and Christianity religions"
+    ],
+    "ans": 0,
+    "exp": "Waaqeffannaa is a monotheistic religion. Believers worship one supreme God, Waaqa, whose spiritual interventions are facilitated through different Ayyaana (spirits)."
+  },
+  {
+    "q": "How could Greek merchants overcome the problems of knowledge about the sources of trade items, trading partners and Ports of the Horn of Africa in the 1st Century AD?",
+    "opts": [
+      "By sending explorers to the region for identification of the routes.",
+      "By using the trade manual that stated important issues about the region.",
+      "By invading Horn of African regions for their accumulation of trade items.",
+      "By hiring Egyptian merchants as important trade partner since period of Punt."
+    ],
+    "ans": 1,
+    "exp": "Greek merchants relied heavily on the 'Periplus of the Erythraean Sea', a comprehensive, anonymous maritime and trade guide compiled in the 1st Century AD."
+  },
+  {
+    "q": "Which of the following best explains the major economic factor that accelerated the decline of the Kingdom of Aksum?",
+    "opts": [
+      "Expansion of Christianity in the kingdom",
+      "Migration of people to the Nile Valley",
+      "Construction of new inland trade routes",
+      "Destruction of the port of Adulis by Arabs"
+    ],
+    "ans": 3,
+    "exp": "Arab conquests in the 7th and 8th centuries led to the destruction of the key Aksumite port of Adulis, cutting off the kingdom from its lucrative Red Sea maritime trade routes."
+  },
+  {
+    "q": "Which of the following best evaluates the overall cultural contribution of the Kingdom of Aksum to the Horn of Africa?",
+    "opts": [
+      "It focused only on forceful military expansion.",
+      "It introduced architecture, writing, and numerals.",
+      "It relied entirely on foreign cultural influences.",
+      "Its achievements disappeared after its decline"
+    ],
+    "ans": 1,
+    "exp": "Aksum's cultural legacy includes monumental architecture (obelisks), the development of the Ge'ez script and vocalization, and its numerical system."
+  },
+  {
+    "q": "Why was the Byzantine Empire important to medieval civilization?",
+    "opts": [
+      "It destroyed classical knowledge.",
+      "It prevented the spread of Christianity.",
+      "It stopped long distance trade with Asia.",
+      "It preserved Roman and Greek culture and laws."
+    ],
+    "ans": 3,
+    "exp": "The Byzantine Empire kept Greco-Roman laws, arts, and literature intact for over a thousand years, passing classical knowledge to Europe during the Renaissance."
+  },
+  {
+    "q": "A ruler expands territory and controls trade routes between Europe and Asia. Which empire best fits this description in early modern history?",
+    "opts": [
+      "Ottoman Empire",
+      "Byzantine Empire",
+      "Roman Republic",
+      "Mongol Empire"
+    ],
+    "ans": 0,
+    "exp": "Following the fall of Constantinople in 1453, the Ottoman Empire established a strategic trade monopoly over the Silk Road and trade corridors linking Europe and Asia."
+  },
+  {
+    "q": "Which statement correctly describes the difference between the Ming and Qing (Ching) dynasties?",
+    "opts": [
+      "Both dynasties were ruled by foreign Mongols.",
+      "The Ching dynasty ruled before the Ming dynasty.",
+      "The Ming was local while the Ching was from Manchu.",
+      "Both dynasties were founded by Europeans."
+    ],
+    "ans": 2,
+    "exp": "The Ming Dynasty was ruled by native Han Chinese, whereas the Qing (Ching) Dynasty was established by foreign Manchu invaders from the northeast."
+  },
+  {
+    "q": "Which of the following Afro-Asiatic languages is spoken in the West African region?",
+    "opts": [
+      "Bantu",
+      "Berbers",
+      "Hausa",
+      "Chadic"
+    ],
+    "ans": 2,
+    "exp": "Hausa is a major West African language spoken predominantly in Nigeria and Niger, and it belongs to the Chadic branch of the Afroasiatic language family."
+  },
+  {
+    "q": "A historian studying the Swahili Coast finds that the Swahili language contains many Arabic loanwords and most Swahili people follow Islam. Which historical interaction best explains this?",
+    "opts": [
+      "The Arab Muslims settled on the East coast.",
+      "Portuguese military control of East Africa",
+      "Migration of European farmers to the coast",
+      "Expansion of the Roman Empire to East Africa"
+    ],
+    "ans": 0,
+    "exp": "Centories of Indian Ocean trade led to Arab, Persian, and local Bantu populations intermarrying and settling along the East African coast, forming the Swahili culture."
+  },
+  {
+    "q": "Which of the following statements represents the major difference between the Almoravids and the Almohads?",
+    "opts": [
+      "The community of Almoravids was Berber pastoralist while Almohads were merchants.",
+      "The Political center of Almoravid was Morocco while Almohad located at Tunisia.",
+      "The Almoravids were the conservative Muslims while Almohad perform radical reform.",
+      "The Almoravids and Almohad strongly differ in the administration of their empire."
+    ],
+    "ans": 2,
+    "exp": "The Almoravids implemented a highly conservative Maliki Islamic interpretation. The Almohads rose as a reformist, puritanical movement criticizing Almoravid laxity and enforcing orthodox changes."
+  },
+  {
+    "q": "Which of the following companies established the first European foothold on the tip of South Africa?",
+    "opts": [
+      "The French Society General",
+      "The Dutch East India Company",
+      "The British East India Company",
+      "The German South Africa Company"
+    ],
+    "ans": 1,
+    "exp": "The Dutch East India Company (VOC) founded Cape Town as a victualing station in 1652, establishing the first permanent European settlement in South Africa."
+  },
+  {
+    "q": "Why did European powers consider African rivers such as the Congo mainly important during the late 19th century?",
+    "opts": [
+      "To prevent African trade from the other regions.",
+      "To provide natural barriers against African kingdoms.",
+      "To serve as trade routes to penetration into the interior.",
+      "To reduce European interest in African resources."
+    ],
+    "ans": 2,
+    "exp": "African rivers served as natural transport links that allowed European explorers, traders, and militaries to bypass geographic barriers and penetrate deep into the continent's interior."
+  },
+  {
+    "q": "Which of the following best explains why the Atlantic slave trade weakened African societies?",
+    "opts": [
+      "It removed productive young people",
+      "It increased industrialization.",
+      "It improved agricultural production.",
+      "It ended regional conflicts."
+    ],
+    "ans": 0,
+    "exp": "The slave trade targeted healthy young adults, depleting African societies of their agricultural and reproductive workforces while fueling local wars to capture captives."
+  },
+  {
+    "q": "Who was the most expansionist ruler of the early Solomonic Dynasty?",
+    "opts": [
+      "Yikuno Amlak",
+      "Zara Yaqob",
+      "Lalibela",
+      "Amda Tsion"
+    ],
+    "ans": 3,
+    "exp": "Emperor Amda Tsion (r. 1314–1344) launched campaigns that expanded the kingdom's territory to include Muslim sultanates and independent provinces in all directions."
+  },
+  {
+    "q": "Why did Amde Tsiyon launch an immediate and surprise attack on the Sultanate of Ifat in 1328?",
+    "opts": [
+      "To spread Christianity in the region.",
+      "To form a political alliance with Ifat",
+      "Ifat arrested a commercial agent of Amde Tsion",
+      "To convert the Sultan of Ifat to Christianity"
+    ],
+    "ans": 2,
+    "exp": "The conflict escalated rapidly when Haqadin II of Ifat seized and imprisoned a trading representative of Emperor Amda Tsion, prompting a swift imperial military response."
+  },
+  {
+    "q": "If a medieval Ethiopian ruler wanted to prevent succession wars and rivalry among royal princes, which method was historically implemented?",
+    "opts": [
+      "Allowing all princes to rule different regions.",
+      "Allowing princes to compete in battle for the throne.",
+      "Keeping potential heirs at Amba Gishen prison.",
+      "Sending princes to foreign countries for training."
+    ],
+    "ans": 2,
+    "exp": "The Solomonic kings established the practice of confining potential male heirs on the flat-topped mountain of Amba Gishen to preserve political stability."
+  },
+  {
+    "q": "What was the long-term effect of conflicts between the Christian and Adal sultanates from 1529 to 1543?",
+    "opts": [
+      "The highlands remained culturally isolated.",
+      "Intermixing of ethnic and religious groups.",
+      "It completely abolished the trade of the region.",
+      "The Christian highland kingdom expanded its territory."
+    ],
+    "ans": 1,
+    "exp": "The mutual devastation of the Christian-Adal wars left both states weak, which paved the way for massive population movements and demographic integration across the region."
+  },
+  {
+    "q": "Which of the following best evaluates the role of Moggaasaa in Oromo society?",
+    "opts": [
+      "It served only as a symbolic ritual with no social impact.",
+      "It was restricted to the elite Oromo clans only.",
+      "It integrated entire groups into Oromo society with full rights.",
+      "It functioned primarily as a trade alliance."
+    ],
+    "ans": 2,
+    "exp": "Moggaasaa was an indigenous Oromo adoption system. It allowed non-Oromo groups or individuals to be fully integrated into Oromo clans, granting them identical socio-political protections and rights."
+  },
+  {
+    "q": "What was the main economic activity of the kingdoms of Yem, Wolaita, and Dawuro?",
+    "opts": [
+      "Trade and handicrafts only",
+      "Cattle raiding and tribute",
+      "Agriculture, with enset as a staple food",
+      "Mining and salt production"
+    ],
+    "ans": 2,
+    "exp": "These southern kingdoms had highly productive agricultural systems, relying on the cultivation of enset (false banana) as their primary caloric source."
+  },
+  {
+    "q": "Which of the following features should be emphasized to compare governance in the Gofa and Wolaita kingdoms?",
+    "opts": [
+      "Both had a king with advisers and warrior classes",
+      "Both had no kings and were purely clan-based",
+      "Both relied solely on trade to maintain power",
+      "Both rejected indigenous customary law"
+    ],
+    "ans": 0,
+    "exp": "Both kingdoms operated as centralized states governed by a Kawo (King), who was supported by a advisory assembly of notables and a warrior caste."
+  },
+  {
+    "q": "How did the strategic location of Harar contribute to its economic and political influence in Eastern Ethiopia?",
+    "opts": [
+      "It isolated the city from neighboring states.",
+      "It limited trade to only local Oromo groups.",
+      "Its location along the trade routes to ports.",
+      "It prevented the spread of Islam."
+    ],
+    "ans": 2,
+    "exp": "Harar lay at the intersection of trade routes connecting the fertile Ethiopian interior with the Red Sea and Gulf of Aden ports of Zeila and Berbera."
+  },
+  {
+    "q": "What can be inferred about the similarities in political systems of the Somali and Afar people?",
+    "opts": [
+      "Both had absolute kings who ruled the societies.",
+      "Both relied on councils; Shir and Makabonto respectively.",
+      "Both were fully centralized states with democratic rule.",
+      "Both had hereditary monarchs as the main rulers"
+    ],
+    "ans": 1,
+    "exp": "Both groups utilized decentralized, egalitarian systems of governance, using elders' assemblies (Shir among the Somali, Makabonto among the Afar) to arbitrate local matters."
+  },
+  {
+    "q": "Which factor best explains the rise of Muslim sultanates in the Benishangul-Gumuz region?",
+    "opts": [
+      "Spread of Christianity and slave trade",
+      "Decline of Oromo Gadaa system",
+      "Influence of Islam and trade of gold.",
+      "European military intervention"
+    ],
+    "ans": 2,
+    "exp": "Cross-border trade with Sudan (notably in gold and incense) and Islamic influence played a central role in establishing Islamic institutions in the region."
+  },
+  {
+    "q": "If a country decides to ensure equal distribution of wealth and reduce social injustice, which economic model does this policy best reflect?",
+    "opts": [
+      "Capitalism, because private individuals control production.",
+      "Socialism, because the state controls key industries.",
+      "Mercantilism, because trade is restricted by the government.",
+      "Feudalism, because landowners dominate the economy."
+    ],
+    "ans": 1,
+    "exp": "Socialism is an economic theory that advocates for public or state control over the means of production to promote socioeconomic equality."
+  },
+  {
+    "q": "How did Enlightenment ideas contribute to the outbreak of the French Revolution?",
+    "opts": [
+      "By encouraging the Monarchy to increase taxes on peasants.",
+      "By strengthening belief in the Divine Right of Kings.",
+      "By inspiring people to demand liberty, equality, and rights.",
+      "By promoting the expansion of French colonial trade."
+    ],
+    "ans": 2,
+    "exp": "Enlightenment philosophers challenged classical assumptions, inspiring citizens to reject absolute monarchy and demand natural human rights, liberty, and legal equality."
+  },
+  {
+    "q": "Which of the following best explains the core characteristic of Capitalism?",
+    "opts": [
+      "An economic system dominated and led by the government.",
+      "The economic system operated by the private sector and focused on profit-making.",
+      "The economic system emphasized collective ownership of the means of production.",
+      "Its society believes markets should be controlled by the government."
+    ],
+    "ans": 1,
+    "exp": "Capitalism is an economic system based on private ownership of capital assets, competitive markets, and free enterprise aimed at generating profit."
+  },
+  {
+    "q": "Which of the following statements best describes the role of Christian missionaries on the eve of the European colonization of Africa?",
+    "opts": [
+      "They totally criticized the colonization of Africa.",
+      "They were invited by African leaders to preach Christianity.",
+      "Their absolute intention was to discover new places and continents.",
+      "Some missionaries intended to facilitate the colonization of Africa."
+    ],
+    "ans": 3,
+    "exp": "While some missionaries were motivated by purely humanitarian goals, others actively supported and facilitated European colonial annexation, viewing it as a way to provide security for missionary work."
+  },
+  {
+    "q": "Which of the following is correct regarding nineteenth-century long-distance trade in Ethiopia?",
+    "opts": [
+      "The cottage industries had no role in the socio-economic life of the people.",
+      "The long-distance trade facilitated the interactions among the peoples and states.",
+      "The market center of this period was restricted to the northern part of Ethiopia.",
+      "The traders were only the Arabs and the Greeks."
+    ],
+    "ans": 1,
+    "exp": "Long-distance trade connected the northern, southern, and western regions of the country, promoting economic integration and diplomatic relations among diverse regional polities."
+  },
+  {
+    "q": "Which of the following was NOT among the causes of the Great Economic Depression of 1929-1933?",
+    "opts": [
+      "Overproduction in agriculture and industry",
+      "Equal distribution of wealth",
+      "High tariffs and international war debts",
+      "The Stock Market Crash of 1929"
+    ],
+    "ans": 1,
+    "exp": "The unequal distribution of income (which concentrated purchasing power in too few hands) was a major contributing factor to the economic crash; equal distribution was not a cause."
+  },
+  {
+    "q": "Which statement is correct regarding US-Soviet relations during World War II?",
+    "opts": [
+      "They were in opposite groups and fighting each other.",
+      "The US economy was seriously affected by the war.",
+      "The US was a socialist state while the Soviet Union was a capitalist.",
+      "Their tension between them increased after the Second World War."
+    ],
+    "ans": 3,
+    "exp": "The United States and the Soviet Union operated as allies against the Axis powers during the war, but their ideological differences led to rising tensions and the outbreak of the Cold War soon after."
+  },
+  {
+    "q": "What was the main geopolitical goal of the Soviet Union during the Cold War period?",
+    "opts": [
+      "To strengthen ties with the Capitalist countries.",
+      "To unite the two separated German states.",
+      "To spread communist ideology.",
+      "To prevent the expansion of War."
+    ],
+    "ans": 2,
+    "exp": "The primary objective of the Soviet Union was to contain Western influence, establish buffer states in Eastern Europe, and expand communist systems worldwide."
+  },
+  {
+    "q": "What caused the decline of Ethio-American Relations in the late 1960s and early 1970s?",
+    "opts": [
+      "Involvement of Ethiopia in the War of Vietnam on the side of Russia.",
+      "Refusal of Ethiopia to get involved in the Vietnam War on the side of South Vietnam",
+      "Development of anti-American opposition among the university students.",
+      "The defeat of America by the Russian army that reduced its importance"
+    ],
+    "ans": 2,
+    "exp": "The radicalization of the Ethiopian Student Movement fueled widespread anti-imperialist, anti-American sentiment, which strained the traditional alliance between the US and the imperial regime."
+  },
+  {
+    "q": "How did the 1973 documentary film by Jonathan Dimbleby, entitled ‘The Hidden Hunger’, impact the political condition of Ethiopia?",
+    "opts": [
+      "It clearly indicated the brutality of the Derg to the international community.",
+      "It focused on the agricultural reforms of the Imperial Regime.",
+      "It discouraged the idea that Ethiopia is a source of ancient civilization.",
+      "It showed the Wollo famine and drought to the world community"
+    ],
+    "ans": 3,
+    "exp": "By revealing the devastation of the Wollo famine—which had been kept secret by officials—the documentary severely undermined the credibility of Emperor Haile Selassie and catalyzed the 1974 revolution."
+  },
+  {
+    "q": "What was the main external factor that led to the decline of the Derg regime in Ethiopia in the late 1980s?",
+    "opts": [
+      "The rise of Russia who opposed the Derg.",
+      "The decline of the USA economy that strengthened the Derg.",
+      "The decline of Russia and other socialist countries.",
+      "The popular support given to the students’ movement."
+    ],
+    "ans": 2,
+    "exp": "The collapse of the Eastern Bloc and the domestic reforms of Mikhail Gorbachev (Perestroika and Glasnost) ended the crucial military and financial aid the Soviet Union supplied to the Derg."
+  },
+  {
+    "q": "Which French colony in North Africa faced a protracted, highly bloody anti-colonial struggle?",
+    "opts": [
+      "Algeria",
+      "Kenya",
+      "Cameroon",
+      "Morocco"
+    ],
+    "ans": 0,
+    "exp": "Algeria fought a bitter war of independence against French colonial rule from 1954 to 1962, resulting in significant loss of life on both sides."
+  },
+  {
+    "q": "Which of the following was the main challenge faced by African nations in the immediate post-independence period?",
+    "opts": [
+      "Achieving complete economic independence.",
+      "A severe scarcity of natural resources across the continent.",
+      "An overproduction of agricultural crops leading to trade collapse.",
+      "Frequent ethnic conflicts and military coups."
+    ],
+    "ans": 3,
+    "exp": "Most newly independent African states inherited artificial colonial borders and weak institutions, which often led to ethnic divisions, political instability, and military coups."
+  },
+  {
+    "q": "What makes the 1995 Ethiopian Constitution fundamentally different from the previous ones?",
+    "opts": [
+      "Being the first written constitution in the history of the country.",
+      "Having bicameral houses, which are the first in Ethiopia.",
+      "Being the first constitution to endorse the federal form of government.",
+      "By ignoring the rights of women and other nations and nationalities."
+    ],
+    "ans": 2,
+    "exp": "The 1995 Constitution founded the Federal Democratic Republic of Ethiopia, establishing a decentralized federal system based on the self-determination of nations, nationalities, and peoples."
+  },
+  {
+    "q": "What makes indigenous knowledge highly effective in traditional conflict resolution?",
+    "opts": [
+      "Its judgments are compatible with the society’s way of life.",
+      "Its practicality and simplicity since it is imported from outside.",
+      "Absence of accountability for the destruction that occurred in conflicts.",
+      "It is important since indigenous knowledge undermines the victims."
+    ],
+    "ans": 0,
+    "exp": "Traditional resolution processes (like Shimgilina or Jaarsummaa) rely on values, customs, and consensus-building that are widely accepted and respected by local communities."
+  },
+  {
+    "q": "Which of the following is NOT a typical characteristic of indigenous knowledge?",
+    "opts": [
+      "It is difficult to understand.",
+      "It is an applied education",
+      "It developed over a long period.",
+      "It is practical"
+    ],
+    "ans": 0,
+    "exp": "Indigenous knowledge is practical, applied, and passed down within its specific cultural context, making it easily understood and implemented by community members."
+  },
+  {
+    "q": "What major characteristic distinguished capitalism from the preceding feudal economic system?",
+    "opts": [
+      "Its dependence on agriculture, unlike feudalism.",
+      "Private ownership of property and free market.",
+      "It encourages a command economic system.",
+      "It interested in landlords' occupation of land."
+    ],
+    "ans": 1,
+    "exp": "Feudalism was based on land tenure, peasant labor, and localized obligations. Capitalism is based on private ownership of capital, industrial manufacture, wage labor, and free-market exchange."
+  },
+  {
+    "q": "Which of the following was a direct political consequence of the poor working conditions and economic inequality created by early industrialization in Europe?",
+    "opts": [
+      "The prohibition of all forms of international trade.",
+      "The involvement of the government in private businesses.",
+      "The growth of labor unions and communist ideologies.",
+      "The widespread use of the feudal economy helped industries."
+    ],
+    "ans": 2,
+    "exp": "Exploitation and harsh working conditions in industrial factories led to the rise of trade unions and socialist/communist movements aimed at protecting workers' rights."
+  },
+  {
+    "q": "What major economic measure was implemented by Prussia to facilitate German unification by removing internal trade barriers?",
+    "opts": [
+      "The Continental System",
+      "The Austria-Prussian agreement",
+      "The Vienna agreement",
+      "The Zollverein"
+    ],
+    "ans": 3,
+    "exp": "The Zollverein (Customs Union), established in 1834 under Prussian leadership, removed domestic trade barriers and created an integrated economic coalition that laid the groundwork for political unification."
+  },
+  {
+    "q": "Which of the following is a primary social outcome of capitalism according to Marxist theory?",
+    "opts": [
+      "Creation of an equal distribution of wealth among all human beings.",
+      "Class segregation between the capitalists and the working class.",
+      "They argued that capitalist economies would strengthen equality.",
+      "The Industrial Revolution and capitalism have no relation."
+    ],
+    "ans": 1,
+    "exp": "Karl Marx argued that capitalism inherently divides society into two antagonistic classes: the bourgeoisie (capitalists who own the means of production) and the proletariat (workers who sell their labor)."
+  },
+  {
+    "q": "Which European power served as the common external obstacle that both Italian and German nationalists had to overcome to achieve national unification?",
+    "opts": [
+      "Soviet Russia",
+      "Prussia",
+      "US-America",
+      "Austria"
+    ],
+    "ans": 3,
+    "exp": "Austria controlled territory in northern Italy and held a dominant position in the German Confederation, making it the primary adversary of both Italian and German unification movements."
+  },
+  {
+    "q": "Why is the Maji Maji Rebellion (1905–1907) in German East Africa highly appreciated in African history today?",
+    "opts": [
+      "It was the first blacks’ victory over the white on the soil of Africa.",
+      "It showed how shared spiritual beliefs could unify diverse groups against a common enemy.",
+      "It was the first resistance movement that resulted in the defeat of Germany.",
+      "It led to the immediate withdrawal of all Europeans from East Africa in 1905."
+    ],
+    "ans": 1,
+    "exp": "The rebellion was notable because it used a shared spiritual belief (the sacred Maji water distributed by Kinjikitile Ngwale) to unite distinct ethnic groups in a coordinated uprising against German colonial rule."
+  },
+  {
+    "q": "What major factor allowed Ethiopia to defeat Italian aggression and remain independent during the late-19th-century Scramble for Africa?",
+    "opts": [
+      "Its location in the North Eastern part of Africa.",
+      "Its armament with modern firearms that the Italians lacked.",
+      "Having strong internal unity and morale against its enemy.",
+      "Lack of interest of European powers in the Horn of Africa."
+    ],
+    "ans": 2,
+    "exp": "The successful mobilization of regional armies under Emperor Menelik II and Empress Taytu created a unified national front and high morale, which was decisive at the Battle of Adwa."
+  },
+  {
+    "q": "Which of the following was a primary weakness that led to the defeat of most African military resistance movements in the 1880s?",
+    "opts": [
+      "The European use of the modern gun against traditional African weapons.",
+      "Due to the fact that African soldiers refused to fight Europeans.",
+      "A total lack of interest in combating the Europeans.",
+      "Their surrender without any attempt of defending their territory."
+    ],
+    "ans": 0,
+    "exp": "European industrial armies had a significant technological advantage, utilizing repeating rifles, Maxim machine guns, and artillery against traditional African weapons."
+  },
+  {
+    "q": "Which of the following diplomatic events directly facilitated the systematic partition of the African continent among European powers?",
+    "opts": [
+      "The Berlin Conference of 1884-1885",
+      "The Versailles Treaty",
+      "The Vienna Congress",
+      "The Durban Conference"
+    ],
+    "ans": 0,
+    "exp": "The Berlin West Africa Conference established the rules for 'effective occupation' and triggered the competitive partition and colonial annexation of the African interior."
+  },
+  {
+    "q": "Which of the following best characterizes the Zemene Mesafint (Era of the Princes) in Ethiopian history?",
+    "opts": [
+      "a period of stable and peace",
+      "a period of conflicts and disorder",
+      "a period of strong unity",
+      "a period of religious stability"
+    ],
+    "ans": 1,
+    "exp": "The Zemene Mesafint (1769–1855) was a period of political decentralization characterized by civil war, constant power struggles among regional lords, and a powerless imperial monarchy."
+  },
+  {
+    "q": "Which of the following is true regarding the late-19th-century territorial expansions of Emperor Menelik II?",
+    "opts": [
+      "His southward expansion was supported by many local societies.",
+      "The Kistane seriously resisted the expansion of Menelik II.",
+      "His southward expansion was mainly motivated by economic interests.",
+      "His territorial expansion was ended before the Battle of Adwa."
+    ],
+    "ans": 2,
+    "exp": "The central government's campaigns were driven by the desire to secure control over wealthy trade routes and export resources such as ivory, gold, civet, and coffee to fund modernization and buy firearms."
+  },
+  {
+    "q": "Why did major European colonial powers (Italy, France, and Britain) oppose the foreign policy of Lij Iyasu (r. 1913-1916)?",
+    "opts": [
+      "He crowned his father, Ras Michael, as a governor of Tigray and Wollo",
+      "He antagonized them by following a pro-German and pro-Turkish policy.",
+      "His controversial religious policy unlike his predecessors.",
+      "He fought against Italy, Britain, and France over Ogaden."
+    ],
+    "ans": 1,
+    "exp": "Lij Iyasu aligned diplomatically with the Central Powers (Germany, Austria-Hungary, and the Ottoman Empire) during World War I, which threatened the surrounding Allied colonial possessions in the Horn of Africa."
+  },
+  {
+    "q": "What was the historical significance of the Battles of Gundet (1875) and Gura (1876)?",
+    "opts": [
+      "They marked a decisive victory against the southward expansion of Egypt.",
+      "Ethiopia lost the battles for the first time in its war history against Egypt.",
+      "Strategic failures that caused the retreat of Ethiopian forces and loss of territories.",
+      "They have no significance for Ethiopia; instead, the Egyptians won the wars."
+    ],
+    "ans": 0,
+    "exp": "Emperor Yohannes IV led Ethiopian forces to victory over the modern Egyptian army, halting Khedive Ismail's plans to build an empire along the Nile Basin."
+  },
+  {
+    "q": "What was the global significance of the Ethiopian victory over the Italians at the Battle of Adwa in 1896?",
+    "opts": [
+      "It restored black dignity and pride in the world.",
+      "It guaranteed the political independence of Africa.",
+      "It preserved the unity and boundary of all Africa.",
+      "It enabled Crispi to get more recognition and prestige."
+    ],
+    "ans": 0,
+    "exp": "Adwa was a historic victory of an African nation over a modern European power, becoming a symbol of anti-colonial resistance and black empowerment worldwide."
+  },
+  {
+    "q": "Which of the following is correct regarding the 1935–1936 Ethio-Italian War?",
+    "opts": [
+      "It was concluded by the victory of the Ethiopian army.",
+      "The northern commanders of the Ethiopian army were relatively better.",
+      "The last and decisive battle was fought at the Battle of Maychew.",
+      "Emperor Menelik II led the Ethiopian army in the northern front."
+    ],
+    "ans": 2,
+    "exp": "The Battle of Maychew (March 1936) was the final major conventional engagement of the war, ending in the defeat of the imperial forces led by Emperor Haile Selassie."
+  },
+  {
+    "q": "Which of the following statements best describes the economic conditions in the interwar period (between WWI and WWII)?",
+    "opts": [
+      "It was a period when Western capitalist countries economically developed than before.",
+      "The Great Depression was a massive global economic recession of the period.",
+      "The feudal system of economy was widely spread throughout Europe and America.",
+      "Germany and Italy got democratic rulers as a result of their economic progress."
+    ],
+    "ans": 1,
+    "exp": "The period was defined by the Great Depression, which began in the US in 1929 and triggered a severe, decade-long global economic collapse."
+  },
+  {
+    "q": "Whose assassination in Sarajevo directly triggered the outbreak of World War I in 1914?",
+    "opts": [
+      "Benito Mussolini",
+      "Abraham Lincoln",
+      "Francis Ferdinand",
+      "Gavrilo Princip"
+    ],
+    "ans": 2,
+    "exp": "The assassination of Archduke Franz Ferdinand, heir to the Austro-Hungarian throne, by Serbian nationalist Gavrilo Princip in June 1914 sparked the international alliance system that led to World War I."
+  },
+  {
+    "q": "Which of the following political revolutions occurred as a direct result of the strains and crises of the First World War?",
+    "opts": [
+      "The French Revolution",
+      "The English Revolution",
+      "The American Revolution",
+      "The Russian Revolution"
+    ],
+    "ans": 3,
+    "exp": "The heavy casualties and food shortages caused by Russia's involvement in WWI fueled public outrage, leading to the collapse of the tsarist regime and the Bolshevik Revolution of 1917."
+  },
+  {
+    "q": "Why did the United States implement the Truman Doctrine and the policy of Containment during the Cold War?",
+    "opts": [
+      "To facilitate colonization of African countries in name of providing aid.",
+      "To establish a unified global government under the leadership of America.",
+      "To control the further expansion of Capitalism in the Eastern part of Europe.",
+      "To prevent the spread of communism and the spread of Soviet influence."
+    ],
+    "ans": 3,
+    "exp": "The Truman Doctrine (1947) committed US diplomatic, financial, and military power to containing the spread of Soviet communism and protecting free nations from expansionist pressure."
+  },
+  {
+    "q": "Which historic declaration was signed in 1941 by President Franklin D. Roosevelt and Prime Minister Winston Churchill, establishing the postwar principles that led to the UN?",
+    "opts": [
+      "The Sevres Treaty",
+      "The Monroe Doctrine",
+      "The Versailles Treaty",
+      "The Atlantic Charter"
+    ],
+    "ans": 3,
+    "exp": "The Atlantic Charter outlined postwar goals such as self-determination, freedom of the seas, and disarmament, forming the basis for the United Nations."
+  },
+  {
+    "q": "Which statement is correct regarding the distribution of voting power among member states in the United Nations General Assembly?",
+    "opts": [
+      "Voting power depends on the number of population countries have.",
+      "It depends on the financial countries’ contribute to the organization.",
+      "It allows all members one vote regardless of economic difference.",
+      "It allows developed countries twice the power as the developing countries."
+    ],
+    "ans": 2,
+    "exp": "The UN General Assembly operates on the principle of sovereign equality, where each member state is entitled to exactly one vote regardless of its population, economy, or military size."
+  },
+  {
+    "q": "What were the main goals of the policies of Perestroika (restructuring) and Glasnost (openness) introduced in the Soviet Union in the mid-1980s?",
+    "opts": [
+      "It was intended to stop all political parties’ involvement in the election.",
+      "To support the American ideology by banning the former ideology.",
+      "To unite with the Europeans in order to establish the United Nations.",
+      "To implement economic restructuring through political openness and transparency."
+    ],
+    "ans": 3,
+    "exp": "Mikhail Gorbachev introduced Glasnost to permit political openness and debate, and Perestroika to decentralize and modernize the sluggish Soviet command economy."
+  },
+  {
+    "q": "Why is the abortive 1960 Coup d'état considered a turning point in the political history of modern Ethiopia?",
+    "opts": [
+      "It was the first organized modern struggle against the 'divine right' of the emperor to rule.",
+      "Its aim was to establish an undemocratic government based on the interest of the emperor.",
+      "It was the first challenge supported by the religious organizations, like the Church.",
+      "It was the first challenge involved and supported by the national army."
+    ],
+    "ans": 0,
+    "exp": "Led by the Neway brothers, the coup was the first modern, organized attempt to overthrow the absolute monarchy, challenging the imperial claim of divine right and laying the groundwork for the student movement."
+  },
+  {
+    "q": "Which radical reform implemented by the Derg in 1975 directly fulfilled a core, decades-long demand of the Ethiopian Student Movement?",
+    "opts": [
+      "Abolition of the feudal land-tenure system by the 1975 land to the tiller proclamation.",
+      "Privatizing all public industries to support foreign investment.",
+      "The opening of new and well-equipped universities in different parts of the country.",
+      "Proclaiming that all students should hold political power at different levels."
+    ],
+    "ans": 0,
+    "exp": "The Derg's March 1975 proclamation, 'Public Ownership of Rural Lands' (nationalizing all rural land), effectively abolished feudal landlordism and fulfilled the student movement's rallying cry: 'Land to the Tiller'."
+  },
+  {
+    "q": "What was the most important immediate consequence of the 1974 Revolution in Ethiopia?",
+    "opts": [
+      "The rise to power of Emperor Haile Selassie I.",
+      "The transfer of power from the Emperor to his son Asfawosen.",
+      "Downfall of the Imperial regime and the rise of the Derg.",
+      "The coming to power of the Derg through a general election."
+    ],
+    "ans": 2,
+    "exp": "The revolution ended the centuries-old Solomonic monarchy, resulting in the deposition of Emperor Haile Selassie and the establishment of a military dictatorship (the Derg)."
+  },
+  {
+    "q": "Which of the following global developments in the late 1980s directly accelerated the collapse of the military Derg regime?",
+    "opts": [
+      "Withdrawal of the United States from Ethiopian affairs.",
+      "The political collapse and dissolution of the Soviet Union.",
+      "The defeat of Cuba and South Korea in the Cold War.",
+      "The collapse and end of the League of Nations."
+    ],
+    "ans": 1,
+    "exp": "The collapse of the Soviet Union cut off the military and financial aid that the Derg relied on to fight northern insurgent movements (EPRDF and EPLF)."
+  },
+  {
+    "q": "How did the Derg suppress domestic political opposition and consolidate its power in the late 1970s?",
+    "opts": [
+      "Through suppressing oppositions using red terror campaign.",
+      "Through encouraging a multi-party system in Ethiopia.",
+      "By gaining popular support after being democratically elected.",
+      "By promoting decentralized political power to stabilize the country."
+    ],
+    "ans": 0,
+    "exp": "From 1976 to 1978, the Derg launched the 'Red Terror' campaign, using systematic violence, arrests, and executions to eliminate political opponents like the EPRP."
+  },
+  {
+    "q": "Which Anglo-Ethiopian Agreement officially confirmed and recognized Ethiopia’s status as a sovereign state?",
+    "opts": [
+      "The 1942 Agreement",
+      "The 1953 Agreement",
+      "The 1944 Agreement",
+      "The 1941 Agreement"
+    ],
+    "ans": 2,
+    "exp": "The 1944 Anglo-Ethiopian Agreement replaced the restrictive 1942 treaty, forcing Britain to return control over the railway and several provinces and recognizing Ethiopia's full sovereignty."
+  },
+  {
+    "q": "What was the primary nationalistic goal behind Somalia’s military invasion of the Ethiopian Ogaden region in 1977?",
+    "opts": [
+      "The need to expand Marxist-Leninist influence in the region.",
+      "The ambition to spread civilization in the Horn of Africa.",
+      "The need to create Greater Somalia by uniting all Somalis.",
+      "The desire to support the democratic progress of Ethiopia in the region."
+    ],
+    "ans": 2,
+    "exp": "President Siad Barre launched the invasion to annex the Ogaden region and realize the irredentist dream of 'Greater Somalia' (uniting all Somali-inhabited territories in the Horn)."
+  },
+  {
+    "q": "What made the Fifth Pan-African Conference (Manchester, 1945) fundamentally different from its predecessors?",
+    "opts": [
+      "It decided to include all colonies under the British Empire in the name of USA.",
+      "It demanded the absolute independence and self-determination of African colonies",
+      "It favored creating a currency and a Bank that would help all of Africa economically.",
+      "It agreed on the importance of pleas for reform rather than independence struggle."
+    ],
+    "ans": 1,
+    "exp": "The 1945 Manchester Congress was organized and attended by actual African leaders (such as Kwame Nkrumah and Jomo Kenyatta), shifting the movement's focus from moderate reform to demanding immediate independence from colonial rule."
+  },
+  {
+    "q": "Which of the following statements best examines the role of cultural hegemony in perpetuating indirect domination on post-colonial Africa?",
+    "opts": [
+      "It helps to disseminate the transfer of science and technology from Europe to Africa.",
+      "It establishes dependency on the other's identity rather than focusing on their own.",
+      "It helps Africans to master a foreign language to compete in the world markets.",
+      "Mastering European languages is a criterion for civilized African citizens"
+    ],
+    "ans": 1,
+    "exp": "Cultural hegemony normalizes the values and language of the former colonizers, fostering a sense of cultural inferiority and dependency that undermines post-colonial identity and autonomy."
+  },
+  {
+    "q": "Which of the following best describes the basic difference between the Casablanca and the Monrovia groups of African states on the eve of the OAU's founding?",
+    "opts": [
+      "The Casablanca group needed complete economic independence, while the later dependence on Europeans.",
+      "The Monrovia group advocated political unification of Africa, while the Casablanca group opposed the idea.",
+      "The Casablanca group favored the United States of Africa, while the Monrovia group wanted a loose federation.",
+      "The Monrovia group advocated the importance of staying under colonial administration, while the former opted for independence."
+    ],
+    "ans": 2,
+    "exp": "The Casablanca group (led by Nkrumah) wanted immediate political integration and a centralized 'United States of Africa'. The Monrovia group favored a gradual, functional approach preserving national sovereignty."
+  },
+  {
+    "q": "What was the basic structural reason for transforming the Organization of African Unity (OAU) into the African Union (AU) in 2002?",
+    "opts": [
+      "An interest to create single united Africa along the Kwame Nkrumah line.",
+      "A desire to hasten the process of integration of the African states and help Africa contribute its part in the global economy.",
+      "A need to end colonialism since the OAU is unable to achieve its aim of liberating all African countries.",
+      "A need to restore the democratic system of colonial rule in Africa since it hastens economic development."
+    ],
+    "ans": 1,
+    "exp": "With the end of colonialism and apartheid, the OAU's primary mission was complete. The AU was established to promote deeper economic integration, peace, and security, and to help Africa compete globally."
+  },
+  {
+    "q": "Which of the following best evaluates the long-term impact of mono-crop production on African development?",
+    "opts": [
+      "It allowed African states to avoid global economic influences.",
+      "It restricted the economy of Africa to depend on the price shocks of the globe",
+      "It encouraged the fast development of industrialization in Africa.",
+      "It helped Africans to process raw materials locally rather than exporting."
+    ],
+    "ans": 1,
+    "exp": "By relying heavily on a single export crop (like coffee, cocoa, or cotton), post-colonial African economies remained vulnerable to global market price fluctuations and supply shocks."
+  },
+  {
+    "q": "Which important shift occurred in Ethiopia's national economic policy after the fall of the Derg in 1991?",
+    "opts": [
+      "Shift from the feudal system to a command economic system.",
+      "A shift from a free market to a feudal economic system.",
+      "A shift from a command economic system to a free market oriented.",
+      "No change of economic system took place in Ethiopia in 1991."
+    ],
+    "ans": 2,
+    "exp": "The post-1991 government transitioned the country from the Derg's highly centralized, state-controlled command economy to a market-oriented economic model."
+  },
+  {
+    "q": "Which of the following statements best analyzes the nations and nationalities issue in the 1995 FDRE Constitution?",
+    "opts": [
+      "It forced all nations and nationalities to adopt one culture and language.",
+      "It allowed a unitary state by removing all regional identities.",
+      "It banned the right to use one's own mother tongue language everywhere.",
+      "It allowed the equality of languages and cultures of all Ethiopians."
+    ],
+    "ans": 3,
+    "exp": "Article 5 of the 1995 Constitution guarantees that all Ethiopian languages enjoy equal state recognition, and Article 39 grants nations, nationalities, and peoples the right to preserve their culture and speak their language."
+  },
+  {
+    "q": "During which general election in Ethiopia's post-1991 history were opposition political parties better organized and unified than ever before?",
+    "opts": [
+      "The 1995 General Election",
+      "The 2005 General Election",
+      "The 2000 General Election",
+      "The 2015 General Election"
+    ],
+    "ans": 1,
+    "exp": "The 2005 general election was highly competitive, featuring unified opposition coalitions like the Coalition for Unity and Democracy (CUD/Kinijit) and the UEDF."
+  },
+  {
+    "q": "What is 'Indigenous Knowledge' in the historical and developmental context of Ethiopia?",
+    "opts": [
+      "Knowledge imported from outside of Ethiopia.",
+      "Knowledge and practices developed by local communities.",
+      "Knowledge introduced through modern education.",
+      "Knowledge which is unimportant and harmful."
+    ],
+    "ans": 1,
+    "exp": "Indigenous knowledge refers to the unique, localized systems of understanding, skills, and practices developed by communities over generations to manage their environments and resources."
+  },
+  {
+    "q": "Which of the following is NOT categorized under the traditional Ethiopian Indigenous Knowledge system?",
+    "opts": [
+      "Gadaa System",
+      "Jaarsummaa",
+      "Shimgilina",
+      "Court system"
+    ],
+    "ans": 3,
+    "exp": "The court system is a formal, state-run judicial institution introduced through western modernization, whereas Gadaa, Jaarsummaa, and Shimgilina are indigenous systems."
+  },
+  {
+    "q": "Under which type of indigenous knowledge system is the Konso Terracing practice (recognized by UNESCO) categorized?",
+    "opts": [
+      "Traditional medicine and herbal healing.",
+      "Advanced agricultural engineering and soil conservation.",
+      "Governance and democratic election cycles.",
+      "Handicrafts and pottery making."
+    ],
+    "ans": 1,
+    "exp": "The Konso dry-stone terracing system is an indigenous agricultural technology designed to conserve water, prevent soil erosion, and maximize crop yields on steep hillsides."
+  },
+  {
+    "q": "Which of the following is a key example of indigenous medical knowledge in Ethiopia?",
+    "opts": [
+      "The use of traditional plants for treating various sicknesses.",
+      "The construction of the rock-hewn churches of Lalibela.",
+      "The rotational leadership cycles of the Gadaa system.",
+      "The seasonal migration patterns of pastoralist groups."
+    ],
+    "ans": 0,
+    "exp": "The systematic use of phytotherapy (medicinal plants) to treat common human and animal illnesses is a cornerstone of traditional medical knowledge in Ethiopia."
+  }
+]

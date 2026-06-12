@@ -1,0 +1,1267 @@
+[
+  {
+    "q": "What is the most accurate description of Geography as an academic discipline?",
+    "opts": [
+      "The study of human population distribution and economic activities",
+      "The examination of man-environment interactions from a spatial perspective",
+      "The description of Earth's physical features and their locations",
+      "The analysis of Earth's shape, size, and climatic conditions"
+    ],
+    "ans": 1,
+    "exp": "Geography is fundamentally defined as the study of spatial variations and the relationship/interactions between humans and their environments over space."
+  },
+  {
+    "q": "Which geological principle states that in undisturbed layers of rock, older rocks lie beneath younger ones?",
+    "opts": [
+      "Original horizontality",
+      "Superposition",
+      "Radioactive decay",
+      "Cross-cutting relationship"
+    ],
+    "ans": 1,
+    "exp": "The Principle of Superposition, formulated by Nicolas Steno, states that in an undisturbed sequence of sedimentary rocks, each layer is older than the one above it."
+  },
+  {
+    "q": "Which of the following is NOT a characteristic feature of unplanned urbanization?",
+    "opts": [
+      "Monitored land use change",
+      "Environmental degradation",
+      "Unregulated urban growth",
+      "Urban sprawl"
+    ],
+    "ans": 0,
+    "exp": "Monitored land-use change is a characteristic of planned and regulated urban development, whereas unplanned urbanization is characterized by rapid, unchecked growth."
+  },
+  {
+    "q": "Based on geological theories of Earth's history, how were the continents formed?",
+    "opts": [
+      "Through extreme weathering and sudden climate changes",
+      "Through tectonic plate collision and continental drift",
+      "Through the long-term influence of human environmental activities",
+      "Through the biological distribution of ancient flora and fauna"
+    ],
+    "ans": 1,
+    "exp": "The continents were shaped by plate tectonics, involving the movement, collision, and rift-separation of lithospheric plates over geological time."
+  },
+  {
+    "q": "Which sub-field of human geography specifically investigates how places change and evolve over time?",
+    "opts": [
+      "Urban geography",
+      "Historical geography",
+      "Cultural geography",
+      "Political geography"
+    ],
+    "ans": 1,
+    "exp": "Historical geography studies the geographies of the past and how places, spaces, and human-environment interactions change over time."
+  },
+  {
+    "q": "Which of the following was NOT used by Alfred Wegener as primary evidence to support his theory of continental drift?",
+    "opts": [
+      "Paleomagnetic data from ocean floors",
+      "Coastline similarity (Jig-Saw-Fit)",
+      "Fossil distribution across continents",
+      "Rock type and structural similarities"
+    ],
+    "ans": 0,
+    "exp": "Paleomagnetic data and seafloor mapping were discovered in the mid-20th century (1950s and 60s), long after Wegener proposed his theory in 1912."
+  },
+  {
+    "q": "A researcher studying the specific reasons why temperatures decrease from lowland to highland areas is engaging in which research purpose?",
+    "opts": [
+      "Exploration",
+      "Description",
+      "Explanation",
+      "Prediction"
+    ],
+    "ans": 2,
+    "exp": "Studies designed to establish cause-and-effect relationships or explain 'why' a physical phenomenon occurs represent explanatory research."
+  },
+  {
+    "q": "What type of rainfall is common in humid areas with high temperatures throughout the year?",
+    "opts": [
+      "Relief rainfall",
+      "Cyclonic rainfall",
+      "Convectional rainfall",
+      "Frontal rainfall"
+    ],
+    "ans": 2,
+    "exp": "Humid areas with high temperatures experience intense ground heating, which causes moist air to rise rapidly, cool, condense, and fall as convectional rain."
+  },
+  {
+    "q": "Which chronological arrangement correctly matches an Ethiopian geological time scale period with its corresponding major event?",
+    "opts": [
+      "Precambrian Era ⟶ Formation of rift valleys",
+      "Paleozoic Era ⟶ Formation of sedimentary rocks",
+      "Mesozoic Era ⟶ Formation of denudation and peneplanation",
+      "Cenozoic Era ⟶ Formation of Earth's present-day shape"
+    ],
+    "ans": 3,
+    "exp": "In Ethiopia, the Cenozoic Era brought massive tectonic uplift, extensive volcanism (creating the Ethiopian highlands), and the rifting that formed the Great Rift Valley."
+  },
+  {
+    "q": "What indicates the absolute location of Ethiopia in terms of its North-South (latitudinal) extent?",
+    "opts": [
+      "33°E – 48°E",
+      "3°N – 15°N",
+      "3°N – 48°N",
+      "15°N – 33°N"
+    ],
+    "ans": 1,
+    "exp": "Ethiopia is located between latitudes 3°N and 15°N, and longitudes 33°E and 48°E."
+  },
+  {
+    "q": "Which of the following is NOT considered a major problem facing the utilization of African water resources?",
+    "opts": [
+      "High seasonal fluctuation of river volumes",
+      "Excess and unmanageable water flow in some rivers",
+      "Severe climate variations and changes",
+      "The reduction of water loss during irrigation practices"
+    ],
+    "ans": 3,
+    "exp": "Reducing water loss in agricultural systems is a sustainable water management practice, not a challenge or problem."
+  },
+  {
+    "q": "Which country currently stands as the leading exporter of agricultural products within intra-African trade?",
+    "opts": [
+      "Ethiopia",
+      "Uganda",
+      "Egypt",
+      "South Africa"
+    ],
+    "ans": 4,
+    "exp": "South Africa maintains the most industrialized agricultural sector in Africa, leading the continent in intra-African agricultural exports."
+  },
+  {
+    "q": "During the Northern Hemisphere summer, in which direction do global pressure belts shift from their average position?",
+    "opts": [
+      "Westwards",
+      "Eastwards",
+      "Southwards",
+      "Northwards"
+    ],
+    "ans": 3,
+    "exp": "During the Northern Hemisphere summer, the thermal equator and all global wind and pressure belts shift northward following the apparent movement of the sun."
+  },
+  {
+    "q": "Which of the following is identified as a major anthropogenic source of carbon monoxide (CO) pollution?",
+    "opts": [
+      "Industrial processes",
+      "Vehicular exhaust",
+      "Natural gas leaks",
+      "Forest fires"
+    ],
+    "ans": 1,
+    "exp": "The incomplete combustion of fossil fuels in internal combustion engines (cars, trucks, motorcycles) is the primary human-driven source of carbon monoxide."
+  },
+  {
+    "q": "What marginal map information indicates the relationship between distance on the map and actual ground distance?",
+    "opts": [
+      "Key",
+      "Scale",
+      "Title",
+      "Grid reference"
+    ],
+    "ans": 1,
+    "exp": "The map scale represents the mathematical ratio between a measured distance on the map and the corresponding horizontal distance on the ground."
+  },
+  {
+    "q": "According to the Köppen climate classification system, which pair of climatic types is LEAST capable of supporting abundant plant communities?",
+    "opts": [
+      "Climate B and Climate E",
+      "Climate C and Climate H",
+      "Climate A and Climate D",
+      "Climate A and Climate C"
+    ],
+    "ans": 0,
+    "exp": "Climate B (Arid/Dry) and Climate E (Polar/Ice) have severe moisture and temperature limitations, making them the least capable of supporting dense vegetation."
+  },
+  {
+    "q": "Which form of corruption occurs when community funds are illegally diverted from their intended public use into individuals' private pockets?",
+    "opts": [
+      "Theft of public assets",
+      "Nepotism",
+      "Kick-backs",
+      "Bribery"
+    ],
+    "ans": 0,
+    "exp": "The direct, illegal diversion or embezzlement of public development funds into private bank accounts is classified as theft of public assets."
+  },
+  {
+    "q": "What primary criterion was used by the ancient Greeks to formulate their early global climate classification system?",
+    "opts": [
+      "Distribution of rainfall",
+      "Wind speed and direction",
+      "Data accumulation on climate",
+      "The Earth-Sun relationship"
+    ],
+    "ans": 3,
+    "exp": "The ancient Greeks divided the world into three temperature-based zones (Torrid, Temperate, Frigid) based on the Earth-Sun relationship and solar angle."
+  },
+  {
+    "q": "Which concept best describes the phenomenon where shared environmental resources are overexploited due to unrestricted individual access?",
+    "opts": [
+      "Resource privatization",
+      "Equitable resource sharing",
+      "Tragedy of the commons",
+      "Sustainable land use"
+    ],
+    "ans": 2,
+    "exp": "The 'Tragedy of the Commons' occurs when individuals act independently and rationally according to their self-interest, depleting a shared resource."
+  },
+  {
+    "q": "What type of population pyramid has a triangular shape with a wide base and a narrow top?",
+    "opts": [
+      "Contractive pyramid",
+      "Stationary pyramid",
+      "Expansive pyramid",
+      "Symmetry pyramid"
+    ],
+    "ans": 2,
+    "exp": "An expansive population pyramid has a broad base reflecting high birth rates, and tapers rapidly toward the top due to high mortality rates."
+  },
+  {
+    "q": "Which of the following statements regarding Earth's tectonic plates is INCORRECT?",
+    "opts": [
+      "Plates can be composed entirely of continental crust.",
+      "Plates can be composed entirely of oceanic crust.",
+      "Plates frequently contain both continental and oceanic crust.",
+      "Plates are fixed in place and do not experience lateral movement."
+    ],
+    "ans": 3,
+    "exp": "Plates are dynamic lithospheric segments that float on the asthenosphere and undergo continuous lateral movement, which is the basis of plate tectonics."
+  },
+  {
+    "q": "In which major African landscape region are the majority of the continent's famous national wildlife parks located?",
+    "opts": [
+      "Sahel region",
+      "Sahara Desert",
+      "Tropical rain forest region",
+      "Savanna region"
+    ],
+    "ans": 3,
+    "exp": "The African Savanna, characterized by mixed woodland-grassland ecosystems, supports the largest herds of grazing herbivores and associated carnivores."
+  },
+  {
+    "q": "Which statistical diagram is most suitable for visually comparing monthly rainfall amounts across different regions?",
+    "opts": [
+      "Pie chart",
+      "Line graph",
+      "Bar graph",
+      "Base map"
+    ],
+    "ans": 2,
+    "exp": "Rainfall consists of discrete monthly totals, making vertical bar graphs (precipitation columns) the standard choice for comparative climate graphs."
+  },
+  {
+    "q": "Which of the following statements is NOT true regarding the equatorial rainforest climate?",
+    "opts": [
+      "It exhibits high mean monthly and mean annual temperatures",
+      "It experiences a consistently low sun angle throughout the year",
+      "It features a high daily temperature range but a low annual temperature range",
+      "It receives substantial rainfall consistently throughout the year"
+    ],
+    "ans": 1,
+    "exp": "Located at or near the equator, this region experiences a consistently high sun angle (close to 90 degrees) year-round, resulting in intense solar radiation."
+  },
+  {
+    "q": "Which soil conservation method involves covering the soil surface with plant residues to conserve moisture and restore fertility?",
+    "opts": [
+      "Crop rotation",
+      "Green manure",
+      "Mulching",
+      "Fallowing"
+    ],
+    "ans": 2,
+    "exp": "Mulching is the application of organic material (leaves, straw, crop residue) over the soil to reduce evaporation, run-off, and weed growth."
+  },
+  {
+    "q": "The behavioral approach to explaining poverty is typically favored by individuals who describe themselves as:",
+    "opts": [
+      "Liberal",
+      "Conservative or libertarian",
+      "Socialist",
+      "Communist"
+    ],
+    "ans": 1,
+    "exp": "Conservatives and libertarians tend to focus on individual behavior, values, and personal responsibility as the primary explanations for economic status."
+  },
+  {
+    "q": "The specific techniques, tools, and procedures used by a researcher to gather and analyze data are collectively termed as:",
+    "opts": [
+      "Research approach",
+      "Research methodology",
+      "Research project",
+      "Research methods"
+    ],
+    "ans": 3,
+    "exp": "Research methods are the practical, technical tools used to gather and analyze data, whereas methodology is the broader theoretical framework."
+  },
+  {
+    "q": "Which African soil type is strongly weathered with low nutrient-holding capacity and associated with high rainfall areas and old land surfaces?",
+    "opts": [
+      "Ferralsols",
+      "Cambisols",
+      "Leptosols",
+      "Arenosols"
+    ],
+    "ans": 0,
+    "exp": "Ferralsols are deeply weathered, highly leached, acidic soils rich in iron and aluminum oxides, typical of old tropical land surfaces."
+  },
+  {
+    "q": "What essential characteristic of a census ensures every single individual is counted exactly once without omission or duplication?",
+    "opts": [
+      "Universality",
+      "Expensiveness",
+      "Periodicity",
+      "Defined territory"
+    ],
+    "ans": 0,
+    "exp": "The principle of universality requires that a census must count every single person living within the designated territory at the specified time."
+  },
+  {
+    "q": "Which of the following government actions serves as an example of a direct intervention of a population policy?",
+    "opts": [
+      "Providing old age security",
+      "Restricting child labor",
+      "Provision of basic education",
+      "Raising the age of marriage"
+    ],
+    "ans": 3,
+    "exp": "Raising the legal age of marriage directly targets and alters demographic variables (fertility windows) to influence population growth rates."
+  },
+  {
+    "q": "If farmers proactively install water storage tanks to secure water availability before anticipated dry spells, what type of adaptation strategy is being utilized?",
+    "opts": [
+      "Public adaptation",
+      "Private adaptation",
+      "Anticipatory public adaptation",
+      "Reactive natural adaptation"
+    ],
+    "ans": 1,
+    "exp": "Because individual farmers are taking proactive measures to protect their own livelihoods without state coordination, this represents private (and proactive) adaptation."
+  },
+  {
+    "q": "Which of the following statements is NOT a true reflection of the challenges faced by landlocked countries?",
+    "opts": [
+      "They lack direct territorial access to the sea for export-import trade",
+      "They are generally required to pay high transit fees to access coastal seaports",
+      "Their commercial activities rarely face customs delays or transit interruptions",
+      "They depend on negotiated agreements for unrestricted passage through neighboring transit states"
+    ],
+    "ans": 2,
+    "exp": "Landlocked countries experience frequent customs delays, administrative bottlenecks, and transit interruptions when moving cargo through neighboring states."
+  },
+  {
+    "q": "Which African country is most globally recognized for its extensive linguistic and cultural diversity?",
+    "opts": [
+      "Ethiopia",
+      "Kenya",
+      "Nigeria",
+      "Egypt"
+    ],
+    "ans": 2,
+    "exp": "With over 500 distinct languages spoken, Nigeria is globally recognized as one of the most linguistically and culturally diverse countries."
+  },
+  {
+    "q": "Which global sub-region is geographically situated between the coniferous forest belt and the polar ice caps?",
+    "opts": [
+      "Cold zone",
+      "Temperate zone",
+      "Tundra region",
+      "Frigid zone"
+    ],
+    "ans": 2,
+    "exp": "The Tundra is a treeless biome situated between the boreal (coniferous) forest zone to the south and the permanent ice of the polar region to the north."
+  },
+  {
+    "q": "If Tullu Dimtu Mountain has an altitude of 4370m above sea level and the temperature at sea level is 28.97°C, what is the expected temperature at the summit?",
+    "opts": [
+      "1°C",
+      "2°C",
+      "3°C",
+      "4°C"
+    ],
+    "ans": 0,
+    "exp": "Using the normal lapse rate (6.5°C drop per 1000m): temperature drops by 4.37 * 6.5 = 28.4°C. Expected summit temperature is 28.97 - 28.40 = 0.57°C, which rounds to approximately 1°C."
+  },
+  {
+    "q": "According to the global Corruption Perceptions Index, which of the following African countries is consistently ranked as the least corrupt?",
+    "opts": [
+      "Republic of South Africa",
+      "Ethiopia",
+      "Botswana",
+      "Nigeria"
+    ],
+    "ans": 2,
+    "exp": "Botswana is consistently ranked as the least corrupt country in Africa, boasting strong governance and transparent public institutions."
+  },
+  {
+    "q": "Why is oceanic crust forced to subduct beneath continental crust at convergent plate boundaries?",
+    "opts": [
+      "It is thicker",
+      "It is less dense",
+      "It is denser",
+      "It is older"
+    ],
+    "ans": 2,
+    "exp": "Oceanic crust is composed of dense basaltic rocks, whereas continental crust consists of less dense granitic rocks. The denser plate is always forced downward into the mantle."
+  },
+  {
+    "q": "How can the most significant long-term impact of climate change on African agriculture be best evaluated?",
+    "opts": [
+      "As a driver for improved crop yields in previously desertified regions.",
+      "As a catalyst for increased pest and disease outbreaks affecting both crops and livestock.",
+      "As a stabilizing force for regional water resources utilized in commercial irrigation.",
+      "As a primary reason for the increased biodiversity of native plants and animals."
+    ],
+    "ans": 1,
+    "exp": "Warmer temperatures and altered rainfall patterns expand the range and breeding cycles of crop pests (like locusts) and livestock diseases, threatening food security."
+  },
+  {
+    "q": "Which of the following groups of countries are among Ethiopia’s top export destinations?",
+    "opts": [
+      "Somalia, Djibouti, and Kenya",
+      "South Africa, Egypt, and Uganda",
+      "Morocco, South Africa, and Egypt",
+      "South Africa, Egypt, and Uganda"
+    ],
+    "ans": 0,
+    "exp": "Within the African continent, Somalia, Djibouti, and Kenya are the primary regional destinations for Ethiopian exports."
+  },
+  {
+    "q": "What geographic term describes a narrow strip of land, bordered by water on both sides, that connects two larger landmasses?",
+    "opts": [
+      "Isthmus",
+      "Peninsula",
+      "Continent",
+      "Island"
+    ],
+    "ans": 0,
+    "exp": "An isthmus is a narrow land bridge connecting two larger land masses, flanked by water on both sides (e.g., the Isthmus of Panama)."
+  },
+  {
+    "q": "What is the primary foundational objective of the Nile Basin Initiative (NBI)?",
+    "opts": [
+      "To bring sustainable socio-economic development through equitable utilization to Basin States.",
+      "To actively work toward water scarcity mitigation strictly in the Lower Nile Basin.",
+      "To discourage bilateral cooperation in favor of a unified single-state mandate.",
+      "To exclusively promote research on climate change impacts within the Nile Basin."
+    ],
+    "ans": 0,
+    "exp": "The NBI's core mandate is to promote win-win socio-economic benefits through the cooperative, equitable, and sustainable utilization of the Nile Basin's shared water resources."
+  },
+  {
+    "q": "Which economic sector involves high-level decision-making, policy formulation, and advanced scientific research?",
+    "opts": [
+      "Primary sector",
+      "Quinary sector",
+      "Quaternary sector",
+      "Secondary sector"
+    ],
+    "ans": 1,
+    "exp": "The quinary sector consists of high-level decision makers, government policy makers, and top scientific executives."
+  },
+  {
+    "q": "Which climatic factor most strongly influences the distinct climate patterns of warm temperate east coast regions?",
+    "opts": [
+      "Distance from the sea",
+      "Ocean current",
+      "Latitude",
+      "Altitude"
+    ],
+    "ans": 1,
+    "exp": "Warm ocean currents (like the Gulf Stream or Kuroshio) flow along the eastern coasts of continents, bringing warm, moist air and generating humid subtropical climates."
+  },
+  {
+    "q": "What is a major negative environmental impact of agricultural intensification?",
+    "opts": [
+      "Increased biodiversity conservation",
+      "Maintenance of soil fertility",
+      "Growth of pesticide hazards",
+      "Reduced greenhouse gas emission"
+    ],
+    "ans": 2,
+    "exp": "Intensification relies heavily on chemical fertilizers and pesticides. This causes chemical accumulation in soils and run-off that damages aquatic ecosystems."
+  },
+  {
+    "q": "What demographic conditions characterize the first stage of the Demographic Transition Model?",
+    "opts": [
+      "High birth rates and low death rates",
+      "Low birth rates and high death rates",
+      "High birth rates and high death rates",
+      "Stable birth and death rates"
+    ],
+    "ans": 2,
+    "exp": "In Stage 1, pre-industrial societies experience both high birth rates and high, fluctuating death rates (due to famine and disease), keeping total population growth slow and stable."
+  },
+  {
+    "q": "Which major African river basin experiences exceptionally high water evaporation rates primarily due to its geographic location in extreme high-temperature zones?",
+    "opts": [
+      "Congo Basin",
+      "Chad Basin",
+      "Niger Basin",
+      "Nile Basin"
+    ],
+    "ans": 3,
+    "exp": "The Nile Basin flows through the Sahara Desert, where extremely high temperatures and low relative humidity generate immense water loss via evaporation."
+  },
+  {
+    "q": "Which distinct climatic region is uniquely located at both the extreme northern and extreme southern tips of the African continent?",
+    "opts": [
+      "Tropical maritime climate",
+      "Tropical continental climate",
+      "Mediterranean climate",
+      "Equatorial climate"
+    ],
+    "ans": 2,
+    "exp": "The Mediterranean climate (warm, dry summers and mild, wet winters) is found at the northwestern tip of Africa (Morocco/Tunisia) and the southwestern tip (Cape Town, South Africa)."
+  },
+  {
+    "q": "What best describes the difference between economic growth and economic development?",
+    "opts": [
+      "Economic growth indicates structural and technological change",
+      "Economic growth measures the quantity of goods and services produced",
+      "Economic development is one aspect of economic growth",
+      "Economic growth measures societal welfare"
+    ],
+    "ans": 1,
+    "exp": "Economic growth is a narrow, quantitative measure of a nation's total output (GDP). Economic development is a qualitative measure reflecting improvements in living standards, literacy, and structural change."
+  },
+  {
+    "q": "Which statement accurately describes a characteristic of a small-scale map?",
+    "opts": [
+      "It displays limited detailed information over extensive areas",
+      "It depicts large areas with highly detailed information",
+      "It shows small areas with minimal detail",
+      "It represents features at or near their actual size"
+    ],
+    "ans": 0,
+    "exp": "Small-scale maps (e.g., 1:1,000,000) show large geographic expanses (like a world map) with minimal local detail."
+  },
+  {
+    "q": "In Milankovitch's orbital theory, what specific term describes the periodic change in the circular to elongated shape of Earth's orbit?",
+    "opts": [
+      "Tilt of earth’s axis",
+      "Obliquity",
+      "Eccentricity",
+      "Precession"
+    ],
+    "ans": 2,
+    "exp": "Eccentricity measures the variation of the Earth's orbit from a near-perfect circle to an elliptical shape over a cycle of approximately 100,000 years."
+  },
+  {
+    "q": "When analyzing resource degradation, which of the following is categorized as a direct 'proximate cause' rather than an underlying structural cause?",
+    "opts": [
+      "Rapid population growth",
+      "Deforestation for agriculture",
+      "Improper land use practices",
+      "Climate change"
+    ],
+    "ans": 2,
+    "exp": "Proximate causes are direct, human-driven physical actions on the land (such as overgrazing or poor farming techniques), whereas population growth represents an underlying driver."
+  },
+  {
+    "q": "Which of the following is NOT one of the technical domains of a Geographic Information System (GIS)?",
+    "opts": [
+      "Data manipulation",
+      "Data discussion",
+      "Data storage and management",
+      "Data analysis and presentation"
+    ],
+    "ans": 1,
+    "exp": "The functional components of GIS are: Data Input, Data Storage/Management, Data Manipulation, Query/Analysis, and Data Output. 'Discussion' is not a GIS domain."
+  },
+  {
+    "q": "What type of environmental solutions do 'Bright Greens' environmentalists advocate for?",
+    "opts": [
+      "Radical political and economic changes",
+      "Strict preservation of natural resources",
+      "Technological solutions and innovation",
+      "Individual lifestyle choices"
+    ],
+    "ans": 2,
+    "exp": "Bright Green environmentalism emphasizes that technological progress, green innovation, and design solutions can build a sustainable society."
+  },
+  {
+    "q": "Which of the following is a key characteristic of the coniferous forest (Taiga) region?",
+    "opts": [
+      "It has fertile soil that supports rain-fed agriculture",
+      "It is dominated by varied vegetation types",
+      "It is found only in the northern hemisphere",
+      "It experiences invariable temperature conditions"
+    ],
+    "ans": 2,
+    "exp": "The Boreal/Taiga coniferous forest biome is exclusively found in the high latitudes of the Northern Hemisphere (North America and Eurasia)."
+  },
+  {
+    "q": "If you were commissioned to conduct an empirical study, which basic element of research might enable you to identify gaps to be filled by your study?",
+    "opts": [
+      "Defining sampling design",
+      "Delineating the scope of study",
+      "Reviewing related literature",
+      "Developing a hypothesis"
+    ],
+    "ans": 2,
+    "exp": "Reviewing existing literature allows researchers to understand what has already been discovered and isolate unresolved questions or gaps."
+  },
+  {
+    "q": "If the block of land between two parallel faults sinks down while the surrounding blocks remain elevated, what landform is formed?",
+    "opts": [
+      "Horst",
+      "Rift valley",
+      "Escarpment",
+      "Plateau"
+    ],
+    "ans": 1,
+    "exp": "A rift valley (or graben) is formed when a block of crust drops down between two parallel normal faults."
+  },
+  {
+    "q": "Which of the following is the main goal of the environmental policies of Ethiopia?",
+    "opts": [
+      "Minimizing the use of natural resources",
+      "Protecting natural resources from wastage",
+      "Prohibiting people from using natural resources",
+      "Ending exploitation of natural resources"
+    ],
+    "ans": 1,
+    "exp": "Ethiopia's environmental policy aims to promote sustainable development through the wise use and conservation of resources, avoiding environmental degradation and resource wastage."
+  },
+  {
+    "q": "According to Karl Marx's critique, how does the capitalist system fundamentally generate a 'surplus population'?",
+    "opts": [
+      "By actively encouraging rapid, unchecked population growth",
+      "By creating market systems that provide ample, stable job opportunities",
+      "By systematically separating producers from their independent means of production",
+      "By enforcing the equal distribution of environmental resources among all classes"
+    ],
+    "ans": 2,
+    "exp": "Marx argued that capitalism separates rural workers from their lands (means of production), forcing them into wage labor and generating an unemployed 'reserve army' of labor."
+  },
+  {
+    "q": "Which traditional belief system serves as an indigenous mechanism helping the Gumuz people of Ethiopia manage their environment as communal property?",
+    "opts": [
+      "Yamba",
+      "Paleta",
+      "Maccaa",
+      "Guma"
+    ],
+    "ans": 0,
+    "exp": "The Gumuz people utilize the 'Yamba' traditional system of belief and custom to govern communal resources and land use rights."
+  },
+  {
+    "q": "According to energy consumption projections, which pair of countries is expected to contribute the most to the increase in residential energy use among non-OECD nations by 2030?",
+    "opts": [
+      "USA and Germany",
+      "China and India",
+      "Japan and South Korea",
+      "England and France"
+    ],
+    "ans": 1,
+    "exp": "Due to rapid urbanization, economic development, and large populations, China and India are projected to drive the largest increases in global energy consumption."
+  },
+  {
+    "q": "What was the main objective of the 1994 International Conference on Population and Development (ICPD) held in Cairo?",
+    "opts": [
+      "To promote economic development in developing countries",
+      "To link population growth to core development agendas",
+      "To implement a one-child policy worldwide",
+      "To encourage migration to control population growth"
+    ],
+    "ans": 1,
+    "exp": "The Cairo ICPD shifted demographic policy away from simple population control targets toward human rights, reproductive health, and women's empowerment."
+  },
+  {
+    "q": "Which of the following can be considered an objective of economic development?",
+    "opts": [
+      "Limiting availability of basic needs",
+      "Accumulating maximum capital wealth",
+      "Expanding economic and social choices",
+      "Abstaining from using natural resources"
+    ],
+    "ans": 2,
+    "exp": "The modern concept of economic development (formulated by Amartya Sen) emphasizes expanding human capabilities, freedoms, and choices."
+  },
+  {
+    "q": "Which environmental health framework critically addresses environmental problems by analyzing both human activities and natural ecological processes?",
+    "opts": [
+      "Clinical model",
+      "Environmental stewardship model",
+      "Public health model",
+      "Biological model"
+    ],
+    "ans": 1,
+    "exp": "The environmental stewardship model integrates human socio-economic activities with ecological health, promoting conservation and responsibility."
+  },
+  {
+    "q": "Which statement provides the BEST critical evaluation of the relationship between global warming and climate change?",
+    "opts": [
+      "They are identical phenomena used interchangeably in scientific literature",
+      "Global warming is a major, specific aspect driving the broader phenomenon of climate change",
+      "Climate change is the sole direct cause of localized global warming",
+      "They are scientifically unrelated phenomena occurring simultaneously"
+    ],
+    "ans": 1,
+    "exp": "Global warming refers specifically to the rising global average temperature, which acts as a primary driver of broader changes in global weather systems (climate change)."
+  },
+  {
+    "q": "If a downstream community faces a severe water shortage because an upstream dam has artificially reduced the river's flow, what type of scarcity is occurring?",
+    "opts": [
+      "Demand-induced scarcity",
+      "Supply-induced scarcity",
+      "Income induced scarcity",
+      "Structural -induced scarcity"
+    ],
+    "ans": 3,
+    "exp": "Structural scarcity occurs when institutional structures, politics, or engineering projects (like dams) cause unequal distribution of resources among different groups."
+  },
+  {
+    "q": "How does the 'nested rings' approach critically assess the pillars of sustainable development?",
+    "opts": [
+      "It insists the economy operates completely independently of society & the environment",
+      "It insists the economy is fundamentally dependent on society, which is entirely dependent on the environment",
+      "It insists the natural environment is entirely dependent on economic output",
+      "It insists all three pillars exist as completely separate, non-overlapping domains"
+    ],
+    "ans": 1,
+    "exp": "The nested model places the economy inside society, which is nested inside the biosphere, showing that economic systems cannot exist without a healthy environment."
+  },
+  {
+    "q": "Which of the following is considered a severe, direct demographic impact of the HIV/AIDS epidemic in heavily affected regions?",
+    "opts": [
+      "Widespread orphan hood",
+      "General psychological stress",
+      "Increased economic dependency ratios",
+      "Drastically shortened average life expectancies"
+    ],
+    "ans": 3,
+    "exp": "The epidemic raised mortality rates among young adults, causing a sharp drop in average life expectancies in several Sub-Saharan African countries during the peak years."
+  },
+  {
+    "q": "Which of the following represents the most and least urbanized regions of Africa respectively?",
+    "opts": [
+      "North Africa and West Africa",
+      "Central Africa and West Africa",
+      "Central Africa and South Africa",
+      "Southern Africa and East Africa"
+    ],
+    "ans": 3,
+    "exp": "Southern Africa is the most urbanized region on the continent, while East Africa remains the least urbanized."
+  },
+  {
+    "q": "An extended shortfall of precipitation over an area is initially and primarily classified as what specific type of drought?",
+    "opts": [
+      "Hydrological drought",
+      "Meteorological drought",
+      "Agricultural drought",
+      "Environmental drought"
+    ],
+    "ans": 1,
+    "exp": "A shortfall in rainfall/precipitation is classified as meteorological drought. If it persists, it leads to agricultural and hydrological droughts."
+  },
+  {
+    "q": "How is the geographic and climatological term 'albedo' best defined?",
+    "opts": [
+      "The amount of energy absorbed by the surface",
+      "The amount of energy stored water the water",
+      "The amount of energy reflected by the surface",
+      "The amount of energy stored in the surface"
+    ],
+    "ans": 2,
+    "exp": "Albedo is the measure of the reflectivity of a surface, expressed as the ratio of reflected solar radiation to total incoming radiation."
+  },
+  {
+    "q": "Why do the mountain sides opposite the wind direction (leeward side) remain dry rain shadow areas?",
+    "opts": [
+      "They receive high moisture instead of rainfall",
+      "They are influenced by moist winds",
+      "They are influenced by less moist winds",
+      "They are influenced by strong winds"
+    ],
+    "ans": 2,
+    "exp": "As air descends on the leeward side, it warms and compresses, reducing its relative humidity and producing dry conditions (rain shadow)."
+  },
+  {
+    "q": "In which part of geographic research would you discuss the statistical techniques to be employed to process findings?",
+    "opts": [
+      "Research design",
+      "Data Analysis",
+      "Data collection and organization",
+      "Research Hypothesis"
+    ],
+    "ans": 0,
+    "exp": "The research design serves as the blueprint of the study, detailing the planned methods for data collection and the statistical techniques to be used for data analysis."
+  },
+  {
+    "q": "Which seismic waves carry most of an earthquake's energy and cause the most structural destruction?",
+    "opts": [
+      "P-waves",
+      "S-waves",
+      "Surface waves",
+      "Body waves"
+    ],
+    "ans": 2,
+    "exp": "Surface waves (Love and Rayleigh waves) travel along the Earth's crust, causing the largest ground displacement and most of the destruction."
+  },
+  {
+    "q": "Which of the following statements provides a CORRECT analytical distinction between a research method and research methodology?",
+    "opts": [
+      "Research methodology guides to conduct scientific research",
+      "Research method has a wider scope than research methodology",
+      "Research methodology is limited to collecting and organizing data to solve problems",
+      "Research method justifies the philosophical foundation of the research"
+    ],
+    "ans": 0,
+    "exp": "Research methodology is the philosophical and systematic framework that guides the entire study, whereas research methods are the specific tools used to gather and analyze data."
+  },
+  {
+    "q": "Which of the following is considered a primary challenge to environmental sustainability?",
+    "opts": [
+      "Use of renewable energy",
+      "Slow growth of population",
+      "Environmental movements",
+      "Rapid urbanization"
+    ],
+    "ans": 3,
+    "exp": "Rapid, unplanned urbanization creates high demand for resources, generates solid waste, and causes environmental degradation."
+  },
+  {
+    "q": "The claim 'developed nations benefit more from globalization than developing ones' is supported by the fact that:",
+    "opts": [
+      "Developing countries having more resources",
+      "Developed nations selling more goods to the global South",
+      "Developing countries having better technology",
+      "Equal distribution of globalization benefits"
+    ],
+    "ans": 1,
+    "exp": "Developed nations control high-value manufacturing and technology, exporting expensive manufactured goods to developing nations while importing cheap raw materials."
+  },
+  {
+    "q": "When assessing regional disparities, what does the 'divergence hypothesis' state regarding country-level economic inequality?",
+    "opts": [
+      "Economic inequality between or within nations is systematically narrowing over time",
+      "Economic inequality between or within nations is systematically widening over time",
+      "All nations will inevitably develop economically at the exact same rate",
+      "Global economic inequality follows completely unpredictable, random patterns"
+    ],
+    "ans": 1,
+    "exp": "The divergence hypothesis states that economic disparities between wealthy and poor nations systematically widen over time due to differences in technology, capital, and trade terms."
+  },
+  {
+    "q": "Which criticism of Malthusian and Neo-Malthusian theory is NOT true?",
+    "opts": [
+      "Population growth and agricultural outputs have secondary effect",
+      "Lower classes are viewed as a burden to society",
+      "Food production increases more rapidly than population",
+      "The theory blaming human reproduction"
+    ],
+    "ans": 2,
+    "exp": "Malthus claimed that food production only increases arithmetically while population grows geometrically. Therefore, stating that food production grows faster than population is a valid critique, not an untrue criticism."
+  },
+  {
+    "q": "What is the main objective of environmental education?",
+    "opts": [
+      "Training farmers to increase production",
+      "Preparing people to wisely manage their surroundings",
+      "Teaching the public about land use decision-making",
+      "Educating people to implement shifting cultivation"
+    ],
+    "ans": 1,
+    "exp": "Environmental education aims to build awareness, knowledge, and values, preparing citizens to make sustainable choices and protect their ecosystems."
+  },
+  {
+    "q": "Which of the following statements best explains the defining characteristics of the global Tundra region?",
+    "opts": [
+      "It receives a long daily duration of sunlight in summer",
+      "It is inhabited by people whose life style is advanced",
+      "It has the highest daily range of temperature",
+      "It is mostly located in the southern hemisphere"
+    ],
+    "ans": 0,
+    "exp": "Because of its high latitude, the Tundra experiences long hours of daylight during its brief summer, though temperatures remain low."
+  },
+  {
+    "q": "Which major geological feature is directly formed by the tectonic convergence and subduction of two oceanic plates?",
+    "opts": [
+      "The Mariana volcanic feature",
+      "The Himalayas mountain",
+      "The East African rift valley",
+      "The San Andreas Fault"
+    ],
+    "ans": 0,
+    "exp": "The subduction of one oceanic plate beneath another forms deep ocean trenches and associated volcanic island arcs, such as the Mariana Trench."
+  },
+  {
+    "q": "Which statement correctly shows the trend of world climate change?",
+    "opts": [
+      "Temperature has declined in temperate regions since the 1970s",
+      "Precipitation has increased globally since the 1980s",
+      "Average global temperature has increased over the past century",
+      "Global climate fluctuates at the same rate"
+    ],
+    "ans": 2,
+    "exp": "Scientific instruments confirm that the average global surface temperature has risen by approximately 1.1°C over the past century."
+  },
+  {
+    "q": "What fundamental physical characteristic distinguishes chemical weathering from physical (mechanical) weathering?",
+    "opts": [
+      "It relies entirely on the forceful disintegration of rocks",
+      "It results only in changes to the rock's physical texture",
+      "It inherently involves the internal mineral dissolution and alteration of the rock",
+      "It only changes the surface color of the rock without altering its structure"
+    ],
+    "ans": 2,
+    "exp": "Chemical weathering involves chemical reactions that dissolve or alter the internal mineral composition of rocks, creating new minerals."
+  },
+  {
+    "q": "Based on the climatic data table (Station R monthly temperatures: -12, -10, -8, -3, 8, 21, 24, 19, 5, -5, -10, -16), what is the annual temperature range for Station 'R'?",
+    "opts": [
+      "40°C",
+      "35°C",
+      "8°C",
+      "26°C"
+    ],
+    "ans": 0,
+    "exp": "Annual Temperature Range = Maximum Temperature - Minimum Temperature = 24°C - (-12°C? No, the minimum is -16°C in December) = 24 - (-16) = 40°C."
+  },
+  {
+    "q": "Based on the provided climatic data for Stations P, Q, R, and S, which station exhibits the wettest conditions?",
+    "opts": [
+      "“P”",
+      "“Q”",
+      "“R”",
+      "“S”"
+    ],
+    "ans": 3,
+    "exp": "Station S has high rainfall in every single month, totaling 2,343 mm of annual precipitation, making it the wettest station."
+  },
+  {
+    "q": "Which of the following stations exhibits the highest annual range of temperature?",
+    "opts": [
+      "“S”",
+      "“R”",
+      "“Q”",
+      "“P”"
+    ],
+    "ans": 1,
+    "exp": "Station R has a temperature range of 40°C (from -16°C to 24°C), which is the highest among all the stations."
+  },
+  {
+    "q": "Based on the climatic data, which ecosystem is most likely represented by Station 'S'?",
+    "opts": [
+      "Tropical desert areas",
+      "Tundra region",
+      "Mediterranean region",
+      "Equatorial rainforest region"
+    ],
+    "ans": 3,
+    "exp": "Station S shows consistently high temperatures (27–29°C) and heavy, constant monthly rainfall, which is characteristic of an equatorial rainforest climate."
+  },
+  {
+    "q": "Assuming Station 'P' is located north of the equator, when does it most likely receive its maximum rainfall?",
+    "opts": [
+      "December, January, February",
+      "June, July, August",
+      "September, October, November",
+      "March, April, May"
+    ],
+    "ans": 1,
+    "exp": "The rainfall at Station P peaks in June (72mm), July (89mm), and August (100mm), which corresponds to Northern Hemisphere summer."
+  },
+  {
+    "q": "Based on the demographic data table (Total Population: 12 million, Births: 600,000, Deaths: 120,000, Infant Deaths: 60,000), what is the Infant Mortality Rate (IMR) of the country?",
+    "opts": [
+      "90 per 1000 live births",
+      "100 per 1000 live births",
+      "10 per 1000 live births",
+      "120 per 1000 live births"
+    ],
+    "ans": 1,
+    "exp": "IMR = (Infant Deaths / Live Births) * 1000 = (60,000 / 600,000) * 1000 = 100 per 1000 live births."
+  },
+  {
+    "q": "Based on the demographic data (Total Population: 12 million, Women 15-49: 1/3 of total, Births: 600,000), what is the General Fertility Rate (GFR) of the country?",
+    "opts": [
+      "50 per 1000 Women",
+      "150 per 1000 Women",
+      "100 per 1000 Women",
+      "200 per 1000 Women"
+    ],
+    "ans": 1,
+    "exp": "Women 15-49 = 12 million / 3 = 4,000,000. GFR = (Births / Women 15-49) * 1000 = (600,000 / 4,000,000) * 1000 = 150 per 1000 women."
+  },
+  {
+    "q": "Based on the demographic data (Males: 6.5 million, Total: 12 million), what is the Sex Ratio of the country?",
+    "opts": [
+      "84.6%",
+      "118.2%",
+      "100%",
+      "130%"
+    ],
+    "ans": 1,
+    "exp": "Females = 12 million - 6.5 million = 5.5 million. Sex Ratio = (Males / Females) * 100 = (6.5 / 5.5) * 100 = 118.2 males per 100 females."
+  },
+  {
+    "q": "What is the crude population density (arithmetic density) of the country?",
+    "opts": [
+      "87 persons per km²",
+      "100 persons per km²",
+      "112 persons per km²",
+      "120 persons per km²"
+    ],
+    "ans": 1,
+    "exp": "Arithmetic Density = Total Population / Total Land Area = 12,000,000 / 120,000 km² = 100 persons per km²."
+  },
+  {
+    "q": "What key implication can be drawn from the given demographic data?",
+    "opts": [
+      "The majority of the population lives in the urban area",
+      "The country receives more immigrants than emigrants",
+      "The number of females exceeds the number of males",
+      "The majority of the population depends upon agricultural activity"
+    ],
+    "ans": 3,
+    "exp": "The data shows that 85% of the total land area is cultivated, implying a highly rural, agrarian-based population."
+  },
+  {
+    "q": "What is the areal scale of the map provided (linear scale 1:500,000)?",
+    "opts": [
+      "1cm to 5cm",
+      "2cm to 25km²",
+      "1cm² to 25km²",
+      "1cm² to 0.5km²"
+    ],
+    "ans": 2,
+    "exp": "Linear scale: 1 cm = 500,000 cm = 5 km. Areal scale = (1 cm)² : (5 km)² = 1 cm² to 25 km²."
+  },
+  {
+    "q": "What is the vertical interval used on this topographic map?",
+    "opts": [
+      "50",
+      "20",
+      "10",
+      "100"
+    ],
+    "ans": 0,
+    "exp": "The index contour lines are labeled 200, 250, 300, 350, 400. The difference between consecutive contour lines is 50."
+  },
+  {
+    "q": "What type of drainage pattern is indicated on the map?",
+    "opts": [
+      "Radial drainage pattern",
+      "Dendritic drainage pattern",
+      "Centripetal drainage pattern",
+      "Trellis drainage pattern"
+    ],
+    "ans": 1,
+    "exp": "The stream channels branch out like the limbs of a tree, which is characteristic of a dendritic drainage pattern."
+  },
+  {
+    "q": "If the measured map distance between point D and E on the map is 10cm, what is the actual ground distance?",
+    "opts": [
+      "50km",
+      "240km",
+      "60km",
+      "1200km"
+    ],
+    "ans": 0,
+    "exp": "Ground distance = Map distance * Scale denominator = 10 cm * 500,000 = 5,000,000 cm = 50 km."
+  },
+  {
+    "q": "Which of the following land features is represented by the letter 'C' on the map?",
+    "opts": [
+      "Saddle",
+      "Valley",
+      "Depression",
+      "Hill"
+    ],
+    "ans": 0,
+    "exp": "Point C lies on a low ridge between two adjacent peaks, representing a saddle."
+  },
+  {
+    "q": "What type of contour line is represented by the letter 'G' on the map?",
+    "opts": [
+      "Intermediate contour",
+      "Supplementary contour",
+      "Regular contour",
+      "Index contour"
+    ],
+    "ans": 3,
+    "exp": "The thicker contour line with elevation values labeled (e.g., 350) represents an index contour."
+  },
+  {
+    "q": "According to the traditional Ethiopian agro-climatic classification, the area shown on the map (elevations 150m to 400m) is located in which zone?",
+    "opts": [
+      "Bereha",
+      "Dega",
+      "Qolla",
+      "Woina dega"
+    ],
+    "ans": 0,
+    "exp": "Elevations below 500 meters are classified under the hot, arid 'Bereha' (desert) agro-climatic zone."
+  },
+  {
+    "q": "[Sighted Replace] Geographically, which neighboring country currently shares the longest physical land border with Ethiopia?",
+    "opts": [
+      "South Sudan",
+      "Djibouti",
+      "Eritrea",
+      "Somalia"
+    ],
+    "ans": 3,
+    "exp": "Ethiopia shares its longest international land boundary with Somalia, stretching approximately 1,600 kilometers."
+  },
+  {
+    "q": "[Sighted Replace] What is the most important natural factor responsible for drought in Africa?",
+    "opts": [
+      "Deforestation",
+      "El Nino and La Nina effect",
+      "Urbanization",
+      "Industrialization"
+    ],
+    "ans": 1,
+    "exp": "The El Niño-Southern Oscillation (ENSO) cycle is the primary global climatic driver causing severe droughts and altered rainfall patterns across Africa."
+  },
+  {
+    "q": "[Sighted Replace] Among the following, which one is an indirect (ecological) use of natural vegetation?",
+    "opts": [
+      "Source of food",
+      "Source of fuel wood",
+      "Source of construction materials",
+      "Home of wild animals"
+    ],
+    "ans": 3,
+    "exp": "Extractive uses (timber, fuel, food) are direct uses. Providing habitats for wildlife, regulating climate, and preventing erosion are indirect uses."
+  },
+  {
+    "q": "[Sighted Replace] According to Alfred Weber's foundational 'Least-Cost Location Theory' for industrial placement, what is identified as the most critical factor?",
+    "opts": [
+      "Transportation costs",
+      "Agglomeration economies",
+      "Labor costs",
+      "Raw material costs"
+    ],
+    "ans": 0,
+    "exp": "Weber's theory states that minimizing total transportation costs (moving raw materials to factory, and finished goods to market) is the primary driver of industrial location."
+  },
+  {
+    "q": "[Sighted Replace] If a university graduate cannot secure a job because the economy fails to generate sufficient hiring opportunities, this is an example of:",
+    "opts": [
+      "Underemployment",
+      "Voluntary unemployment",
+      "Partial employment",
+      "Involuntary unemployment"
+    ],
+    "ans": 3,
+    "exp": "Involuntary unemployment occurs when qualified individuals actively seek work at the going wage rate but cannot find employment due to structural labor market failures."
+  },
+  {
+    "q": "[Sighted Replace] Which of the following is NOT among the principal measures for maintaining food security?",
+    "opts": [
+      "Employment creation programs",
+      "Price destabilization",
+      "Supplementary feeding programs",
+      "General food distributions"
+    ],
+    "ans": 1,
+    "exp": "Price stabilization maintains food security. Price destabilization creates market volatility and threatens food access."
+  },
+  {
+    "q": "[Sighted Replace] Where and when was the landmark First United Nations Conference on Environment and Development (UNCED), often called the Earth Summit, held?",
+    "opts": [
+      "Rio de Janeiro, Brazil (1992)",
+      "Stockholm, Sweden (1972)",
+      "Paris, France (2015)",
+      "Johannesburg, South Africa (2002)"
+    ],
+    "ans": 0,
+    "exp": "The historic UN Earth Summit (UNCED) was held in Rio de Janeiro, Brazil, in June 1992."
+  },
+  {
+    "q": "[Sighted Replace] Which of the following atmospheric pressure belts distinctly characterizes the low equatorial latitudes of the Earth?",
+    "opts": [
+      "Sub-tropical",
+      "Horse latitude",
+      "Sub-polar",
+      "Doldrums"
+    ],
+    "ans": 3,
+    "exp": "The Doldrums (Intertropical Convergence Zone) is a low-pressure belt around the equator characterized by calm winds and rising air."
+  },
+  {
+    "q": "[Sighted Replace] What is the conceptual definition of a research approach?",
+    "opts": [
+      "A process of collecting data",
+      "A method of conducting research",
+      "A way of addressing a given research problem",
+      "A technique of specifying research topics"
+    ],
+    "ans": 2,
+    "exp": "A research approach represents the conceptual plan, methodology, or broad strategy chosen to address a specific research problem."
+  },
+  {
+    "q": "[Sighted Replace] Geographically, which of the following continents has territorial landmass situated in all four distinct global hemispheres?",
+    "opts": [
+      "Africa",
+      "Asia",
+      "South Africa",
+      "Australia"
+    ],
+    "ans": 0,
+    "exp": "Africa is the only continent that is crossed by both the Equator (separating North and South) and the Prime Meridian (separating East and West)."
+  },
+  {
+    "q": "[Sighted Replace] Which of the following is NOT a typical direct impact of land degradation and desertification?",
+    "opts": [
+      "Loss of the biological diversity",
+      "Emission of greenhouse gases",
+      "Expansion of invasive species",
+      "Loss of land by armed conflict"
+    ],
+    "ans": 3,
+    "exp": "While armed conflict can cause land degradation, land degradation itself does not physically reduce land boundaries by means of warfare."
+  },
+  {
+    "q": "[Sighted Replace] What raised landform serves as a source of streams and separates one river basin from another?",
+    "opts": [
+      "Drainage basin",
+      "Confluence",
+      "Drainage pattern",
+      "Watershed"
+    ],
+    "ans": 3,
+    "exp": "A watershed (or drainage divide) is a line of elevated terrain that separates neighboring drainage basins."
+  },
+  {
+    "q": "[Sighted Replace] Among the external (exogenic) geomorphic forces, which agent of erosion is globally the most powerful in shaping the surface of the earth?",
+    "opts": [
+      "Wind",
+      "Under ground water",
+      "Glier",
+      "Running water"
+    ],
+    "ans": 3,
+    "exp": "Running water is the most powerful and universal agent of erosion on Earth, shaping landscapes across almost all climatic zones."
+  },
+  {
+    "q": "[Sighted Replace] Which of the following is NOT one of the overall goals of the 'Green Legacy' movement?",
+    "opts": [
+      "To curb the effects of climate change and deforestation",
+      "To intensify climate smart agriculture",
+      "To decrease food security",
+      "To build climate resilient green economy"
+    ],
+    "ans": 2,
+    "exp": "The Green Legacy initiative aims to improve agroforestry and restore forests, which increases, rather than decreases, food security."
+  },
+  {
+    "q": "[Sighted Replace] Which of the following energy sources is categorized as renewable energy?",
+    "opts": [
+      "Natural gases",
+      "Petroleum",
+      "Geothermal energy",
+      "Oil"
+    ],
+    "ans": 2,
+    "exp": "Geothermal energy is a renewable resource derived from the Earth's internal heat, unlike finite fossil fuels (petroleum, natural gas, and oil)."
+  }
+]
