@@ -1,0 +1,362 @@
+[
+  {
+    "q": "A scientist conducts an experiment to record the boiling point of water at various altitudes. Which of the following statements best justifies the type of knowledge gained from this experiment?",
+    "opts": ["It is memory-based knowledge", "It is testimonial knowledge", "It is experiential knowledge", "It is introspective knowledge"],
+    "ans": 2,
+    "exp": "Direct observation and measurement of physical phenomena constitute experiential knowledge."
+  },
+  {
+    "q": "Which of the following best explains why physics is important for chemistry?",
+    "opts": ["Physics replaces chemical experiments", "Physics and chemistry study unrelated aspects", "Physics provides laws governing matter and energy", "Physics ignores molecules"],
+    "ans": 2,
+    "exp": "Physics provides the fundamental laws (thermodynamics, electromagnetism, quantum mechanics) that govern the behavior of matter and energy in chemical reactions."
+  },
+  {
+    "q": "How does Pascal’s principle assist soft-bodied animals like earthworms?",
+    "opts": ["Pressure gradients create electrical signals", "Pressure in fluid transmits evenly to produce movement", "Pressure difference removes excess water", "Pressure in muscles generates heat"],
+    "ans": 1,
+    "exp": "Pascal's principle allows the hydrostatic skeleton of the earthworm to transmit muscular force through fluid pressure, enabling movement."
+  },
+  {
+    "q": "During a military air-defense mission, a RADAR station scans the sky to detect an approaching aircraft. How does it identify the distant target?",
+    "opts": ["Analyzes sound waves", "Measures temperature changes", "Sends electromagnetic waves and receives reflected echoes", "Detects gravitational attraction"],
+    "ans": 2,
+    "exp": "RADAR works by sending radio frequency electromagnetic pulses and detecting the reflections from targets."
+  },
+  {
+    "q": "A vector has magnitude V. When the angle with the horizontal increases from 30° to 60°, what happens to the horizontal component?",
+    "opts": ["It becomes half", "It remains the same", "It becomes √3 times original", "It becomes 1/√3 times original"],
+    "ans": 3,
+    "exp": "Horizontal component is V cos(θ). cos(60°)/cos(30°) = (1/2) / (√3/2) = 1/√3."
+  },
+  {
+    "q": "Two vectors are added using both the triangle and parallelogram methods. Which conclusion is correct?",
+    "opts": ["Only triangle method applies", "Both methods give same resultant", "Parallelogram ignores direction", "Triangle gives larger magnitude"],
+    "ans": 1,
+    "exp": "These are simply two geometric representations of the same vector addition property."
+  },
+  {
+    "q": "The unit vector in the direction of vector A = 5i - 12j is:",
+    "opts": ["i/√13", "j/13", "(5i+12j)/13", "(5i-12j)/13"],
+    "ans": 3,
+    "exp": "Magnitude is √(5² + (-12)²) = 13. Unit vector is the original vector divided by magnitude."
+  },
+  {
+    "q": "Work done by a constant force F for displacement d is given by W = F.d. A particle moves along a displacement (5i + 5√3k)m under a force (10i - √3k)N. What is the work done?",
+    "opts": ["35 J", "-15 J", "5√3 J", "-50 J"],
+    "ans": 0,
+    "exp": "Dot product: (10)(5) + (0)(0) + (-√3)(5√3) = 50 - 15 = 35 J."
+  },
+  {
+    "q": "A train accelerates from rest to 30 m/s in 60 seconds. Which statement is correct?",
+    "opts": ["Student R is correct", "Student S is correct", "Student P is correct", "Student Q is correct"],
+    "ans": 2,
+    "exp": "Student P is correct as average velocity is (0+30)/2 = 15 m/s and instantaneous velocity at 60s is 30 m/s."
+  },
+  {
+    "q": "Two particles start from the same point at the same time. Particle A starts from rest and accelerates at 2 m/s², while B moves with constant velocity of 10 m/s. After how many seconds will they be at the same position again?",
+    "opts": ["10 s", "12 s", "5 s", "8 s"],
+    "ans": 0,
+    "exp": "t² = 10t => t = 10."
+  },
+  {
+    "q": "A vehicle accelerates uniformly from time t1 to t2, moves with constant velocity from t2 to t3, and decelerates from t3 to t4. In which interval is the acceleration zero?",
+    "opts": ["t1 to t2", "t2 to t3", "t3 to t4", "t1 to t4"],
+    "ans": 1,
+    "exp": "Acceleration is zero when velocity is constant."
+  },
+  {
+    "q": "The velocity-time graph of a body is shown below. What is the displacement travelled in 20 seconds?<br><img src='https://i.ibb.co/RTHPmm5Z/Screenshot-20260612-121152-One-Drive.jpg' class='my-4 max-w-full'>",
+    "opts": ["138 m", "142 m", "162 m", "182 m"],
+    "ans": 2,
+    "exp": "Calculate the area under the graph. For a triangle base 18 and height 12, area is 108; add the area for the remaining intervals."
+  },
+  {
+    "q": "A ball is thrown vertically upward from the top of a 15 m high tower with an initial speed of 10 m/s. How long does it take for the ball to reach the ground?",
+    "opts": ["3 s", "4 s", "5 s", "2 s"],
+    "ans": 0,
+    "exp": "Using y = y0 + v0t - 0.5gt² => 0 = 15 + 10t - 5t² => t² - 2t - 3 = 0 => t = 3s."
+  },
+  {
+    "q": "Two projectiles are launched with equal speeds at complementary angles. Why is the conclusion that their maximum heights are equal incorrect?",
+    "opts": ["Acceleration differs", "Ranges are equal", "Horizontal velocity is equal", "Maximum height depends on vertical velocity"],
+    "ans": 3,
+    "exp": "Maximum height is determined by the vertical component (u sinθ), which differs for complementary angles."
+  },
+  {
+    "q": "A ball is projected with initial velocity u, range R. What initial velocity is needed for range 2.25R?",
+    "opts": ["2.5u", "1.5u", "2.25u", "0.25u"],
+    "ans": 1,
+    "exp": "Range R is proportional to u². So u' = √(2.25) * u = 1.5u."
+  },
+  {
+    "q": "Which of the labeled curves best represents the path the ball follows immediately after the string breaks?<br><img src='https://i.ibb.co/k68V60xj/Screenshot-20260612-121228-One-Drive.jpg' class='my-4 max-w-full'>",
+    "opts": ["Curve A", "Curve D", "Curve B", "Curve C"],
+    "ans": 2,
+    "exp": "The ball follows a straight line tangent to its circular path at the point of release."
+  },
+  {
+    "q": "A rigid disc rotates about its center. If a particle on the rim sweeps θ radians, what can be concluded about a particle halfway between the center and the rim?",
+    "opts": ["Smaller angular displacement, longer arc", "Same angular displacement, shorter arc", "Smaller angular displacement, same arc", "Same angular displacement, same arc"],
+    "ans": 1,
+    "exp": "All points on a rotating rigid body share the same angular displacement, but arc length depends on distance from center."
+  },
+  {
+    "q": "A wheel initially at rest increases its angular velocity to 80 rad/s after 5 seconds. The total angular displacement is:",
+    "opts": ["400 rad", "800 rad", "100 rad", "200 rad"],
+    "ans": 3,
+    "exp": "θ = (ω_avg) * t = (80+0)/2 * 5 = 200 rad."
+  },
+  {
+    "q": "A satellite orbits Earth with period 8 hours. If the orbital radius is increased 4 times, what is the new orbital period?",
+    "opts": ["16 hours", "24 hours", "64 hours", "32 hours"],
+    "ans": 2,
+    "exp": "T² ∝ r³. T_new = T_old * √4³ = 8 * 8 = 64 hours."
+  },
+  {
+    "q": "A spacecraft hovers near a planet with twice Earth's mass and 1.5 times its radius. The gravitational force compared to Earth is:",
+    "opts": ["8/9", "3/2", "4/9", "Twice"],
+    "ans": 0,
+    "exp": "F ∝ M/R². F_new = 2 / (1.5)² = 2 / 2.25 = 8/9."
+  },
+  {
+    "q": "Which design BEST applies Newton’s third law?",
+    "opts": ["Solar fan car", "Gravity cart", "Rubber-band car", "Balloon-powered vehicle"],
+    "ans": 3,
+    "exp": "Action of air pushing back = Reaction of vehicle pushing forward."
+  },
+  {
+    "q": "According to Newton’s second law, if the net force on a body is zero, its momentum:",
+    "opts": ["Remains constant", "Increases", "Decreases", "Changes direction"],
+    "ans": 0,
+    "exp": "F = dp/dt. If F = 0, then dp/dt = 0, momentum is constant."
+  },
+  {
+    "q": "What is the acceleration of the system?<br><img src='https://i.ibb.co/1tgvnMvT/Screenshot-20260612-121256-One-Drive.jpg' class='my-4 max-w-full'>",
+    "opts": ["1.20 m/s²", "4.13 m/s²", "2.52 m/s²", "4.51 m/s²"],
+    "ans": 0,
+    "exp": "System force = mg - mg*sin(37) - friction = 100 - 60 - 16 = 24. Acceleration = 24/20 = 1.2 m/s²."
+  },
+  {
+    "q": "Which statement most accurately represents the energy behavior of a simple pendulum and a spring-mass system?",
+    "opts": ["Energy is entirely kinetic", "Spring loses energy faster", "Only pendulum exchanges energy", "Both continuously exchange kinetic and potential energy"],
+    "ans": 3,
+    "exp": "Both are conservative systems exchanging kinetic and potential energy."
+  },
+  {
+    "q": "In which case is work done by the person: leaning against a wall (no movement) or pushing a cart forward?",
+    "opts": ["Both", "Only wall", "No work in both", "Only cart"],
+    "ans": 3,
+    "exp": "Work = Force * displacement. No displacement, no work."
+  },
+  {
+    "q": "What is the magnitude of the impulse imparted to the ball?<br><img src='https://i.ibb.co/wFGQ4hsp/Screenshot-20260612-121324-One-Drive.jpg' class='my-4 max-w-full'>",
+    "opts": ["12 Ns", "16 Ns", "4 Ns", "0 Ns"],
+    "ans": 1,
+    "exp": "J = Δp = m(vf - vi) = 0.2 * (-40 - 40) = 0.2 * -80 = -16. Magnitude = 16 Ns."
+  },
+  {
+    "q": "A wedge of length 30 cm and thickness 6 cm is used to lift a load of 900 N with an effort of 300 N. Efficiency?",
+    "opts": ["50 %", "60 %", "75 %", "90 %"],
+    "ans": 1,
+    "exp": "MA = 900/300 = 3. VR = 30/6 = 5. Efficiency = 3/5 = 60%."
+  },
+  {
+    "q": "Which statement best distinguishes true weight from apparent weight?",
+    "opts": ["Measured in fluid vs air", "Changes with depth", "Density dependent", "Gravitational force vs reduced weight in fluid"],
+    "ans": 3,
+    "exp": "True weight is F=mg. Apparent weight includes buoyant forces."
+  },
+  {
+    "q": "Gauge pressure is best described as:",
+    "opts": ["Total pressure", "Pressure due to density", "Pressure relative to atmospheric", "Pressure relative to vacuum"],
+    "ans": 2,
+    "exp": "Gauge pressure is measured relative to atmospheric pressure."
+  },
+  {
+    "q": "Which setup best demonstrates that pressure in a fluid increases with depth?",
+    "opts": ["Vertical tube with holes", "Tilted glass", "Horizontal tube", "U-shaped tube"],
+    "ans": 0,
+    "exp": "Leakage rate is higher at the bottom due to higher pressure."
+  },
+  {
+    "q": "Hydraulic lift: small radius 5 cm, large radius 50 cm. If 88 N is applied, what weight can be supported?<br><img src='https://i.ibb.co/b5hryq7J/Screenshot-20260612-121353-One-Drive.jpg' class='my-4 max-w-full'>",
+    "opts": ["880 N", "88 N", "88000 N", "8800 N"],
+    "ans": 3,
+    "exp": "F2 = F1 * (r2/r1)² = 88 * (50/5)² = 88 * 100 = 8800 N."
+  },
+  {
+    "q": "A solid sphere floats fully submerged. According to Archimedes, which statement is true?",
+    "opts": ["Sphere density = liquid density", "Density > liquid", "Density < liquid", "Density ≥ liquid"],
+    "ans": 0,
+    "exp": "Neutral buoyancy means densities are equal."
+  },
+  {
+    "q": "A hose (4 cm diameter) delivers water at 2 m/s. Connected to 2 cm nozzle. Speed in nozzle?",
+    "opts": ["16 m/s", "12 m/s", "4 m/s", "8 m/s"],
+    "ans": 3,
+    "exp": "A1v1 = A2v2 => (d1/2)²v1 = (d2/2)²v2 => 16 * 2 = 4 * v2 => v2 = 8 m/s."
+  },
+  {
+    "q": "Process of using high pressure to kill bacteria in food is called:",
+    "opts": ["Sterilization", "Fermentation", "Pascalization", "Pasteurization"],
+    "ans": 2,
+    "exp": "Pascalization refers specifically to high-pressure food processing."
+  },
+  {
+    "q": "Two substances, X and Y (1 kg each), temp increase 10 K. X: 500 J/kgK, Y: 800 J/kgK. Heat required?",
+    "opts": ["Neither", "Y needs more", "X needs more", "Both same"],
+    "ans": 1,
+    "exp": "Q = mcΔT. Higher specific heat c means more heat required for same m and ΔT."
+  },
+  {
+    "q": "Steel bridge is 100 m long at 20°C. Coefficient is 1.2 x 10⁻⁵. Length at 40°C?",
+    "opts": ["100.024 m", "100.04 m", "0.04 m", "0.024 m"],
+    "ans": 0,
+    "exp": "ΔL = αL0ΔT = 1.2e-5 * 100 * 20 = 0.024 m. L = 100.024 m."
+  },
+  {
+    "q": "During phase change, substance above critical point properties?",
+    "opts": ["Liquid and gas fluidity", "Behaves as liquid", "Solidifies", "Behaves as gas"],
+    "ans": 0,
+    "exp": "Supercritical fluids have liquid-like density and gas-like fluidity."
+  },
+  {
+    "q": "Redesigning calorimetry to minimize heat loss?",
+    "opts": ["Heat longer", "Preheat", "Insulate calorimeter, dry, transfer quickly, cover", "Calibrate"],
+    "ans": 2,
+    "exp": "Insulation and limiting exposure to air are standard ways to reduce heat loss."
+  },
+  {
+    "q": "Latent heat of fusion?",
+    "opts": ["Change temp solid", "Energy released solid", "Liquid to gas", "Total heat absorbed melting"],
+    "ans": 3,
+    "exp": "Latent heat of fusion is energy for phase change from solid to liquid."
+  },
+  {
+    "q": "Traffic light (100 N) hanging from cables at 37° and 53°. Tension T1 and T2?<br><img src='https://i.ibb.co/5g5dWd90/Screenshot-20260612-121421-One-Drive.jpg' class='my-4 max-w-full'>",
+    "opts": ["60 N, 80 N", "80 N, 60 N", "35 N, 100 N", "100 N, 35 N"],
+    "ans": 0,
+    "exp": "Equilibrium: T1 cos 37 = T2 cos 53 and T1 sin 37 + T2 sin 53 = 100. Solving gives T1=60, T2=80."
+  },
+  {
+    "q": "Copper wire resistance 15 Ω to 20 Ω, constant 120 V. Change in current?",
+    "opts": ["8 A", "6 A", "3 A", "2 A"],
+    "ans": 3,
+    "exp": "I1 = 120/15 = 8 A. I2 = 120/20 = 6 A. Change = 2 A."
+  },
+  {
+    "q": "Identical resistors, series vs parallel, total current?",
+    "opts": ["Zero", "Same", "Greater in parallel", "Smaller in parallel"],
+    "ans": 2,
+    "exp": "Parallel has lower total resistance, thus drawing more current."
+  },
+  {
+    "q": "Three charges q, 3q, -q spaced d apart. Net force on q2 (middle)?",
+    "opts": ["4kq²/d² right", "6kq²/d² right", "6kq²/d² left", "Zero"],
+    "ans": 1,
+    "exp": "Force from q1 (repulsive) + Force from q3 (attractive) = 3kq²/d² + 3kq²/d² = 6kq²/d² to the right."
+  },
+  {
+    "q": "Five 1 μF capacitors in bridge. Equivalent capacitance?",
+    "opts": ["2 μF", "0.5 μF", "3 μF", "5 μF"],
+    "ans": 1,
+    "exp": "Parallel branches 2μF in series with 1μF gives 0.5 μF."
+  },
+  {
+    "q": "Circuit with 6V, 9V, 1Ω resistor, etc. Current in 1Ω resistor?",
+    "opts": ["1.3 A, P to Q", "0 A", "0.13 A, Q to P", "0.13 A, P to Q"],
+    "ans": 1,
+    "exp": "Balanced bridge circuit results in zero current."
+  },
+  {
+    "q": "Light ray medium A to B. Angle A=30, B=45. Refractive index B relative to A?<br><img src='https://i.ibb.co/vxrWC8GZ/Screenshot-20260612-121452-One-Drive.jpg' class='my-4 max-w-full'>",
+    "opts": ["√2/√3", "√3/√2", "1/√2", "√2/1"],
+    "ans": 2,
+    "exp": "nB/nA = sin(30)/sin(45) = (1/2)/(1/√2) = 1/√2."
+  },
+  {
+    "q": "10 cm object, 30 cm from concave mirror (f=20). Size of image?",
+    "opts": ["15 cm", "20 cm", "30 cm", "25 cm"],
+    "ans": 1,
+    "exp": "1/20 = 1/30 + 1/di => di=60. Magnification = -60/30 = -2. Image size = 2 * 10 = 20."
+  },
+  {
+    "q": "Sound intensity at 2 m is 8x10⁻⁴. Intensity at 4 m?",
+    "opts": ["2x10⁻⁴", "4x10⁻⁴", "1x10⁻³", "8x10⁻³"],
+    "ans": 0,
+    "exp": "Inverse square law: doubling distance quarters intensity."
+  },
+  {
+    "q": "Straight wire, 10 A, 2 cm from wire. Magnetic field?",
+    "opts": ["1.0x10⁻⁴ T", "2.0x10⁻⁵ T", "5.0x10⁻⁴ T", "1.0x10⁻⁵ T"],
+    "ans": 0,
+    "exp": "B = μ0I / 2πr = 4πe-7 * 10 / 2π*0.02 = 1e-4."
+  },
+  {
+    "q": "Reversing current near compass?",
+    "opts": ["No deflection", "Random", "Deflects opposite", "Deflects same"],
+    "ans": 2,
+    "exp": "Reversing current reverses magnetic field direction per right-hand rule."
+  },
+  {
+    "q": "Coil 100 turns, 0.01 m², 0.5 T. Angle normal/field changes 30 to 60 in 0.1 s. Induced EMF?",
+    "opts": ["1.33 V", "1.83 V", "2.00 V", "2.55 V"],
+    "ans": 1,
+    "exp": "E = N*ΔΦ/Δt. ΔΦ = BA(cos30 - cos60) = 0.5*0.01*(0.866-0.5) = 1.83e-3. E = 100 * 1.83e-3 / 0.1 = 1.83."
+  },
+  {
+    "q": "Transformers in household units?",
+    "opts": ["Convert AC to DC", "Change voltage levels", "Generate electricity", "Store energy"],
+    "ans": 1,
+    "exp": "Transformers step down high transmission voltages to safe household levels."
+  },
+  {
+    "q": "Magnetic induction in graphics tablets?",
+    "opts": ["Track position", "Store energy", "Detect movement/digital lines", "Produce heat"],
+    "ans": 2,
+    "exp": "Tablets detect changes in magnetic fields to convert stylus position to digital lines."
+  },
+  {
+    "q": "Carbon-14 dating 100,000-year-old rock?",
+    "opts": ["Isotope stops decaying", "Decay rate changes", "Half-life too short", "Too many minerals"],
+    "ans": 2,
+    "exp": "C-14 half-life is ~5,730 years; 100,000 years is too long for significant remaining levels."
+  },
+  {
+    "q": "Nuclear processes releasing energy (fission/fusion)?",
+    "opts": ["Product higher binding energy", "Neutron transfer", "Extreme temp", "Stable rearrangement"],
+    "ans": 0,
+    "exp": "Energy is released when products have higher binding energy per nucleon (more stable)."
+  },
+  {
+    "q": "Forward vs reverse bias?",
+    "opts": ["Both stop current", "Forward blocks", "Forward allows, reverse blocks", "Both same"],
+    "ans": 2,
+    "exp": "Forward bias reduces barrier, allowing flow; reverse bias increases barrier, preventing it."
+  },
+  {
+    "q": "Ripple reduction rectifiers?",
+    "opts": ["Equally smooth", "Half-wave smoother", "Full-wave cannot", "Full-wave smoother (charges twice)"],
+    "ans": 3,
+    "exp": "Full-wave rectifiers provide peaks twice per cycle, resulting in less discharge time for the capacitor."
+  },
+  {
+    "q": "Transistor symbol (arrow pointing in)?",
+    "opts": ["NPN", "PNP", "PN diode", "Photo diode"],
+    "ans": 1,
+    "exp": "Arrow in emitter of BJT pointing toward the base signifies PNP."
+  },
+  {
+    "q": "Two-input digital gate, outputs 0 only when both inputs are 1?",
+    "opts": ["AND", "OR", "NOR", "NAND"],
+    "ans": 3,
+    "exp": "This is the definition of a NAND gate."
+  },
+  {
+    "q": "Robotic check-ups, needle-free devices applications?",
+    "opts": ["Aerospace", "Agricultural", "Medical/Healthcare", "Automobile"],
+    "ans": 2,
+    "exp": "These are clearly innovations in medical diagnostics and delivery."
+  }
+]
