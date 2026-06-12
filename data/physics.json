@@ -121,7 +121,7 @@
     "exp": "Between t2 to t3, the vehicle moves with a constant velocity. Since velocity is constant, the acceleration is zero, making both the instantaneous and average acceleration zero."
   },
   {
-    "q": "The velocity-time graph of a body moving in a straight line is shown in the figure below. What is the displacement travelled by the body in 20 seconds?<br><img src='https://i.ibb.co/MDxtnzvC/image.jpg' class='my-4 max-w-full rounded-lg shadow-md'>",
+    "q": "The velocity-time graph of a body moving in a straight line is shown in the figure below. What is the displacement travelled by the body in 20 seconds?<br><img src='https://i.ibb.co/MDxtnzvC/image.jpg' >",
     "opts": [
       "138 m",
       "142 m",
@@ -330,7 +330,7 @@
     "exp": "A vertical tube with holes at different depths is a classic demonstration: the water streams from the lowest holes with the greatest force, proving that hydrostatic pressure increases with depth."
   },
   {
-    "q": "A hydraulic lift is used to lift a car. The small piston has a radius of 5 cm and large piston has radius 50 cm. If a driver applies a force of 88 N to the small piston, what is the weight of the car the larger piston can support?<br><img src='https://i.ibb.co/PZ9PZw8k/image.jpg' class='my-4 max-w-full rounded-lg shadow-md'>",
+    "q": "A hydraulic lift is used to lift a car. The small piston has a radius of 5 cm and large piston has radius 50 cm. If a driver applies a force of 88 N to the small piston, what is the weight of the car the larger piston can support?<br><img src='https://i.ibb.co/PZ9PZw8k/image.jpg' >",
     "opts": [
       "880 N",
       "88 N",
@@ -429,7 +429,7 @@
     "exp": "Latent heat of fusion is the amount of heat energy absorbed by a substance to transition from solid to liquid phase at its constant melting point."
   },
   {
-    "q": "A traffic light weighing 100 N hangs from vertical cables that are fastened to support. The upper cables make angles of 370 and 530 with the horizontal as shown in the figure below. What is the tension in T1 and T2 of cables respectively?<br><img src='https://i.ibb.co/ksPNBZ1Z/image.jpg' class='my-4 max-w-full rounded-lg shadow-md'>",
+    "q": "A traffic light weighing 100 N hangs from vertical cables that are fastened to support. The upper cables make angles of 370 and 530 with the horizontal as shown in the figure below. What is the tension in T1 and T2 of cables respectively?<br><img src='https://i.ibb.co/ksPNBZ1Z/image.jpg' >",
     "opts": [
       "60 N, 80 N",
       "80 N, 60 N",
@@ -462,7 +462,7 @@
     "exp": "Parallel connection reduces equivalent resistance (Rp < Rs). According to Ohm's Law (I = V/R), a lower resistance connected to the same voltage source draws a greater total current."
   },
   {
-    "q": "Three charges Q1 = q, Q2 = 3q, and Q3 = −q are placed in a horizontal line. The charges are spaced equally by a distance d as shown in the figure below. What is the net force on the charge Q2?<br><img src='https://i.ibb.co/qLLBy33S/image.jpg' class='my-4 max-w-full rounded-lg shadow-md'>",
+    "q": "Three charges Q1 = q, Q2 = 3q, and Q3 = −q are placed in a horizontal line. The charges are spaced equally by a distance d as shown in the figure below. What is the net force on the charge Q2?<br><img src='https://i.ibb.co/qLLBy33S/image.jpg' >",
     "opts": [
       "4 k.q²/d² to the right",
       "6 k.q²/d² to the right",
@@ -473,7 +473,7 @@
     "exp": "Q1 (positive) repels Q2 (positive) to the right: F1 = k * (q * 3q) / d² = 3kq²/d². Q3 (negative) attracts Q2 (positive) to the right: F2 = k * (3q * q) / d² = 3kq²/d². Net force is the sum: 6kq²/d² pointing to the right."
   },
   {
-    "q": "Five capacitors, each of capacitance 1 μF, are connected as shown in the figure below. The equivalent capacitance between A and B is:<br><img src='https://i.ibb.co/k6X4BvFC/image.jpg' class='my-4 max-w-full rounded-lg shadow-md'>",
+    "q": "Five capacitors, each of capacitance 1 μF, are connected as shown in the figure below. The equivalent capacitance between A and B is:<br><img src='https://i.ibb.co/k6X4BvFC/image.jpg' >",
     "opts": [
       "2 μF",
       "0.5 μF",
@@ -484,7 +484,7 @@
     "exp": "The circuit contains parallel pairs of 1 μF + 1 μF = 2 μF on both sides, which are connected in series with a central 1 μF capacitor. 1/Ceq = 1/2 + 1/1 + 1/2 = 2 => Ceq = 0.5 μF."
   },
   {
-    "q": "In the circuit shown below, the current in the 1 Ω resistor is:<br><img src='https://i.ibb.co/21QsTWyh/image.jpg' class='my-4 max-w-full rounded-lg shadow-md'>",
+    "q": "In the circuit shown below, the current in the 1 Ω resistor is:<br><img src='https://i.ibb.co/21QsTWyh/image.jpg' >",
     "opts": [
       "1.3 A, from P to Q",
       "0 A",
@@ -495,7 +495,7 @@
     "exp": "Using nodal or loop analysis on the balanced branch potentials, the potentials at P and Q are equal, resulting in zero potential difference and 0 A current through the central 1 Ω resistor."
   },
   {
-    "q": "Figure below shows a ray of light as it travels from medium A to medium B. Refractive index of the medium B relative to medium A is:<br><img src='https://i.ibb.co/TnpzR4k/image.jpg' class='my-4 max-w-full rounded-lg shadow-md'>",
+    "q": "Figure below shows a ray of light as it travels from medium A to medium B. Refractive index of the medium B relative to medium A is:<br><img src='https://i.ibb.co/TnpzR4k/image.jpg' >",
     "opts": [
       "√2 / √3",
       "√3 / √2",
