@@ -1,0 +1,662 @@
+[
+  {
+    "q": "A scientist conducts an experiment to record the boiling point of water at various altitudes. Which of the following statements best justifies the type of knowledge gained from this experiment?",
+    "opts": [
+      "It is memory-based knowledge because the scientist recalls past experiences",
+      "It is testimonial knowledge because the scientist relies on previous published data",
+      "It is experiential knowledge because the scientist directly observes the phenomena",
+      "It is introspective knowledge because the scientist reflects on their own observations"
+    ],
+    "ans": 2,
+    "exp": "Direct observation and empirical measurement during experiments provide experiential (empirical) knowledge."
+  },
+  {
+    "q": "Which of the following best explains why physics is important for chemistry?",
+    "opts": [
+      "Physics replaces chemical experiments with mathematical models only",
+      "Physics and chemistry study unrelated aspects of matter without overlap",
+      "Physics provides laws governing matter and energy for chemical reactions",
+      "Physics focuses solely on elements and ignores molecules in chemical systems"
+    ],
+    "ans": 2,
+    "exp": "Physical laws (thermodynamics, quantum mechanics, electrostatic forces) dictate how atoms bond, react, and exchange energy in chemistry."
+  },
+  {
+    "q": "How does Pascal’s principle assist soft-bodied animals like earthworms?",
+    "opts": [
+      "Pressure gradients create electrical signals in neurons",
+      "Pressure in fluid transmits evenly to produce movement",
+      "Pressure difference remove excess water from the body",
+      "Pressure in muscles generates heat for energy production"
+    ],
+    "ans": 1,
+    "exp": "A hydrostatic skeleton uses incompressible body fluids to transmit muscular pressure evenly in all directions, facilitating locomotion."
+  },
+  {
+    "q": "During a military air-defense mission, a RADAR station scans the sky to detect an approaching aircraft. How does it identify the distant target?",
+    "opts": [
+      "It analyzes sound waves emitted from moving targets",
+      "It measures temperature changes produced by the target",
+      "It sends electromagnetic waves and receives reflected echoes",
+      "It detects gravitational attraction from far away objects remotely"
+    ],
+    "ans": 2,
+    "exp": "RADAR (Radio Detection and Ranging) sends radio pulses and calculates distance and speed based on the returned echo."
+  },
+  {
+    "q": "A vector has magnitude V. When the angle with the horizontal increases from 30° to 60°, what happens to the horizontal component?",
+    "opts": [
+      "It becomes half",
+      "It remains the same",
+      "It becomes √3 times original value",
+      "It becomes 1/√3 times original value"
+    ],
+    "ans": 3,
+    "exp": "Vx = V cos(θ). Vx(60°)/Vx(30°) = cos(60°)/cos(30°) = (1/2) / (√3/2) = 1/v3."
+  },
+  {
+    "q": "Two vectors are added using both the triangle and parallelogram methods. Which conclusion is correct?",
+    "opts": [
+      "Only the triangle method can be applied to vectors at an angle",
+      "Both methods give the same resultant in magnitude and direction",
+      "The parallelogram method ignores the direction of the vectors completely",
+      "The triangle method always gives a larger resultant magnitude than the other"
+    ],
+    "ans": 1,
+    "exp": "Both methods are geometrically equivalent and yield the exact same resultant vector."
+  },
+  {
+    "q": "The unit vector in the direction of vector A = 5i - 12j is:",
+    "opts": [
+      "i / √13",
+      "j / 13",
+      "(5i + 12j) / 13",
+      "(5i - 12j) / 13"
+    ],
+    "ans": 3,
+    "exp": "Magnitude = √(5² + (-12)²) = 13. Unit vector is A / |A| = (5i - 12j)/13."
+  },
+  {
+    "q": "Work done by a constant force F for displacement d is given by W = F · d. A particle moves along a displacement (5i + 5√3 k)m under a force (10i - √3 k)N. What is the work done by the force?",
+    "opts": [
+      "35 J",
+      "−15 J",
+      "5√3 J",
+      "−50 J"
+    ],
+    "ans": 0,
+    "exp": "W = F · d = (10)(5) + (0)(0) + (-√3)(5√3) = 50 - 15 = 35 J."
+  },
+  {
+    "q": "A train accelerates from rest to 30 m/s in 60 seconds. Four students make statements about the motion. Which student’s statement is correct?",
+    "opts": [
+      "Student R",
+      "Student S",
+      "Student P",
+      "Student Q"
+    ],
+    "ans": 2,
+    "exp": "Student P is correct. Average velocity is (0 + 30)/2 = 15 m/s, and instantaneous velocity at t = 60s is 30 m/s."
+  },
+  {
+    "q": "Two particles start from the same point at the same time. Particle A starts from rest and accelerates uniformly at 2 m/s², while particle B moves with a constant velocity of 10 m/s. After how many seconds the two particles will be at the same position again, other than t = 0?",
+    "opts": [
+      "10 s",
+      "12 s",
+      "5 s",
+      "8 s"
+    ],
+    "ans": 0,
+    "exp": "xA = 0.5 * a * t² = t², xB = 10t. Setting xA = xB gives t = 10 s."
+  },
+  {
+    "q": "A vehicle accelerates uniformly from time t1 to t2, moves with constant velocity from time t2 to t3, and decelerates uniformly from t3 to t4. In which time interval are instantaneous and average acceleration both zero?",
+    "opts": [
+      "Between t1 to t2",
+      "Between t2 to t3",
+      "Between t3 to t4",
+      "Between t1 to t4"
+    ],
+    "ans": 1,
+    "exp": "When velocity is constant, both instantaneous and average acceleration are zero."
+  },
+  {
+    "q": "The velocity-time graph of a body moving in straight line is shown in figure below. What is the displacement travelled by the body in 20 seconds?<br><img src='https://i.ibb.co/RTHPmm5Z/Screenshot-20260612-121152-One-Drive.jpg' class='my-4 max-w-full rounded-lg shadow-md'>",
+    "opts": [
+      "138 m",
+      "142 m",
+      "162 m",
+      "182 m"
+    ],
+    "ans": 1,
+    "exp": "Displacement is the area under the v-t graph. Area = 0.5 * (10 - 2) * 12 + (16 - 10) * 12 + 0.5 * (20 - 16) * 12 = 48 + 72 + 24 = 144 m. The closest option to 144 m is 142 m."
+  },
+  {
+    "q": "A ball is thrown vertically upward from the top of a 15 m high tower with an initial speed of 10 m/s. Neglecting air resistance, how long does it take for the ball to reach the ground?",
+    "opts": [
+      "3 s",
+      "4 s",
+      "5 s",
+      "2 s"
+    ],
+    "ans": 0,
+    "exp": "y = y0 + v0*t - 0.5*g*t² => 0 = 15 + 10t - 5t² => t² - 2t - 3 = 0 => t = 3 s."
+  },
+  {
+    "q": "Two projectiles are launched with equal speeds at complementary angles (θ and 90° − θ), where the two launch angles are not equal. A student concludes that their maximum heights must be equal. How should this conclusion be judged?",
+    "opts": [
+      "Incorrect, because acceleration at the peaks differs",
+      "Correct, because both projectiles have equal ranges",
+      "Correct, because horizontal velocity components are equal",
+      "Incorrect, because maximum height depends on vertical velocity"
+    ],
+    "ans": 3,
+    "exp": "Maximum height depends on the vertical velocity component (u sinθ), which differs for complementary angles."
+  },
+  {
+    "q": "A ball is projected at certain angle with initial velocity u, covers horizontal range R. With what initial velocity it should be projected keeping the angle of projection the same so that its horizontal range becomes 2.25R?",
+    "opts": [
+      "2.5u",
+      "1.5u",
+      "2.25u",
+      "0.25u"
+    ],
+    "ans": 1,
+    "exp": "Range is proportional to u². For range to increase by 2.25, velocity must increase by √2.25 = 1.5 times."
+  },
+  {
+    "q": "A ball attached to the end of a string moves with uniform circular motion in counterclockwise horizontal circle, where the centripetal force is provided by the tension in the string. At point where the string suddenly breaks as shown in figure below. Which of the labeled curves (A, B, C, or D) best represents the path the ball follows immediately after the string breaks?<br><img src='https://i.ibb.co/k68V60xj/Screenshot-20260612-121228-One-Drive.jpg' class='my-4 max-w-full rounded-lg shadow-md'>",
+    "opts": [
+      "Curve A",
+      "Curve D",
+      "Curve B",
+      "Curve C"
+    ],
+    "ans": 2,
+    "exp": "At the instant the string breaks, centripetal force vanishes, and the ball continues in a straight line tangent to its path (Curve B)."
+  },
+  {
+    "q": "A rigid disc rotates about its center. If one particle on the rim sweeps an angular displacement of θ radians, what can be concluded about a particle located halfway between the center and the rim during the same time interval?",
+    "opts": [
+      "It sweeps a smaller angular displacement and travels a longer arc length",
+      "It sweeps the same angular displacement but travels a shorter arc length",
+      "It sweeps a smaller angular displacement but travels the same arc length",
+      "It sweeps the same angular displacement and travels the same arc length"
+    ],
+    "ans": 1,
+    "exp": "Every point on a rigid body sweeps the same angular displacement, but points closer to the center travel a shorter linear arc length."
+  },
+  {
+    "q": "A wheel initially at rest increases its angular velocity to 80 rad/s after 5 seconds. The total angular displacement is:",
+    "opts": [
+      "400 rad",
+      "800 rad",
+      "100 rad",
+      "200 rad"
+    ],
+    "ans": 3,
+    "exp": "θ = 0.5 * (ω0 + ω) * t = 0.5 * (0 + 80) * 5 = 200 rad."
+  },
+  {
+    "q": "A satellite orbits Earth in a circular path with a period of 8 hours. If the orbital radius is increased to four times its original value, what will be the new orbital period?",
+    "opts": [
+      "16 hours",
+      "24 hours",
+      "64 hours",
+      "32 hours"
+    ],
+    "ans": 2,
+    "exp": "By Kepler's Third Law (T² ∝ r³): (T'/8)² = 4³ = 64 => T'/8 = 8 => T' = 64 hours."
+  },
+  {
+    "q": "A spacecraft hovers near a planet whose mass is twice that of Earth and radius 1.5 times larger than Earth’s. The gravitational force experienced by the spacecraft compared to that near Earth is:",
+    "opts": [
+      "8/9 of the gravitational force on Earth",
+      "3/2 of the gravitational force on Earth",
+      "4/9 of the gravitational force on Earth",
+      "Twice the gravitational force on Earth"
+    ],
+    "ans": 0,
+    "exp": "F ∝ M/r². F_new = 2 / 1.5² = 2 / 2.25 = 8/9 of F_earth."
+  },
+  {
+    "q": "Students are asked to create a working model that applies Newton’s third law in transportation. Which design BEST represents the principle clearly?",
+    "opts": [
+      "Create a solar-powered fan car that moves using a rotating blade",
+      "Design a gravity-powered cart that rolls down an inclined surface",
+      "Construct a rubber-band powered car that pulls itself forward mechanically",
+      "Build a balloon-powered vehicle that moves forward as air escapes backward"
+    ],
+    "ans": 3,
+    "exp": "Air escaping backward (action) generates an equal and opposite force pushing the balloon car forward (reaction)."
+  },
+  {
+    "q": "According to Newton’s second law in momentum form, if the net force on a body is zero, the momentum of the body:",
+    "opts": [
+      "Remains constant",
+      "Increase steadily",
+      "Decrease gradually",
+      "Change direction"
+    ],
+    "ans": 0,
+    "exp": "F = dp/dt. If net force F = 0, rate of change of momentum is zero, meaning momentum is constant."
+  },
+  {
+    "q": "Two blocks, A and B, each with mass of 10 kg, are connected by a light, inextensible string over a frictionless pulley. Block A rests on a 37° incline with coefficient of kinetic friction (μk = 0.2) as shown in figure below. What is the acceleration of the system?<br><img src='https://i.ibb.co/1tgvnMvT/Screenshot-20260612-121256-One-Drive.jpg' class='my-4 max-w-full rounded-lg shadow-md'>" ,
+    "opts": [
+      "1.20 m/s2",
+      "4.13 m/s2",
+      "2.52 m/s2",
+      "4.51 m/s2"
+    ],
+    "ans": 0,
+    "exp": "Net force = m_B*g - m_A*g*sin(37) - μk*m_A*g*cos(37) = 100 - 60 - 16 = 24 N. Total mass = 20 kg. Acceleration = 24/20 = 1.20 m/s²."
+  },
+  {
+    "q": "Two systems oscillate with negligible friction: a simple pendulum and a spring-mass system. Considering their energy transformations, which statement most accurately represents their energy behavior?",
+    "opts": [
+      "Energy remains entirely kinetic in both systems except at extreme positions",
+      "The spring system loses mechanical energy faster than the pendulum system",
+      "Only the pendulum exchanges kinetic energy while the spring stores constant energy",
+      "Both systems continuously exchange kinetic energy with potential energy during motion"
+    ],
+    "ans": 3,
+    "exp": "Both are conservative harmonic oscillators that continuously convert potential energy to kinetic energy and vice versa."
+  },
+  {
+    "q": "A person leans against a wall and pushes hard, but the wall does not move. Later, the same person pushes a cart forward and it moves straight ahead. In which case is work done by the person?",
+    "opts": [
+      "Work is done in both cases because both involves a horizontal force",
+      "Work is done only when pushing the wall because more effort is used",
+      "No work is done in both cases because force is normal to displacement",
+      "Work is done only when pushing the cart because displacement occurs"
+    ],
+    "ans": 3,
+    "exp": "Work is only done when there is a displacement in the direction of the force."
+  },
+  {
+    "q": "A 0.2 kg tennis ball moving at v = 40 m/s is hit a wall and bounces back reversing its direction at v = 40 m/s as shown in the figure below. What is the magnitude of the impulse imparted to the ball?<br><img src='https://i.ibb.co/wFGQ4hsp/Screenshot-20260612-121324-One-Drive.jpg' class='my-4 max-w-full rounded-lg shadow-md'>",
+    "opts": [
+      "12 Ns",
+      "16 Ns",
+      "4 Ns",
+      "0 Ns"
+    ],
+    "ans": 1,
+    "exp": "Impulse J = m * Δv = 0.2 * (40 - (-40)) = 16 Ns."
+  },
+  {
+    "q": "A wedge of length 30 cm and thickness 6 cm is used to lift a load of 900 N with an effort of 300 N. What is its efficiency?",
+    "opts": [
+      "50 %",
+      "60 %",
+      "75 %",
+      "90 %"
+    ],
+    "ans": 1,
+    "exp": "MA = 900/300 = 3, VR = 30/6 = 5. Efficiency = MA/VR * 100% = 60%."
+  },
+  {
+    "q": "Which statement best distinguishes true weight from apparent weight?",
+    "opts": [
+      "True weight is measured in a fluid while apparent weight is measured in air",
+      "True weight changes with depth while apparent weight remains constant everywhere",
+      "True weight depends on liquid density while apparent weight does not depend on density",
+      "True weight is the gravitational force while apparent weight is the reduced weight in a fluid"
+    ],
+    "ans": 3,
+    "exp": "True weight is the gravitational pull of the Earth, whereas apparent weight is the supporting normal/tension force (reduced in fluids due to buoyancy)."
+  },
+  {
+    "q": "Gauge pressure is best described as:",
+    "opts": [
+      "The total pressure acting on submerged surface",
+      "The pressure due to the density of a liquid only",
+      "The pressure measured relative to atmospheric pressure",
+      "The pressure measured relative to perfect vacuum condition"
+    ],
+    "ans": 2,
+    "exp": "Gauge pressure measures the pressure relative to local atmospheric pressure."
+  },
+  {
+    "q": "You are asked to design an experiment to demonstrate that pressure in a fluid increases with depth. Which setup would best illustrate this principle?",
+    "opts": [
+      "A vertical tube filled with water, having holes at different depths to compare leakage rates",
+      "A tilted glass partially filled with water, observing which side spills first as the water moves",
+      "A horizontal tube filled with water, open at one end, used to measure the flow speed of water",
+      "A u-shaped tube partially filled with water, with pressure measured only at the top using a gauge"
+    ],
+    "ans": 0,
+    "exp": "Water streams out faster and further from lower holes because pressure is greater at greater depths."
+  },
+  {
+    "q": "A hydraulic lift is used to lift a car. The small piston has a radius of 5 cm and large piston has radius 50 cm. If a driver applies a force of 88 N to the small piston, what is the weight of the car the larger piston can support?<br><img src='https://i.ibb.co/b5hryq7J/Screenshot-20260612-121353-One-Drive.jpg' class='my-4 max-w-full rounded-lg shadow-md'>",
+    "opts": [
+      "880 N",
+      "88 N",
+      "88000 N",
+      "8800 N"
+    ],
+    "ans": 3,
+    "exp": "F2 = F1 * (A2/A1) = F1 * (R2/R1)² = 88 * (50/5)² = 88 * 100 = 8800 N."
+  },
+  {
+    "q": "A solid sphere floats fully submerged in a liquid. According to Archimedes’ principle, which statement about the sphere’s density is correct?",
+    "opts": [
+      "Sphere density = liquid density",
+      "Sphere density > liquid density",
+      "Sphere density < liquid density",
+      "Sphere density ≥ liquid density"
+    ],
+    "ans": 0,
+    "exp": "For an object floating fully submerged (neutral buoyancy), the average density of the object equals the fluid density."
+  },
+  {
+    "q": "A hose with diameter 4 cm delivers water at a speed of 2 m/s. The hose is connected to a nozzle of diameter 2 cm. What is the speed of water in the nozzle?",
+    "opts": [
+      "16 m/s",
+      "12 m/s",
+      "4 m/s",
+      "8 m/s"
+    ],
+    "ans": 3,
+    "exp": "A1v1 = A2v2 => (d1)²v1 = (d2)²v2 => 16*2 = 4*v2 => v2 = 8 m/s."
+  },
+  {
+    "q": "The process of using high pressure to kill or stop bacteria in food and increase its shelf life is called:",
+    "opts": [
+      "Sterilization",
+      "Fermentation",
+      "Pascalization",
+      "Pasteurization"
+    ],
+    "ans": 2,
+    "exp": "Pascalization preserves food by applying ultra-high hydrostatic pressure."
+  },
+  {
+    "q": "Two substances, X and Y, each of mass 1 kg, undergo a temperature increase of 10 K. Substance X has specific heat 500 J/(kg K) and substance Y has specific heat 800 J/(kg K). Which statement correctly evaluates the heat required?",
+    "opts": [
+      "Neither substance requires any heat to raise its temperature",
+      "Substance Y requires more heat because its specific heat is larger than X",
+      "Substance X requires more heat because its specific heat is smaller than Y",
+      "Both require the same heat since their masses and temperature changes are equal"
+    ],
+    "ans": 1,
+    "exp": "Q = mcΔT. Under identical m and ΔT, the substance with higher specific heat capacity requires more heat."
+  },
+  {
+    "q": "A steel bridge is 100 m long at 20°C. The linear expansion coefficient of steel is 1.2 × 10⁻⁵ K⁻¹. What length will it reach at 40°C?",
+    "opts": [
+      "100.024 m",
+      "100.04 m",
+      "0.04 m",
+      "0.024 m"
+    ],
+    "ans": 0,
+    "exp": "ΔL = α L0 ΔT = (1.2e-5)(100)(20) = 0.024 m. L = 100.024 m."
+  },
+  {
+    "q": "During phase change, a substance is at temperature and pressure above its critical point. Which statement correctly describes its properties?",
+    "opts": [
+      "It exhibits both liquid-like and gas-like fluidity",
+      "It behaves as a liquid only, with a constant density",
+      "It solidifies immediately due to very high pressure",
+      "It behaves as a gas only, expanding to fill its container"
+    ],
+    "ans": 0,
+    "exp": "Above the critical point, supercritical fluids possess both gas-like transport properties and liquid-like solvent properties."
+  },
+  {
+    "q": "You are tasked with redesigning the calorimetry experiment to minimize systematic heat loss. Which redesigned procedure best integrates multiple heat-loss prevention strategies?",
+    "opts": [
+      "Heat metal longer, transfer slowly, use less water, stir uncovered",
+      "Preheat calorimeter, transfer slowly, use more water, leave lid off",
+      "Insulate calorimeter, dry and transfer metal quickly, cover immediately, stir gently",
+      "Calibrate with known metal first, keep calorimeter open, transfer slowly, stir uncovered"
+    ],
+    "ans": 2,
+    "exp": "Insulation, rapid transfer, immediate sealing, and gentle stirring collectively prevent heat exchange with the surroundings."
+  },
+  {
+    "q": "Which statement correctly defines latent heat of fusion?",
+    "opts": [
+      "Energy required to change temperature of solid by one kelvin",
+      "Energy released when a solid is heated above its melting point",
+      "Heat required to change a liquid into gas at constant temperature",
+      "Total heat absorbed when a solid melts at constant temperature"
+    ],
+    "ans": 3,
+    "exp": "Latent heat of fusion is the total thermal energy absorbed during a phase change from solid to liquid at constant temperature."
+  },
+  {
+    "q": "A traffic light weighing 100 N hangs from vertical cables that are fastened to support. The upper cables make angles of 37° and 53° with the horizontal as shown in the figure below. What is the tension in T1 and T2 of cables respectively?<br><img src='https://i.ibb.co/5g5dWd90/Screenshot-20260612-121421-One-Drive.jpg' class='my-4 max-w-full rounded-lg shadow-md'>",
+    "opts": [
+      "60 N, 80 N",
+      "80 N, 60 N",
+      "35 N, 100 N",
+      "100 N, 35 N"
+    ],
+    "ans": 0,
+    "exp": "T1 cos 37 = T2 cos 53 => 0.8 T1 = 0.6 T2 => T1 = 0.75 T2. T1 sin 37 + T2 sin 53 = 100 => 0.6(0.75 T2) + 0.8 T2 = 100 => 1.25 T2 = 100 => T2 = 80 N, T1 = 60 N."
+  },
+  {
+    "q": "A copper wire has a resistance of 15 Ω and is connected to a 120 V supply. Due to heating, its resistance increases to 20 Ω while the voltage remains constant. What is the change in current?",
+    "opts": [
+      "8 A",
+      "6 A",
+      "3 A",
+      "2 A"
+    ],
+    "ans": 3,
+    "exp": "I_initial = 120/15 = 8 A, I_final = 120/20 = 6 A. Change = 8 - 6 = 2 A."
+  },
+  {
+    "q": "When identical resistors are connected in series and then reconnected in parallel to the same battery, how does the total current supplied by the battery compare?",
+    "opts": [
+      "The total current becomes zero in parallel",
+      "The total current is the same in both arrangements",
+      "The total current is greater in parallel than in series",
+      "The total current is smaller in parallel than in series"
+    ],
+    "ans": 2,
+    "exp": "In parallel, the equivalent resistance decreases, which increases the total current drawn from the battery."
+  },
+  {
+    "q": "Three charges Q1 = q, Q2 = 3q, and Q3 = −q are placed in a horizontal line. The charges are spaced equally by a distance d as shown in the figure below. What is the net force on the charge Q2?<br><img src='https://i.ibb.co/vxrWC8GZ/Screenshot-20260612-121452-One-Drive.jpg' class='my-4 max-w-full rounded-lg shadow-md'>",
+    "opts": [
+      "4kq²/d² to the right",
+      "6kq²/d² to the right",
+      "6kq²/d² to the left",
+      "Zero"
+    ],
+    "ans": 1,
+    "exp": "Q1 repels Q2 to the right with 3kq²/d², and Q3 attracts Q2 to the right with 3kq²/d², summing to 6kq²/d² to the right."
+  },
+  {
+    "q": "Five capacitors, each of capacitance 1 μF, are connected as shown in the figure below. The equivalent capacitance between A and B is:<br><img src='https://i.ibb.co/ymQfN8nT/Screenshot-20260612-121516-One-Drive.jpg' class='my-4 max-w-full rounded-lg shadow-md'>",
+    "opts": [
+      "2 μF",
+      "0.5 μF",
+      "3 μF",
+      "5 μF"
+    ],
+    "ans": 1,
+    "exp": "Parallel pairs are 1+1 = 2 μF. In series: 1/C_eq = 1/2 + 1/1 + 1/2 = 2 => C_eq = 0.5 μF."
+  },
+  {
+    "q": "In the circuit shown below, the current in the 1 Ω resistor is:<br><img src='https://i.ibb.co/RkrpP3r7/Screenshot-20260612-121540-One-Drive.jpg' class='my-4 max-w-full rounded-lg shadow-md'>",
+    "opts": [
+      "1.3 A, from P to Q",
+      "0 A",
+      "0.13 A, from Q to P",
+      "0.13 A, from P to Q"
+    ],
+    "ans": 1,
+    "exp": "Since the bridge is balanced, the potential difference across the central 1 Ω branch is zero, resulting in zero current."
+  },
+  {
+    "q": "Figure below shows a ray of light as it travels from medium A to medium B. Refractive index of the medium B relative to medium A is:<br><img src='https://i.ibb.co/yFkd1YDM/Screenshot-20260612-121607-One-Drive.jpg' class='my-4 max-w-full rounded-lg shadow-md'>",
+    "opts": [
+      "√2 / √3",
+      "√3 / √2",
+      "1 / √2",
+      "√2 / 1"
+    ],
+    "ans": 2,
+    "exp": "By Snell's Law, nB/nA = sin(θA)/sin(θB) = sin(30°)/sin(45°) = (1/2)/(1/v2) = 1/v2."
+  },
+  {
+    "q": "An object 10 cm tall is placed 30 cm from a concave mirror of focal length 20 cm. The size of the image is:",
+    "opts": [
+      "15 cm",
+      "20 cm",
+      "30 cm",
+      "25 cm"
+    ],
+    "ans": 1,
+    "exp": "1/f = 1/v + 1/u => 1/20 = 1/v + 1/30 => v = 60 cm. Magnification |m| = v/u = 60/30 = 2. Size = 2 * 10 = 20 cm."
+  },
+  {
+    "q": "The intensity of sound at 2 m from a point source is 8 × 10⁻⁴ W/m². What would be the intensity at 4 m from the same source, assuming no energy loss?",
+    "opts": [
+      "2 × 10⁻⁴ W/m²",
+      "4 × 10⁻⁴ W/m²",
+      "1 × 10⁻³ W/m²",
+      "8 × 10⁻³ W/m²"
+    ],
+    "ans": 0,
+    "exp": "Intensity falls off with the square of distance (I ∝ 1/r²). Since the distance is doubled, intensity is quartered."
+  },
+  {
+    "q": "A long straight wire carries a current of 10 A. What is the magnetic field strength at a point 2 cm from the wire?",
+    "opts": [
+      "1.0 × 10⁻⁴ T",
+      "2.0 × 10⁻⁵ T",
+      "5.0 × 10⁻⁴ T",
+      "1.0 × 10⁻⁵ T"
+    ],
+    "ans": 0,
+    "exp": "B = μ0 I / 2πr = (4π × 10⁻⁷ * 10) / (2π * 0.02) = 1.0 × 10⁻⁴ T."
+  },
+  {
+    "q": "A student reverses the direction of current in a straight conductor and observes the compass near the wire. Which evaluation best explains the new observation?",
+    "opts": [
+      "Compass shows no deflection because reversing current removes magnetic field",
+      "Compass rotates randomly because reversing current destroys circular magnetic field",
+      "Compass deflects opposite because reversing current reverses magnetic field direction",
+      "Compass deflects same because reversing current does not change magnetic field direction"
+    ],
+    "ans": 2,
+    "exp": "Reversing current direction reverses the direction of the magnetic field per Oersted's rule, causing opposite compass deflection."
+  },
+  {
+    "q": "A coil of 100 turns and area 0.01 m² rotates in a uniform magnetic field of 0.5 T. The angle between the coil’s normal and the magnetic field changes from 30° to 60° in 0.1 s. What is the magnitude of induced electromotive force (EMF)?",
+    "opts": [
+      "1.33 V",
+      "1.83 V",
+      "2.00 V",
+      "2.55 V"
+    ],
+    "ans": 1,
+    "exp": "E = N * ΔΦ/Δt = N * B * A * (cos30 - cos60) / Δt = 100 * 0.5 * 0.01 * (0.866 - 0.5) / 0.1 = 1.83 V."
+  },
+  {
+    "q": "Which reason explains why transformers are commonly used in household power supply units?",
+    "opts": [
+      "To directly convert alternating current into direct current",
+      "To efficiently change voltage levels for many appliances",
+      "To generate electricity using mechanical motion of devices",
+      "To safely store large amount of electrical energy for later use"
+    ],
+    "ans": 1,
+    "exp": "Transformers allow voltage to be easily stepped down from high-voltage transmission lines to safer levels."
+  },
+  {
+    "q": "Magnetic induction in graphics tablets allows the device to:",
+    "opts": [
+      "Track the pen’s position without generating a signal",
+      "Store electrical energy to operate without being plugged in",
+      "Detect the pen’s movement and convert it into digital lines",
+      "Produce heat on the screen to improve visibility for drawing"
+    ],
+    "ans": 2,
+    "exp": "The stylus triggers changes in electromagnetic signals across the tablet, allowing precise tracking."
+  },
+  {
+    "q": "Scientists attempt to date a 100,000-year-old rock sample using carbon-14. The measured amount of the isotope is extremely small and the result is unreliable. Which evaluation best explains why this dating method is inappropriate?",
+    "opts": [
+      "The isotope stops decaying after many times",
+      "The decay rate of the isotope changes in different rocks",
+      "The half-life of carbon-14 is too short for such old samples",
+      "The rock contains too many minerals that prevent measurement"
+    ],
+    "ans": 2,
+    "exp": "The half-life of C-14 is only 5,730 years, meaning it decays beyond detection limits in samples older than 50,000 years."
+  },
+  {
+    "q": "A scientist compares two nuclear processes that releases energy: Process I: Two light nuclei combine to form a heavier nucleus. Process II: A heavy nucleus splits into two medium-mass nuclei. Which explanation best analyzes why energy is released in both processes?",
+    "opts": [
+      "In both processes, the product have greater binding energy per nucleon, and the resulting mass defect appears as released energy.",
+      "In both processes, neutrons are transferred or re distributed between nuclei, and this exchange directly produces the released energy observed.",
+      "In both processes, extreme temperature or nuclear instability causes nuclei to change structure, and that condition itself produces the released energy.",
+      "In both processes, unstable nuclei rearrange internally into more stable forms, and energy appears because nuclear forces are distributed during interaction."
+    ],
+    "ans": 0,
+    "exp": "Energy is released because the products in both fusion and fission have greater binding energy per nucleon than the original reactants."
+  },
+  {
+    "q": "The main practical difference between forward and reverse bias is:",
+    "opts": [
+      "Both forward and reverse bias completely stop current",
+      "Forward bias block current, reverse bias allows current",
+      "Forward bias allows current, reverse bias blocks most current",
+      "Both forward and reverse bias allow the same amount of current"
+    ],
+    "ans": 2,
+    "exp": "Forward bias enables simple current flow across a PN junction, whereas reverse bias acts to block it."
+  },
+  {
+    "q": "Two students compare ripple reduction in half-wave and full-wave rectifiers with identical capacitors filters. Which evaluation is correct?",
+    "opts": [
+      "Both rectifiers produce equally smooth DC when the capacitor is properly used",
+      "Half-wave rectifiers always produce smoother DC regardless of the capacitor values",
+      "Full-wave rectifiers cannot produce smoother DC without increasing the number of diodes",
+      "Full-wave rectifiers produce smoother DC because the capacitor charges twice in each cycle"
+    ],
+    "ans": 3,
+    "exp": "Because a full-wave rectifier charges the capacitor twice as often, there is less time for the voltage to drop between peaks."
+  },
+  {
+    "q": "The symbol given in figure below represents:<br><img src='https://i.ibb.co/Jj68PJXQ/Screenshot-20260612-121637-One-Drive.jpg' class='my-4 max-w-full rounded-lg shadow-md'>",
+    "opts": [
+      "NPN transistor",
+      "PNP transistor",
+      "PN junction diode",
+      "Photo diode"
+    ],
+    "ans": 1,
+    "exp": "The emitter arrow points inward (towards the base), which is the standard symbol for a PNP transistor."
+  },
+  {
+    "q": "A student is asked to design a two-input digital system that outputs 0 only when both inputs are 1 and outputs 1 for all other input combinations. Which of the following gates should the student select to correctly implement the design?",
+    "opts": [
+      "AND gate",
+      "OR gate",
+      "NOR gate",
+      "NAND gate"
+    ],
+    "ans": 3,
+    "exp": "This is the exact definition of a NAND gate."
+  },
+  {
+    "q": "Robotic check-ups, needle-free devices, and electronic aspirin are electronic applications in:",
+    "opts": [
+      "The aerospace and satellite control field",
+      "The agricultural and crop monitoring field",
+      "The medical and healthcare technology field",
+      "The automobile and transport engineering field"
+    ],
+    "ans": 2,
+    "exp": "These are advanced developments in medical and healthcare technology."
+  }
+]
