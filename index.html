@@ -391,8 +391,7 @@ const GITHUB_BASE_URL = "https://manunitedpro84-png.github.io/oromia-model-exams
         function renderQuestion(idx) {
             const item = activeQuestions[idx];
             document.getElementById('question-index-label').textContent = `Question ${idx + 1} of ${activeQuestions.length}`;
-            document.getElementById('question-text').textContent = item.q;
-
+            document.getElementById('question-text').innerHTML = item.q;
             const optionsBox = document.getElementById('options-container');
             optionsBox.innerHTML = '';
 
