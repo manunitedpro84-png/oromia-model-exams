@@ -627,7 +627,7 @@
     "exp": "A full-wave rectifier operates at twice the frequency of a half-wave rectifier, meaning the capacitor charges twice as often. This shorter discharge interval results in a significantly smaller ripple voltage."
   },
   {
-    "q": "The symbol given in figure below represents:<br><img src="https://i.ibb.co/Jj68PJXQ/Screenshot-20260612-121637-One-Drive.jpg" alt="Screenshot 20260612 121637 One Drive" border="0" class='my-4 max-w-full h-auto rounded-lg shadow-md'>",
+    "q": "The symbol given in figure below represents:<br><img src="https://i.ibb.co/Jj68PJXQ/Screenshot-20260612-121637-One-Drive.jpg" alt="Screenshot 20260612 121637 One Drive" class='my-4 max-w-full h-auto rounded-lg shadow-md'>" ,
     "opts": [
       "NPN transistor",
       "PNP transistor",
